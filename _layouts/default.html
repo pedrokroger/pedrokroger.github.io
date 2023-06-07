@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-br" data-bs-theme="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="Pedro Kroger">
+    <meta name="robots" content="noindex">
+
+    {% if page.title %}
+    <title>{{ site.title}} | {{ page.title }}</title>
+    {% else %}
+    <title>{{ site.title}}</title>
+    {% endif %}
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@700&display=swap" rel="stylesheet">
+
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/main.css" rel="stylesheet">
+
+  </head>
+  <body>
+    <nav class="navbar mb-4 py-3" style="background-color: #7FBEAB;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">{{ site.title }}</a>
+      </div>
+    </nav>
+
+    <main class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/main.js"></script>
+  </body>
+</html>
