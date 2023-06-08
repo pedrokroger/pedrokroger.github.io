@@ -12,7 +12,7 @@ século XX. Noções de Orquestração e técnicas de redução, bem como o estu
 analítico das texturas orquestrais, com audição de obras representativas desde o
 Barroco até o século XX.
 
-# Avaliação
+## Avaliação
 
 A avaliação final será soma de 4 trabalhos de orquestração orientados.
 
