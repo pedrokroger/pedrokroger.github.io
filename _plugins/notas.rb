@@ -4,7 +4,7 @@ module Notas
     priority :highest
 
     def generate(site)
-      pages = site.posts
+      pages = site.pages
 
       pages.each do |page|
         if page.path.include? ".md"
