@@ -2,6 +2,7 @@
 layout: page
 title: MUSB19 - Composição X
 permalink: /comp10/
+semestre: 2023.2
 ---
 
 Nesse semestre concluiremos a obra final de curso com duração mínima de 14
