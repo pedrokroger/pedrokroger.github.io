@@ -32,7 +32,7 @@ A obra deverá ter seguinte formação mínima: madeiras a 2, 2 trompas, 2
 trompetes, 2 trombones, tuba, 1 percussionista, solista vocal, coro, cordas.
 Você pode incluir mais instrumentos se desejar.
 
-{: .box-warning}
+{: .alert .alert-warning}
 É fundamental que a obra tenha características de uma obra vocal com coro.
 
 ## Monografia

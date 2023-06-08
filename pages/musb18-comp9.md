@@ -36,7 +36,7 @@ partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc).
 A obra deverá ter seguinte formação mínima, mas você pode incluir mais
 instrumentos se desejar:
 
-{: .box-warning}
+{: .alert .alert-warning}
 É fundamental que a obra tenha características de uma obra vocal com coro.
 
 - 2 Flautas

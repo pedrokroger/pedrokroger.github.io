@@ -12,7 +12,7 @@ musical ou outros temas de interesse para a formação de um músico profissiona
 Caso não tenham palestras ou defesas programadas no semestre, serão aceitas
 aulas fora do âmbito da escola de música.
 
-{: .box-warning}
+{: .alert .alert-warning}
 No contexto atual da pandemia, serão aceitos vídeos educacionais em plataformas
 digitais como o YouTube.
 
