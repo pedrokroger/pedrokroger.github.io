@@ -8,3 +8,5 @@ title: Aulas
 email: kroger@ufba.br
 description: Aulas de Pedro Kroger
 url: "https://pkroger.com"
+
+exclude: [antigos, Makefile]
