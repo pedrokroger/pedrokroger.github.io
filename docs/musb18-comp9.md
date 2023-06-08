@@ -2,6 +2,7 @@
 layout: page
 title: MUSB18 - Composição IX
 permalink: /comp9/
+semestre: 2023.1
 ---
 
 Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de

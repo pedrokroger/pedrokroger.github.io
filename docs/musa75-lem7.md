@@ -2,6 +2,7 @@
 layout: page
 title: MUSA75 - Literatura e Estruturação Musical VII
 permalink: /lem7/
+semestre: 2023.1
 ---
 
 Estudo das técnicas contrapontísticas e harmônicas complexas e das grandes

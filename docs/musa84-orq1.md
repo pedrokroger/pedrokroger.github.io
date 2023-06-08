@@ -2,6 +2,7 @@
 layout: page
 title: MUSA84 - Instrumentação e Orquestração I
 permalink: /orq1/
+semestre: 2023.1
 ---
 
 Conhecimento básico dos instrumentos da Orquestra Clássica de modo individual, e

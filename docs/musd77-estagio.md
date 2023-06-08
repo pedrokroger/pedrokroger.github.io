@@ -2,6 +2,7 @@
 layout: page
 title: MUSD77 - Estágio Supervisionado
 permalink: /estagio/
+semestre: 2023.1
 ---
 
 Essa é uma atividade sem aulas presenciais. O discente deverá trabalhar em

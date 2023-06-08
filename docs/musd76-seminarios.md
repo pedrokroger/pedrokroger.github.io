@@ -2,6 +2,7 @@
 layout: page
 title: MUSD76 - Seminários em Música
 permalink: /seminarios/
+semestre: 2023.1
 ---
 
 Essa é uma atividade sem aulas presenciais. O aluno deverá assistir palestras ou
