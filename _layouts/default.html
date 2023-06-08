@@ -8,9 +8,9 @@
     <meta name="robots" content="noindex">
 
     {% if page.title %}
-    <title>{{ site.title}} | {{ page.title }}</title>
+    <title>{{ page.title }}</title>
     {% else %}
-    <title>{{ site.title}}</title>
+    <title>{{ site.title }} {{ site.semestre }}</title>
     {% endif %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -24,7 +24,7 @@
   <body>
     <nav class="navbar mb-4 py-3" style="background-color: #7FBEAB;">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">{{ site.title }}</a>
+        <a class="navbar-brand" href="/">{{ site.title }} {{ site.semestre }}</a>
       </div>
     </nav>
 

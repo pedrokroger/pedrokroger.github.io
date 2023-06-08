@@ -3,7 +3,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aulas 2023.1
+semestre: 2023.1
+title: Aulas
 email: kroger@ufba.br
 description: Aulas de Pedro Kroger
 url: "https://pkroger.com"
