@@ -20,8 +20,8 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 
 | Nome                | T1 (2) | T2(2) | T3 (3) | T4 (3) | Nota Final |
 |---------------------|--------|-------|--------|--------|------------|
-| Izã Teixeira Santos |  2.0   | 2.0   |        |        | =sum       |
-| Luan Felipe Tavares |  2.0   | 2.0   |        |        | =sum       |
+| Izã Teixeira Santos | 2.0    | 2.0   | 3.0    |        | =sum       |
+| Luan Felipe Tavares | 2.0    | 2.0   | 3.0    |        | =sum       |
 
 
 ## Trabalhos
