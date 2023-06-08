@@ -71,37 +71,38 @@ instrumentos se desejar:
 
 A monografia será trabalhada nas aulas de composição.
 
-- [Template da Monografia](/assets/doc/Template.docx)
 - [Monografia de Marcos][10]
+- [Template da Monografia][11]
 
 [10]: https://www.icloud.com/iclouddrive/05eWqDQICE5DhqCRJh7LxuoBw#Monografia_Marcos_Sampaio
-
+[11]: https://www.dropbox.com/scl/fi/ljxzu5imnuicne8gsfp9q/Template.docx?dl=0&rlkey=cplhwh3g30et2z2f9541jcyrx
 
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data   | Conteúdo                                               |
-|--------|--------------------------------------------------------|
-| Mar 16 | <del>Congresso da UFBA</del>                           |
-| Mar 23 | Introdução ao curso                                    |
-| Mar 30 | Apreciação de obras do século 21                       |
-| Abr 6  | <del>Semana Santa</del>                                |
-|        | **Tarefa Assíncrona**: [Vídeo Texto na Composição][30] & Material sobre Texto    |
-| Abr 13 | Análise e introdução a versificação                    |
-| Abr 20 | **Composição 1 minuto (1pt)**                          |
-| Abr 27 | _Acompanhamento da composição_                         |
-| Mai 4  | **Composição 2 minutos (1pt)**                         |
-| Mai 11 | _Acompanhamento da composição_                         |
-| Mai 18 | **Composição 3 minutos (1pt)**                         |
-| Mai 25 | **Composição 4 minutos (1pt)**                         |
-| Jun 1  | **Composição 5 minutos (2pt)**                         |
-| Jun 8  | <del>Corpus Christi</del>                              |
-| Jun 15 | **Composição 6 minutos (2pt)**                         |
-| Jun 22 | <del>São João</del>                                    |
-| Jun 29 | **Composição 7 minutos (2pt)**                         |
-| Jul 6  | _Reservado para 2a chamada, etc_                       |
-| Jul 13 | _Entrega de resultados (online)_                       |
+| Data   | Conteúdo                                                                      |
+|--------|-------------------------------------------------------------------------------|
+| Mar 16 | <del>Congresso da UFBA</del>                                                  |
+| Mar 23 | Introdução ao curso                                                           |
+| Mar 30 | Apreciação de [obras do século 21][31]                                        |
+| Abr 6  | <del>Semana Santa</del>                                                       |
+|        | **Tarefa Assíncrona**: [Vídeo Texto na Composição][30] & Material sobre Texto |
+| Abr 13 | Análise e introdução a versificação                                           |
+| Abr 20 | **Composição 1 minuto (1pt)**                                                 |
+| Abr 27 | _Acompanhamento da composição_                                                |
+| Mai 4  | **Composição 2 minutos (1pt)**                                                |
+| Mai 11 | _Acompanhamento da composição_                                                |
+| Mai 18 | **Composição 3 minutos (1pt)**                                                |
+| Mai 25 | **Composição 4 minutos (1pt)**                                                |
+| Jun 1  | **Composição 5 minutos (2pt)**                                                |
+| Jun 8  | <del>Corpus Christi</del>                                                     |
+| Jun 15 | **Composição 6 minutos (2pt)**                                                |
+| Jun 22 | <del>São João</del>                                                           |
+| Jun 29 | **Composição 7 minutos (2pt)**                                                |
+| Jul 6  | _Reservado para 2a chamada, etc_                                              |
+| Jul 13 | _Entrega de resultados (online)_                                              |
 
 [30]: https://www.youtube.com/watch?v=G77TeUWKSQs
+[31]: /pages/sec21/

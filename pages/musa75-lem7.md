@@ -36,9 +36,44 @@ Materiais usados na sala de aula:
 
 A avaliação final será a soma de 4 notas:
 
- - 1 [prova de audição](/audicao/) e análise (3 pontos): Kostka cap 11–12, 16—19, 21—24
+ - 1 prova de audição e análise (3 pontos): Kostka cap 11–12, 16—19, 21—24
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
+
+{% comment %}
+
+### Prova de Audição
+
+Na parte de audição das obras você deverá identificar o nome da obra, o
+compositor, a data aproximada da obra e a data aproximada do compositor.
+
+♬ [Gravações para a prova de audição][30]
+
+[30]: https://www.dropbox.com/s/3muk9hutongf9we/LEM%207%20Musicas%20para%20Prova%20de%20Audicao.zip?dl=0
+
+Lista de Obras:
+
+1. Monteverdi Lamento d'Arianna - Lasciatemi morire (1614)
+1. Bach, A Arte da Fuga, Contrapunctus 9 (~1740)
+1. Bach, A Oferenda Musical, Ricercare a 6 (1747)
+1. Giovanni Gabrieli, Exaudi me Domine (1615)
+1. Monteverdi, Lamento della ninfa (1638)
+1. Palestrina, Moteto Sicut cervus (1590?)
+1. Palestrina, Missa L'homme arme, Kyrie (1590?)
+1. Machaut, La Messe de Nostre Dame, Kyrie (~1365)
+1. Machaut, Ma fin est mon commencement (1340?)
+1. William Byrd, Agnus Dei - Missa a 5
+
+Compositores:
+
+- Guillaume de Machaut (c. 1300–1377)
+- Giovanni Pierluigi da Palestrina (c. 1525–1594)
+- William Byrd (~1543–1623)
+- Giovanni Gabrieli (~1554–1612)
+- Claudio Giovanni Antonio Monteverdi (1567-1643)
+- J. S. Bach (1685-1750)
+
+{% endcomment %}
 
 ### Análise de Obra
 
@@ -67,20 +102,20 @@ Os elementos a serem analisados:
 | Tássio Santos       | Tallis - Lamentação de Jeremias        | [P][21]            | [G][20]            |
 
 
-[10]: /assets/lem7/Guerrero - Salve Regina 1.mp3
-[11]: /assets/lem7/Guerrero - Salve Regina 1.pdf
-[12]: /assets/lem7/Guerrero - Salve Regina 2.mp3
-[13]: /assets/lem7/Guerrero - Salve Regina 2.pdf
-[14]: /assets/lem7/Lassus - Missa Doulce mémoire - Kyrie.mp3
-[15]: /assets/lem7/Lassus - Missa Doulce mémoire - Kyrie.pdf
-[16]: /assets/lem7/Nicolas Gombert - In Te Domine Speravi.mp3
-[17]: /assets/lem7/Nicolas Gombert - In Te Domine Speravi.pdf
-[18]: /assets/lem7/Palestrina - Missa Sine Nomine 1 - Kyrie.mp3
-[19]: /assets/lem7/Palestrina - Missa Sine Nomine 1 - Kyrie.pdf
-[20]: /assets/lem7/Tallis - Lamentacao Jeremias.mp3
-[21]: /assets/lem7/Tallis - Lamentacao Jeremias.pdf
-[22]: /assets/lem7/Willaert - Ave regina coelorum 1.mp3
-[23]: /assets/lem7/Willaert - Ave regina coelorum 1.pdf
+[10]: https://www.dropbox.com/s/frzzauknj89qiex/Guerrero%20-%20Salve%20Regina%201.mp3?dl=0
+[11]: https://www.dropbox.com/s/kwtvs1yy3wnha9h/Guerrero%20-%20Salve%20Regina%201.pdf?dl=0
+[12]: https://www.dropbox.com/s/52thoic9xm6srj0/Guerrero%20-%20Salve%20Regina%202.mp3?dl=0
+[13]: https://www.dropbox.com/s/gs3krtpme0vgq27/Guerrero%20-%20Salve%20Regina%202.pdf?dl=0
+[14]: https://www.dropbox.com/s/qm9y6pdorqio9x1/Lassus%20-%20Missa%20Doulce%20m%C3%A9moire%20-%20Kyrie.mp3?dl=0
+[15]: https://www.dropbox.com/s/9h2pc4bqu8ns9sa/Lassus%20-%20Missa%20Doulce%20m%C3%A9moire%20-%20Kyrie.pdf?dl=0
+[16]: https://www.dropbox.com/s/bw2jl3x8c5k2pbr/Nicolas%20Gombert%20-%20In%20Te%20Domine%20Speravi.mp3?dl=0
+[17]: https://www.dropbox.com/s/yf22iolf62s3scd/Nicolas%20Gombert%20-%20In%20Te%20Domine%20Speravi.pdf?dl=0
+[18]: https://www.dropbox.com/s/c36j1ai72udzrwr/Palestrina%20-%20Missa%20Sine%20Nomine%201%20-%20Kyrie.mp3?dl=0
+[19]: https://www.dropbox.com/s/g5j0ec1t4o7j9su/Palestrina%20-%20Missa%20Sine%20Nomine%201%20-%20Kyrie.pdf?dl=0
+[20]: https://www.dropbox.com/s/8sayn47qobfj1jw/Tallis%20-%20Lamentacao%20Jeremias.mp3?dl=0
+[21]: https://www.dropbox.com/s/6bodn138owpntsr/Tallis%20-%20Lamentacao%20Jeremias.pdf?dl=0
+[22]: https://www.dropbox.com/s/ic94lro5499ypdo/Willaert%20-%20Ave%20regina%20coelorum%201.mp3?dl=0
+[23]: https://www.dropbox.com/s/bj0ag06gyqgowz1/Willaert%20-%20Ave%20regina%20coelorum%201.pdf?dl=0
 
 
 ### Tópicos para os Seminários
