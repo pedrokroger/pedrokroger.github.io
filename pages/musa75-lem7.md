@@ -124,12 +124,9 @@ dúvidas individuais.
 |        | _Gleise, Tássio_                                   |
 | Mai 30 | Introdução aos Seminários                          |
 |        | Tassio, Elisio, Antonio, Leonardo                  |
-| Jun 6  | **Seminários**                                     |
-|        | Gleise                                             |
-| Jun 13 | **Seminários**                                     |
-|        | Leonardo, Antonio                                  |
-| Jun 20 | **Seminários**                                     |
-|        | Tássio, Elisio                                     |
+| Jun 6  | **Seminários**: Gleise                             |
+| Jun 13 | **Seminários**: Leonardo, Antonio                  |
+| Jun 20 | **Seminários**: Tássio, Elisio                     |
 | Jun 27 | <del>São João</del>                                |
 | Jul 4  | **Seminários**                                     |
 | Jul 6  | _Reservado para 2a chamada e reposição_            |
