@@ -120,7 +120,7 @@ Os elementos a serem analisados:
 
 ### Tópicos para os Seminários
 
-- Moteto
+- Moteto - Diana
 - Madrigal - Tássio
 - Palestrina
 - Renascimento vs Barroco - Gleise
@@ -160,10 +160,10 @@ dúvidas individuais.
 | Mai 30 | Introdução aos Seminários                          |
 |        | Tassio, Elisio, Antonio, Leonardo                  |
 | Jun 6  | **Seminários**: Gleise                             |
-| Jun 13 | **Seminários**: Leonardo, Antonio                  |
+| Jun 13 | **Seminários**: Antonio                            |
 | Jun 20 | **Seminários**: Tássio, Elisio                     |
 | Jun 27 | <del>São João</del>                                |
-| Jul 4  | **Seminários**                                     |
+| Jul 4  | **Seminários**: Leonardo, Diana                    |
 | Jul 6  | _Reservado para 2a chamada e reposição_            |
 | Jul 11 | _Reservado para 2a chamada e reposição_            |
 | Jul 13 | _Entrega de resultados (online)_                   |
