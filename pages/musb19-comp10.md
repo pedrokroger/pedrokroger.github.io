@@ -8,23 +8,14 @@ semestre: 2023.2
 Nesse semestre concluiremos a obra final de curso com duração mínima de 14
 minutos.
 
-## Horário
-
-As aulas serão nas **terças das 16:40 as 17:35** na sala 204.
-
-Teremos um encontro virtual extra das 18:00 as 19:00 nas terças para
-complementar as aulas presenciais.
-
-[Link para encontro virtual no Google Meet](https://meet.google.com/aow-awuy-jbk?hs=122&authuser=0)
-
 ## Avaliação
 
 A nota final será determinada pela banca composta por três docentes. Você deve
 entregar um pdf da partitura com mp3 e um pdf da monografia. A obra deverá ter a
 duração mínima de 14 minutos.
 
-{: .box-error}
-A obra final e monografia devem ser entregues até **22 de novembro.**
+{: .alert .alert-warning }
+A obra final e monografia devem ser entregues até **23 de novembro.**
 
 ### Formação da Orquestra
 
@@ -35,41 +26,75 @@ Você pode incluir mais instrumentos se desejar.
 {: .alert .alert-warning}
 É fundamental que a obra tenha características de uma obra vocal com coro.
 
+## Formação da Orquestra
+
+A obra deverá ter seguinte formação mínima, mas você pode incluir mais
+instrumentos se desejar:
+
+{: .alert .alert-warning}
+É fundamental que a obra tenha características de uma obra vocal com coro.
+
+- 2 Flautas
+- 2 Oboes
+- 2 Clarinetes em Bb
+- 2 Fagotes
+- 2 Trompas,
+- 2 Trompetes em Dó,
+- 2 Trombones
+- 1 Tuba
+- 1 Percussionista
+- 1 Solista Vocal
+- Coro
+- Corda
+
+## Materiais
+
+- [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
+
+## Texto
+
+- [Métrica (poesia)](http://pt.wikipedia.org/wiki/Métrica_(poesia))
+- [Rima](http://pt.wikipedia.org/wiki/Rima)
+- [Ritmo (ver poesia)](http://pt.wikipedia.org/wiki/Ritmo)
+- [Ritmo no poema](http://pt.wikipedia.org/wiki/Ritmo_no_poema)
+- [Versificação](http://pt.wikipedia.org/wiki/Versificação)
+- Bilac, Olavo. [Tratado de versificação](https://digital.bbm.usp.br/handle/bbm/4711).
+- [Divisão de sílabas em fonética e em ortografia](http://www.academia.org.br/artigos/divisao-de-silabas-em-fonetica-e-em-ortografia)
+
+
 ## Monografia
 
 A monografia será trabalhada nas aulas de composição.
 
-- [Template da Monografia](/assets/doc/Template.docx)
+- [Monografia de Marcos][10]
+- [Template da Monografia][11]
 
-## Obras para Análise
-
-Análise da forma de _Memoir of Dong-Hak_ (2005), obra ganhadora do concurso
-_Pablo Casals International Composition Competition_, da compositora [Hee Yun
-Kim](https://www.heeyunkim.net/about).
-
-- [Hee Yun Kim - Memoir of Dong-Hak - Partitura](/assets/pdf/Hee Yun Kim.pdf)
-- [Hee Yun Kim - Memoir of Dong-Hak - mp3](/assets/mp3/Hee Yun Kim.mp3)
+[10]: https://www.icloud.com/iclouddrive/05eWqDQICE5DhqCRJh7LxuoBw#Monografia_Marcos_Sampaio
+[11]: https://www.dropbox.com/scl/fi/ljxzu5imnuicne8gsfp9q/Template.docx?dl=0&rlkey=cplhwh3g30et2z2f9541jcyrx
 
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data   | Conteúdo                            |
-|--------|-------------------------------------|
-| Ago 23 | <del>trabalho individual</del>      |
-| Ago 30 | <i>Acompanhamento da composição</i> |
-| Set 06 | <i>Acompanhamento da composição</i> |
-| Set 13 | <i>Acompanhamento da composição</i> |
-| Set 20 | <i>Acompanhamento da composição</i> |
-| Set 27 | <i>Acompanhamento da composição</i> |
-| Out 04 | <i>Acompanhamento da composição</i> |
-| Out 11 | <i>Acompanhamento da composição</i> |
-| Out 18 | <i>Acompanhamento da composição</i> |
-| Out 25 | <i>Acompanhamento da composição</i> |
-| Nov 01 | <i>Acompanhamento da composição</i> |
-| Nov 08 | <i>Acompanhamento da composição</i> |
-| Nov 15 | <del>Proclamação da República</del> |
-| Nov 22 | **Entrega do trabalho final**       |
-| Nov 29 | *Banca avalia trabalho* (sem aula)  |
-| Dez 06 | *Entrega de resultados (online)*    |
+| Data              | Conteúdo                            |
+|-------------------|-------------------------------------|
+| Ago 17            | Acompanhamento da composição        |
+| Ago 24            | Acompanhamento da composição        |
+| Ago 31            | Acompanhamento da composição        |
+| <del>Set 7</del>  | *Independência do Brasil*           |
+| Set 14            | Acompanhamento da composição        |
+| Set 21            | Acompanhamento da composição        |
+| Set 28            | Acompanhamento da composição        |
+| Out 5             | Acompanhamento da composição        |
+| <del>Out 12</del> | *Nossa Senhora Aparecida*           |
+| Out 19            | Acompanhamento da composição        |
+| Out 26            | Acompanhamento da composição        |
+| <del>Nov 2</del>  | *Finados*                           |
+| Nov 9             | Acompanhamento da composição        |
+| Nov 16            | Acompanhamento da composição        |
+| Nov 23            | **Entrega do trabalho final**       |
+| Nov 30            | *Banca avalia trabalhos* (sem aula) |
+| Dez 7             | *Banca avalia trabalhos* (sem aula) |
+| Dez 14            | *Entrega de resultados (online)*    |
+|                   |                                     |

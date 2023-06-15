@@ -8,37 +8,16 @@ semestre: 2023.2
 Estudo das técnicas contrapontísticas e harmônicas complexas e das grandes
 formas da música sinfônica e sinfônico-coral.
 
-## Horário
-
-As aulas expositivas serão nas **terças das 13:00 as 14:50** na sala 204. As
-aulas na quintas serão para tirar dúvidas (13:00 as 14:00).
 
 ## Notas
 
-| Nome              | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
-|-------------------|-----------|-------------|---------------|------------|
-| Jaderson Oliveira | 2.4       | 4.0         | 3.0           | =sum       |
-| Lucas Monteiro    | 2.7       | 2.7         | 3.0           | =sum       |
-| Mateus Mariani    | 2.6       | 2.7         | 2.0           | =sum       |
-| Matheus Travassos | 2.0       | 0.0         | 3.0           | =sum       |
-| Pamela Amorim     | 3.0       | 4.0         | 3.0           | =sum       |
-| Paulo Pitta       | 2.8       | 2.7         | 3.0           | =sum       |
-| Rebecca Gallinari | 3.0       | 4.0         | 3.0           | =sum       |
-| Rodrigo Jacobina  | 3.0       | 4.0         | 3.0           | =sum       |
-| Tiago Factum      | 3.0       | 4.0         | 2.0           | =sum       |
+| Nome | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
+|------|-----------|-------------|---------------|------------|
+|      |           |             |               | =sum       |
 
 
 ## Materiais
 
-Você pode baixar os arquivos de áudio e partitura em pdf clicando nos links
-abaixo:
-
-| Compositor | Obra                         | Áudio    | Partitura |
-|------------|------------------------------|----------|-----------|
-| Beethoven  | Sonata Op. 81a               | [🔉][10] | [♬][11]   |
-| Brahms     | Quarteto 1                   | [🔉][1]  | [♬][2]    |
-| Chopin     | Prelude op. 28, 2            | [🔉][3]  | [♬][4]    |
-| Schoenberg | Noite Transfigurada (trecho) | [🔉][5]  | [♬][6]    |
 
 
 ## Referências
@@ -52,17 +31,9 @@ Os seguintes livros podem ajudar no entendimento do material visto no curso.
   (p. 527), "A escala cromática como fundamento da tonalidade" (p. 529).
 
 
-[1]: /assets/mp3/brahms.m4a
-[2]: /assets/pdf/brahms.pdf
-[3]: /assets/mp3/chopin.mp3
-[4]: /assets/pdf/chopin.pdf
-[5]: /assets/mp3/schoenberg.mp3
-[6]: /assets/pdf/schoenberg.pdf
 [7]: https://www.dropbox.com/s/upnuczqhv0zeqa9/Kostka%20Tonal%20Harmony%20Traduzido.pdf?dl=0
 [8]: https://www.dropbox.com/s/tka12cssiqfaglm/Schoenberg%20Arnold%20Theory%20of%20Harmony.pdf?dl=0
 [9]: https://www.dropbox.com/s/1u9drv7yqpmr5kw/Schoenberg%20Harmonia.pdf?dl=0
-[10]: /assets/mp3/beethoven.mp3
-[11]: /assets/pdf/beethoven.pdf
 
 
 ## Avaliação
@@ -75,10 +46,12 @@ A avaliação final será soma de 3 notas:
 
 ### Prova de Audição
 
-Na parte de audição das obras você deverá identificar o nome da obra e o
-nome do compositor.
+Na parte de audição das obras você deverá identificar o nome da obra e o nome do
+compositor.
 
-♬ [Gravações para a prova de audição](https://www.dropbox.com/s/a4mtn8ibhmzeuf1/Musicas%20Audicao.zip?dl=1)
+♬ [Gravações para a prova de audição][1]
+
+[1]: https://www.dropbox.com/s/a4mtn8ibhmzeuf1/Musicas%20Audicao.zip?dl=1
 
 Lista de Obras:
 
@@ -135,3 +108,24 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Nov 22 | **Apresentação Seminários**                              |
 | Nov 29 | **Apresentação Seminários**                              |
 | Dez 06 | **Apresentação Seminários**                              |
+
+| Data   | Conteúdo |
+|--------|----------|
+| Ago 15 |          |
+| Ago 22 |          |
+| Ago 29 |          |
+| Set 5  |          |
+| Set 12 |          |
+| Set 19 |          |
+| Set 26 |          |
+| Out 3  |          |
+| Out 10 |          |
+| Out 17 |          |
+| Out 24 |          |
+| Out 31 |          |
+| Nov 7  |          |
+| Nov 14 |          |
+| Nov 21 |          |
+| Nov 28 |          |
+| Dez 5  |          |
+| Dez 12 |          |
