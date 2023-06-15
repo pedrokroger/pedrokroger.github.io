@@ -25,9 +25,9 @@ partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc).
 
 | Nome             | C1  | C2  | C3  | C4  | C5* | C6* | C7* | Nota |
 |------------------|-----|-----|-----|-----|-----|-----|-----|------|
-| Jaderson Cardona | 1.0 | 1.0 | 1.0 | 1.0 |     |     |     | =sum |
-| Josias Luiz Dias | 1.0 | 1.0 | 1.0 | 1.0 |     |     |     | =sum |
-| Rebecca Barbosa  | 1.0 | 1.0 | 1.0 | 1.0 |     |     |     | =sum |
+| Jaderson Cardona | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 |     |     | =sum |
+| Josias Luiz Dias | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 |     |     | =sum |
+| Rebecca Barbosa  | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 |     |     | =sum |
 
 \* Vale 2 pontos
 
