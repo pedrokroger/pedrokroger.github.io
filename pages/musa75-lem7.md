@@ -164,6 +164,4 @@ dúvidas individuais.
 | Jun 20 | **Seminários**: Tássio, Elisio                     |
 | Jun 27 | <del>São João</del>                                |
 | Jul 4  | **Seminários**: Leonardo, Diana                    |
-| Jul 6  | _Reservado para 2a chamada e reposição_            |
-| Jul 11 | _Reservado para 2a chamada e reposição_            |
-| Jul 13 | _Entrega de resultados (online)_                   |
+| Jul 11 | _Reservado para correções (sem aula)_              |

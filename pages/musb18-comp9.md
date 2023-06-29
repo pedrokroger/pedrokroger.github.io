@@ -101,7 +101,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jun 15 | **Composição 6 minutos (2pt)**                                                |
 | Jun 22 | <del>São João</del>                                                           |
 | Jun 29 | **Composição 7 minutos (2pt)**                                                |
-| Jul 6  | _Reservado para 2a chamada, etc_                                              |
+| Jul 6  | _Reservado para correções (sem aula)_                                         |
 | Jul 13 | _Entrega de resultados (online)_                                              |
 
 [30]: https://www.youtube.com/watch?v=G77TeUWKSQs
