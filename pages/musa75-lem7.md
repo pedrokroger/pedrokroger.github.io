@@ -12,12 +12,12 @@ formas da música sinfônica e sinfônico-coral.
 
 | Nome                | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
 |---------------------|-----------|---------------|-----------------|------------|
-| Antonio Jorge       | 1.3       | 2.6           |                 | =sum       |
-| Diana Alves         | 1.1       | 0.9           |                 | =sum       |
-| Elisio da Cruz      | 2.2       | 3.5           |                 | =sum       |
-| Gleise Carvalho     | 1.9       | 3.5           |                 | =sum       |
-| Leonardo de Almeida | 2.4       | 2.6           |                 | =sum       |
-| Tássio Santos       | 2.3       | 2.6           |                 | =sum       |
+| Antonio Jorge       | 1.3       | 2.6           | 3.5             | =sum       |
+| Diana Alves         | 1.1       | 0.9           | 3.5             | =sum       |
+| Elisio da Cruz      | 2.2       | 3.5           | 2.0             | =sum       |
+| Gleise Carvalho     | 1.9       | 3.5           | 3.5             | =sum       |
+| Leonardo de Almeida | 2.4       | 2.6           | 3.5             | =sum       |
+| Tássio Santos       | 2.3       | 2.6           | 3.5             | =sum       |
 
 
 ## Materiais
