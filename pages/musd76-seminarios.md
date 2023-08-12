@@ -2,7 +2,7 @@
 layout: page
 title: MUSD76 - Seminários em Música
 permalink: /seminarios/
-semestre: 2023.1
+semestre: 2023.2
 ---
 
 Essa é uma atividade sem aulas presenciais. O aluno deverá assistir palestras ou
@@ -20,4 +20,4 @@ digitais como o YouTube.
 
 Entrega de resumos de 3 palestras assistidas durante o semestre. Cada resumo
 deve conter o nome do palestrante, o título da palestra e um breve resumo do
-conteúdo. Os resumos devem ser entregues até **29 de Junho**.
+conteúdo. Os resumos devem ser entregues até **27 de Novembro**.
