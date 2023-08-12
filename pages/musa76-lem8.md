@@ -11,9 +11,14 @@ formas da música sinfônica e sinfônico-coral.
 
 ## Notas
 
-| Nome | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
-|------|-----------|-------------|---------------|------------|
-|      |           |             |               | =sum       |
+| Nome                          | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
+|-------------------------------|-----------|-------------|---------------|------------|
+| Joabe Jesus Borges            |           |             |               | =sum       |
+| Leonardo De Almeida Oliveira  |           |             |               | =sum       |
+| Lizandra Dos Santos Goncalves |           |             |               | =sum       |
+| Marluce De Oliveira Barbosa   |           |             |               | =sum       |
+| Samuel Da Silva Ressurreição  |           |             |               | =sum       |
+| Wesley Alves Dos Santos       |           |             |               | =sum       |
 
 
 ## Materiais
