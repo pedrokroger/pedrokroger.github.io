@@ -15,7 +15,7 @@ entregar um pdf da partitura com mp3 e um pdf da monografia. A obra deverá ter 
 duração mínima de 14 minutos.
 
 {: .alert .alert-warning }
-A obra final e monografia devem ser entregues até **23 de novembro.**
+A obra final e monografia devem ser entregues até **16 de novembro.**
 
 ### Formação da Orquestra
 
@@ -92,8 +92,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Out 26            | Acompanhamento da composição e monografia |
 | <del>Nov 2</del>  | *Finados*                                 |
 | Nov 9             | Acompanhamento da composição e monografia |
-| Nov 16            | Acompanhamento da composição e monografia |
-| Nov 23            | **Entrega do trabalho final**             |
+| Nov 16            | **Entrega do trabalho final**             |
+| Nov 23            | *Banca avalia trabalhos* (sem aula)       |
 | Nov 30            | *Banca avalia trabalhos* (sem aula)       |
 | Dez 7             | *Banca avalia trabalhos* (sem aula)       |
 | Dez 14            | *Entrega de resultados (online)*          |
