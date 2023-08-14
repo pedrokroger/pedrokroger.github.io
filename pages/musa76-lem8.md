@@ -51,25 +51,30 @@ A avaliação final será soma de 3 notas:
 
 ### Prova de Audição
 
-Na parte de audição das obras você deverá identificar o nome da obra e o nome do
-compositor.
+Na parte de audição das obras você deverá identificar o nome da obra e o nome
+do(a) compositor(a). Lista de Obras:
 
-♬ [Gravações para a prova de audição][1]
+- Mathilde von Rothschild - Sechs Lieder IV (1876) - Wiegenlied (Canção de Ninar)
+- Manuel de Falla - 7 Canciones Populares Españolas (1914) - El pano moruno
+- Chiquinha Gonzaga - Saudade (1896?)
+- Béla Bartók - Romanian Folk Dances (1915) - Pe-Loc
+- Richard Strauss - Vier letzte Lieder (4 últimas canções) (1948) - Frühling (Primavera)
+- Richard Wagner - Götterdämmerung (O crepúsculo dos deuses) (1876) - Ato 3 - trauermarsch (Marcha fúnebre)
+- J. Brahms - Fünf Gesänge, Op. 104 (Cinco Canções) (1888)- Nachtwache I (vigília noturna)
+- H. Villa-Lobos - Valsa da dor (1932)
+- Clara Schumann - 3 Romances, op. 11 no. 1 (1839)
+- Claudio Santoro - Ponteio (1953)
 
-[1]: https://www.dropbox.com/s/a4mtn8ibhmzeuf1/Musicas%20Audicao.zip?dl=1
+Você pode baixar as músicas como arquivos mp3 para ouvir offline:
 
-Lista de Obras:
+- [Gravações para a prova de audição][1]
 
-- Brahms - Sexteto de Cordas No 2 Op 36 (trecho)
-- Chopin - Noturno Op. 37 No. 1
-- De Falla - El amor brujo (trecho)
-- Debussy - Quarteto de Cordas Op. 10
-- Liszt - Poema Sinfonico No. 5 - Prometheus (trecho)
-- Mahler - Sinfonia no 6 (trecho)
-- Ravel - Valsas nobres e sentimentais (trecho)
-- Strauss - Metamorphosen para Cordas (trecho)
-- Villa-Lobos Rudepoema (trecho)
-- Wagner - Die Walkure - Preludio (trecho)
+Ou ouvir no Spotify (garanta estar logado, ou vai ouvir apenas um _preview_ de 20 segundos):
+
+[1]: https://www.dropbox.com/scl/fi/nob4v0ldo85dsa5qakg4k/Musicas-Audicao-LEM-8.zip?rlkey=x63f8pc08l1mtqoizgk5n643k&dl=0
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/17zoY7Z7cKROeZH4x8hnLS?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 ### Trabalho de Análise
