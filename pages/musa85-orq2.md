@@ -18,15 +18,21 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 
 ## Notas
 
-| Nome                       | T1 (2) | T2(2) | T3 (3) | T4 (3) | Nota Final |
-|----------------------------|--------|-------|--------|--------|------------|
-| Izã Teixeira Santos        |        |       |        |        | =sum       |
-| Matias Viani               |        |       |        |        | =sum       |
-| Rafael Espinheira Santiago |        |       |        |        | =sum       |
+| Nome                       | T1 | T2 | T3 | T4 | Nota Final |
+|----------------------------|----|----|----|----|------------|
+| Izã Teixeira Santos        |    |    |    |    | =sum       |
+| Matias Viani               |    |    |    |    | =sum       |
+| Rafael Espinheira Santiago |    |    |    |    | =sum       |
 
 
 ## Trabalhos
 
+- **Trabalho 1:** Fazer redução analítica do trecho da _Sinfonia no. 4_ de
+  Tchaikovsky. Entregar a partitura da sua redução em formato mp3 com realização
+  MIDI (Finale e/ou Sibelius) em mp3. [Partitura][1] - [Gravação][2]
+
+[1]: https://www.dropbox.com/scl/fi/g4c1d7psgc74cohv1dop0/Tchaikovsky-Sinfonia-4.pdf?rlkey=7obqji4zieah6livuwc1t19oh
+[2]: https://www.dropbox.com/scl/fi/6opkoj0cdhnz80qpfmk8v/Tchaikovsky-Sinfonia-4.mp3?rlkey=vpqyzdkgcyu8ep5edxo1j2o1w
 
 ## Materiais
 
@@ -42,23 +48,23 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data   | Conteúdo |
-|--------|----------|
-| Ago 15 |          |
-| Ago 22 |          |
-| Ago 29 |          |
-| Set 5  |          |
-| Set 12 |          |
-| Set 19 |          |
-| Set 26 |          |
-| Out 3  |          |
-| Out 10 |          |
-| Out 17 |          |
-| Out 24 |          |
-| Out 31 |          |
-| Nov 7  |          |
-| Nov 14 |          |
-| Nov 21 |          |
-| Nov 28 |          |
-| Dez 5  |          |
-| Dez 12 |          |
+| Data   | Conteúdo                         |
+|--------|----------------------------------|
+| Ago 15 | Introdução ao Curso e Metais     |
+| Ago 22 | Metais                           |
+| Ago 29 | Metais                           |
+| Set 5  | **Trabalho 1** (2.5 pontos)      |
+| Set 12 | Madeiras, Metais e Cordas        |
+| Set 19 | Madeiras, Metais e Cordas        |
+| Set 26 | Madeiras, Metais e Cordas        |
+| Out 3  | **Trabalho 2** (2.5 pontos)      |
+| Out 10 | Percussão e teclados             |
+| Out 17 | Percussão e teclados             |
+| Out 24 | Percussão e teclados             |
+| Out 31 | **Trabalho 3** (2.5 pontos)      |
+| Nov 7  | Análise de Trechos               |
+| Nov 14 | Análise de Trechos               |
+| Nov 21 | Análise de Trechos               |
+| Nov 28 | **Trabalho 4** (2.5 pontos)      |
+| Dez 5  | _Reservado para 2a chamada_      |
+| Dez 12 | _Entrega de resultados (online)_ |
