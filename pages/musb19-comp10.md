@@ -17,15 +17,6 @@ duração mínima de 14 minutos.
 {: .alert .alert-warning }
 A obra final e monografia devem ser entregues até **16 de novembro.**
 
-### Formação da Orquestra
-
-A obra deverá ter seguinte formação mínima: madeiras a 2, 2 trompas, 2
-trompetes, 2 trombones, tuba, 1 percussionista, solista vocal, coro, cordas.
-Você pode incluir mais instrumentos se desejar.
-
-{: .alert .alert-warning}
-É fundamental que a obra tenha características de uma obra vocal com coro.
-
 ## Formação da Orquestra
 
 A obra deverá ter seguinte formação mínima, mas você pode incluir mais
@@ -69,7 +60,7 @@ A monografia será trabalhada nas aulas de composição.
 - [Monografia de Marcos][10]
 - [Template da Monografia][11]
 
-[10]: https://www.icloud.com/iclouddrive/05eWqDQICE5DhqCRJh7LxuoBw#Monografia_Marcos_Sampaio
+[10]: https://www.dropbox.com/scl/fi/h351kpgcvoefbfep3g3tm/Monografia-Marcos-Sampaio.pdf?rlkey=htvuikvunun3lsuvpl9r34jxc&dl=0
 [11]: https://www.dropbox.com/scl/fi/ljxzu5imnuicne8gsfp9q/Template.docx?dl=0&rlkey=cplhwh3g30et2z2f9541jcyrx
 
 ## Cronograma
