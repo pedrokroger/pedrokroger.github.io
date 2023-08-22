@@ -59,10 +59,10 @@ aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação o
 Na parte de audição das obras você deverá identificar o nome da obra e o nome
 do(a) compositor(a). Lista de Obras:
 
-- Mathilde von Rothschild - Sechs Lieder IV (1876) - Wiegenlied (Canção de Ninar)
+- Mathilde von Rothschild - Sechs Lieder IV (1876) (Seis Canções) - Wiegenlied (Canção de Ninar)
 - Manuel de Falla - 7 Canciones Populares Españolas (1914) - El pano moruno
 - Chiquinha Gonzaga - Saudade (1896?)
-- Béla Bartók - Romanian Folk Dances (1915) - Pe-Loc
+- Béla Bartók - Romanian Folk Dances (1915) (Danças Folclóricas Romenas) - Pe-Loc
 - Richard Strauss - Vier letzte Lieder (4 últimas canções) (1948) - Frühling (Primavera)
 - Richard Wagner - Götterdämmerung (O crepúsculo dos deuses) (1876) - Ato 3 - trauermarsch (Marcha fúnebre)
 - J. Brahms - Fünf Gesänge, Op. 104 (Cinco Canções) (1888)- Nachtwache I (vigília noturna)
@@ -110,7 +110,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Terça  | Conteúdo                              | Quinta     | Conteúdo                              |
 |--------|---------------------------------------|------------|---------------------------------------|
 | Ago 15 | Introdução ao Curso                   | Ago 17     | Revisão                               |
-| Ago 22 | Revisão                               | Ago 22     | Revisão                               |
+| Ago 22 | Revisão                               | Ago 24     | Revisão                               |
 | Ago 29 | Revisão para a prova                  | Ago 31     | Revisão                               |
 | Set 5  | **Prova de audição e análise (3pts)** | ~~Set 7~~  | _Independência do Brasil_             |
 | Set 12 | Introdução a Harmonia do séc. XIX     | Set 14     | \*\*                                  |
