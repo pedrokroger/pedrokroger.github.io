@@ -21,10 +21,6 @@ formas da música sinfônica e sinfônico-coral.
 | Wesley Alves Dos Santos       |           |             |               | =sum       |
 
 
-## Materiais
-
-
-
 ## Referências
 
 Os seguintes livros podem ajudar no entendimento do material visto no curso.
