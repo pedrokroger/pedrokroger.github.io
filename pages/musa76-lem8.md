@@ -8,7 +8,6 @@ semestre: 2023.2
 Estudo das técnicas contrapontísticas e harmônicas complexas e das grandes
 formas da música sinfônica e sinfônico-coral.
 
-
 ## Notas
 
 | Nome                          | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
