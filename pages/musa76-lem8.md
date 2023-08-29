@@ -108,8 +108,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Ago 15 | Introdução ao Curso                   | Ago 17     | Revisão                               |
 | Ago 22 | Revisão                               | Ago 24     | Revisão                               |
 | Ago 29 | Revisão para a prova                  | Ago 31     | Revisão                               |
-| Set 5  | **Prova de audição e análise (3pts)** | ~~Set 7~~  | _Independência do Brasil_             |
-| Set 12 | Introdução a Harmonia do séc. XIX     | Set 14     | \*\*                                  |
+| Set 5  | Revisão para a prova                  | ~~Set 7~~  | _Independência do Brasil_             |
+| Set 12 | **Prova de audição e análise (3pts)** | Set 14     | \*\*                                  |
 | Set 19 | Harmonia no século XIX                | Set 21     | _Tirar dúvidas (opcional)_            |
 | Set 26 | **Trabalho de Análise 1 (1pt)**       | ~~Set 28~~ | \*\*                                  |
 | Out 3  | **Trabalho de Análise 1 (1pt)**       | Out 5      | _Tirar dúvidas (opcional)_            |
