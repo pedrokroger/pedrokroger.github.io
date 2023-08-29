@@ -18,6 +18,7 @@ formas da música sinfônica e sinfônico-coral.
 | Lizandra Dos Santos Goncalves |           |             |               | =sum       |
 | Marluce De Oliveira Barbosa   |           |             |               | =sum       |
 | Samuel Da Silva Ressurreição  |           |             |               | =sum       |
+| Thiago Alves Pereira          |           |             |               | =sum       |
 | Wesley Alves Dos Santos       |           |             |               | =sum       |
 
 
