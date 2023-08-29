@@ -66,9 +66,10 @@ do(a) compositor(a). Lista de Obras:
 - Clara Schumann - 3 Romances, op. 11 no. 1 (1839)
 - Claudio Santoro - Ponteio (1953)
 
-Você pode baixar as músicas como arquivos mp3 para ouvir offline:
+Baixar as músicas como arquivos mp3 para ouvir offline no link abaixo:
 
-- [Gravações para a prova de audição][1]
+{: .alert .alert-warning }
+🎹 [Gravações para a prova de audição][1]
 
 Ou ouvir no Spotify (garanta estar logado, ou vai ouvir apenas um _preview_ de 20 segundos):
 
