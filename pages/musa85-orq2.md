@@ -20,7 +20,6 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 
 | Nome                       | T1 | T2 | T3 | T4 | Nota Final |
 |----------------------------|----|----|----|----|------------|
-| Izã Teixeira Santos        |    |    |    |    | =sum       |
 | Matias Viani               |    |    |    |    | =sum       |
 | Rafael Espinheira Santiago |    |    |    |    | =sum       |
 
