@@ -47,23 +47,23 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data   | Conteúdo                         |
-|--------|----------------------------------|
-| Ago 15 | Introdução ao Curso e Metais     |
-| Ago 22 | Metais                           |
-| Ago 29 | Metais                           |
-| Set 5  | **Trabalho 1** (2.5 pontos)      |
-| Set 12 | Madeiras, Metais e Cordas        |
-| Set 19 | Madeiras, Metais e Cordas        |
-| Set 26 | Madeiras, Metais e Cordas        |
-| Out 3  | **Trabalho 2** (2.5 pontos)      |
-| Out 10 | Percussão e teclados             |
-| Out 17 | Percussão e teclados             |
-| Out 24 | Percussão e teclados             |
-| Out 31 | **Trabalho 3** (2.5 pontos)      |
-| Nov 7  | Análise de Trechos               |
-| Nov 14 | Análise de Trechos               |
-| Nov 21 | Análise de Trechos               |
-| Nov 28 | **Trabalho 4** (2.5 pontos)      |
-| Dez 5  | _Reservado para 2a chamada_      |
-| Dez 12 | _Entrega de resultados (online)_ |
+| Data       | Conteúdo                         |
+|------------|----------------------------------|
+| Ago 15     | Introdução ao Curso e Metais     |
+| Ago 22     | Metais                           |
+| Ago 29     | Metais                           |
+| Set 5      | **Trabalho 1** (2.5 pontos)      |
+| Set 12     | Madeiras, Metais e Cordas        |
+| Set 19     | Madeiras, Metais e Cordas        |
+| Set 26     | Madeiras, Metais e Cordas        |
+| Out 3      | **Trabalho 2** (2.5 pontos)      |
+| ~~Out 10~~ | Seminários internacionais        |
+| Out 17     | Percussão e teclados             |
+| Out 24     | Percussão e teclados             |
+| Out 31     | **Trabalho 3** (2.5 pontos)      |
+| Nov 7      | Análise de Trechos               |
+| Nov 14     | Análise de Trechos               |
+| Nov 21     | Análise de Trechos               |
+| Nov 28     | **Trabalho 4** (2.5 pontos)      |
+| Dez 5      | _Reservado para 2a chamada_      |
+| Dez 12     | _Entrega de resultados (online)_ |
