@@ -30,8 +30,15 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
   Tchaikovsky. Entregar a partitura da sua redução em formato mp3 com realização
   MIDI (Finale e/ou Sibelius) em mp3. [Partitura][1] - [Gravação][2]
 
+- **Trabalho 2**: Orquestrar para sopros (sem cordas) c. 1--16 do Grande Portão
+de Kiev do _Quadros em uma Exposição_ de Mussorgsky. [Partitura][3] e
+[Áudio][4].
+
+
 [1]: https://www.dropbox.com/scl/fi/g4c1d7psgc74cohv1dop0/Tchaikovsky-Sinfonia-4.pdf?rlkey=7obqji4zieah6livuwc1t19oh
 [2]: https://www.dropbox.com/scl/fi/6opkoj0cdhnz80qpfmk8v/Tchaikovsky-Sinfonia-4.mp3?rlkey=vpqyzdkgcyu8ep5edxo1j2o1w
+[3]: https://ln5.sync.com/dl/309423f30/p5sbe7fe-3twpp5cn-tvsgnxmh-526k8e5m
+[4]: https://ln5.sync.com/dl/d66816390/ipu6a2sa-5r5s9xp2-gzk729q3-eftnkfkz
 
 ## Materiais
 
