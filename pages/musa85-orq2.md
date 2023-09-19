@@ -18,10 +18,10 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 
 ## Notas
 
-| Nome                       | T1 | T2 | T3 | T4 | Nota Final |
-|----------------------------|----|----|----|----|------------|
-| Matias Viani               |    |    |    |    | =sum       |
-| Rafael Espinheira Santiago |    |    |    |    | =sum       |
+| Nome                       | T1  | T2 | T3 | T4 | Nota Final |
+|----------------------------|-----|----|----|----|------------|
+| Matias Viani               | 2.5 |    |    |    | =sum       |
+| Rafael Espinheira Santiago | 0.0 |    |    |    | =sum       |
 
 
 ## Trabalhos
