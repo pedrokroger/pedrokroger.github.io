@@ -42,8 +42,8 @@ Os seguintes livros podem ajudar no entendimento do material visto no curso.
 A avaliação final será soma de 4 notas:
 
   * 1 prova de audição e análise: 3 pontos
-  * 2 trabalho de análise: 2 pontos cada
-  * 1 seminário oral: 3 pontos
+  * 1 trabalho de análise: 3.5 pontos
+  * 1 seminário oral: 3.5 pontos
 
 Analisar um trecho de uma obra do final do século XIX e apresentar oralmente em
 etapas nos dias 26 de setembro e 1 e 3 de outubro. A obra será escolhida pelo(a)
@@ -80,7 +80,7 @@ do(a) compositor(a). Lista de Obras:
 ### Trabalho de Análise
 
 Analisar um trecho de uma obra do final do século XIX e apresentar oralmente em
-etapas nas aulas de 11, 18, e 25 de outubro. A obra será escolhida pelo(a)
+etapas nas aulas de 17, 24, e 31 de outubro. A obra será escolhida pelo(a)
 aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação oral
 é individual.
 
@@ -94,7 +94,8 @@ aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação o
 - A Ópera entre 1850 e 1910
 - O Balé entre 1850 e 1920
 - Os movimentos nacionalistas no final do século XIX e início do século XX
-
+- Compositoras mulheres entre 1850 e 1920
+- O Lied alemão
 
 
 ## Cronograma
@@ -102,27 +103,27 @@ aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação o
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                                                          | Quinta     | Conteúdo                              |
-|------------|-------------------------------------------------------------------|------------|---------------------------------------|
-| Ago 15     | Introdução ao Curso                                               | Ago 17     | Revisão                               |
-| Ago 22     | Revisão                                                           | Ago 24     | Revisão                               |
-| Ago 29     | Revisão para a prova                                              | Ago 31     | Revisão                               |
-| Set 5      | *Atividade Assíncrona Remota*                                     | ~~Set 7~~  | _Independência do Brasil_             |
-|            | 🎹 Analisar o Coral 142 de Bach: [Partitura][21] e [Gravação][20] |            |                                       |
-| Set 12     | Revisão para a prova                                              | Set 14     | Revisão para a prova                  |
-| Set 19     | **Prova de audição e análise (3pts)**                             | Set 21     | _Tirar dúvidas (opcional)_            |
-| Set 26     | Harmonia no século XIX                                            | ~~Set 28~~ | \*\*                                  |
-| Out 3      | **Trabalho de Análise 1 (1pt)**                                   | Out 5      | _Tirar dúvidas (opcional)_            |
-| ~~Out 10~~ | _Seminários Internacionais_                                       | ~~Out 12~~ | _Nossa Senhora Aparecida_             |
-| Out 17     | **Trabalho de Análise 2 (1pt)**                                   | Out 19     | \*\*                                  |
-| Out 24     | **Trabalho de Análise 2 (1pt)**                                   | Out 26     | _Tirar dúvidas (opcional)_            |
-| Out 31     | Tirar dúvidas para os seminários                                  | ~~Nov 2~~  | _Finados_                             |
-| Nov 7      | **Apresentação Seminários**                                       | Nov 9      | \*\*                                  |
-| Nov 14     | **Apresentação Seminários**                                       | ~~Nov 16~~ | _Trabalho assíncrono_                 |
-| Nov 21     | **Apresentação Seminários**                                       | Nov 23     | \*\*                                  |
-| Nov 28     |                                                                   | Nov 30     | _Tirar dúvidas (opcional)_            |
-| Dez 5      | _Reservado para 2a Chamada_                                       | Dez 7      | _Reservado para Correções (sem aula)_ |
-| Dez 12     | Entrega de Resultados (online)                                    | Dez 14     | _Tirar dúvidas (opcional)_            |
+| Terça      | Conteúdo                         | Quinta     | Conteúdo                              |
+|------------|----------------------------------|------------|---------------------------------------|
+| Ago 15     | Introdução ao Curso              | Ago 17     | Revisão                               |
+| Ago 22     | Revisão                          | Ago 24     | Revisão                               |
+| Ago 29     | Revisão para a prova             | Ago 31     | Revisão                               |
+| Set 5      | *Atividade Assíncrona Remota*    | ~~Set 7~~  | _Independência do Brasil_             |
+| Set 12     | Revisão para a prova             | Set 14     | Revisão para a prova                  |
+| Set 19     | **Prova de audição e análise**   | Set 21     | Correção da Prova                     |
+| Set 26     | Harmonia no século XIX           | Set 28     | Harmonia no século XIX                |
 
-[20]: https://www.dropbox.com/scl/fi/ivfbpky009hffqocb35g4/Bach-Coral-142.m4a?rlkey=3chc8ykjhj76c5k16nweo6pmd&dl=0
-[21]: https://www.dropbox.com/scl/fi/366hua6q0bffjjlar7r6j/Bach-Coral-142.pdf?rlkey=t1tf8btt8w3pnhr5tjool0rvi&dl=0
+
+| Terça      | Conteúdo                         |
+|------------|----------------------------------|
+| Out 3      | Harmonia no século XIX           |
+| ~~Out 10~~ | _Seminários Internacionais_      |
+| Out 17     | **Trabalho de Análise 2**        |
+| Out 24     | **Trabalho de Análise 2**        |
+| Out 31     | **Trabalho de Análise 2**        |
+| Nov 7      | Tirar dúvidas para os seminários |
+| Nov 14     | **Apresentação Seminários**      |
+| Nov 21     | **Apresentação Seminários**      |
+| Nov 28     | **Apresentação Seminários**      |
+| Dez 5      | _Reservado para 2a Chamada_      |
+| Dez 12     | Entrega de Resultados (online)   |
