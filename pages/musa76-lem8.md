@@ -118,9 +118,9 @@ ser modificado de acordo com a necessidade e eventualidade.
 |------------|----------------------------------|--------|-----------------------------|
 | Out 3      | Harmonia no século XIX           | Out 5  | _Segunda Chamada (Marluce)_ |
 | ~~Out 10~~ | _Seminários Internacionais_      |        |                             |
-| Out 17     | **Trabalho de Análise 2**        |        |                             |
-| Out 24     | **Trabalho de Análise 2**        |        |                             |
-| Out 31     | **Trabalho de Análise 2**        |        |                             |
+| Out 17     | **Trabalho de Análise 1/3**      |        |                             |
+| Out 24     | **Trabalho de Análise 1/3**      |        |                             |
+| Out 31     | **Trabalho de Análise 1/3**      |        |                             |
 | Nov 7      | Tirar dúvidas para os seminários |        |                             |
 | Nov 14     | **Apresentação Seminários**      |        |                             |
 | Nov 21     | **Apresentação Seminários**      |        |                             |
