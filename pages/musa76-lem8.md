@@ -77,20 +77,6 @@ do(a) compositor(a). Lista de Obras:
 [38]: https://ln5.sync.com/dl/e96d71950/wm866cbw-iyws2nbr-rdu8guqb-qzqwr6wm
 [39]: https://ln5.sync.com/dl/4eb2a35e0/cugyqbv7-nfxub9bu-4byeyhba-59mbxwan
 
-
-Baixar as músicas como arquivos mp3 para ouvir offline no link abaixo:
-
-{: .alert .alert-warning }
-🎹 [Gravações para a prova de audição][1]
-
-Ou ouvir no Spotify (garanta estar logado, ou vai ouvir apenas um _preview_ de 20 segundos):
-
-[1]: https://www.dropbox.com/scl/fi/nob4v0ldo85dsa5qakg4k/Musicas-Audicao-LEM-8.zip?rlkey=x63f8pc08l1mtqoizgk5n643k&dl=0
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/17zoY7Z7cKROeZH4x8hnLS?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
 ### Trabalho de Análise
 
 Analisar um trecho de uma obra do final do século XIX e apresentar oralmente em
