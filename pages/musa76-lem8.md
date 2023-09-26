@@ -87,15 +87,17 @@ aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação o
 
 ### Tópicos para os Seminários
 
-- A Sinfonia no século XIX
+- A Sinfonia no século XIX - Joabe
+- A Música Programática nos séc. XIX e XX - Marluce
+- A Canção Romântica no séc. XIX - Wesley
+- A Ópera entre 1850 e 1910 - Samuel
+- Compositoras mulheres entre 1850 e 1920 - Lizandra
+- O Lied alemão - Thiago
+- Minimalismo - Leonardo
+
 - O Concerto no século XIX
-- A Música Programática nos séc. XIX e XX
-- A Canção Romântica no séc. XIX
-- A Ópera entre 1850 e 1910
 - O Balé entre 1850 e 1920
 - Os movimentos nacionalistas no final do século XIX e início do século XX
-- Compositoras mulheres entre 1850 e 1920
-- O Lied alemão
 
 
 ## Cronograma
@@ -114,16 +116,16 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Set 26     | Harmonia no século XIX           | Set 28     | Harmonia no século XIX                |
 
 
-| Terça      | Conteúdo                         | Quinta | Conteúdo                    |
-|------------|----------------------------------|--------|-----------------------------|
-| Out 3      | Harmonia no século XIX           | Out 5  | _Segunda Chamada (Marluce)_ |
-| ~~Out 10~~ | _Seminários Internacionais_      |        |                             |
-| Out 17     | **Trabalho de Análise 1/3**      |        |                             |
-| Out 24     | **Trabalho de Análise 1/3**      |        |                             |
-| Out 31     | **Trabalho de Análise 1/3**      |        |                             |
-| Nov 7      | Tirar dúvidas para os seminários |        |                             |
-| Nov 14     | **Apresentação Seminários**      |        |                             |
-| Nov 21     | **Apresentação Seminários**      |        |                             |
-| Nov 28     | **Apresentação Seminários**      |        |                             |
-| Dez 5      | _Reservado para 2a Chamada_      |        |                             |
-| Dez 12     | Entrega de Resultados (online)   |        |                             |
+| Terça      | Conteúdo                                  | Quinta | Conteúdo                    |
+|------------|-------------------------------------------|--------|-----------------------------|
+| Out 3      | Harmonia no século XIX                    | Out 5  | _Segunda Chamada (Marluce)_ |
+| ~~Out 10~~ | _Seminários Internacionais_               |        |                             |
+| Out 17     | **Trabalho de Análise 1/3**               |        |                             |
+| Out 24     | **Trabalho de Análise 1/3**               |        |                             |
+| Out 31     | **Trabalho de Análise 1/3**               |        |                             |
+| Nov 7      | Tirar dúvidas para os seminários          |        |                             |
+| Nov 14     | **Seminários:** Lizandra, Marluce, Samuel |        |                             |
+| Nov 21     | **Seminários:** Joabe, Wesley             |        |                             |
+| Nov 28     | **Seminários:** Leonardo, Thiago          |        |                             |
+| Dez 5      | _Reservado para 2a Chamada_               |        |                             |
+| Dez 12     | Entrega de Resultados (online)            |        |                             |
