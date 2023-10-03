@@ -18,10 +18,10 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 
 ## Notas
 
-| Nome                       | T1  | T2 | T3 | T4 | Nota Final |
-|----------------------------|-----|----|----|----|------------|
-| Matias Viani               | 2.5 |    |    |    | =sum       |
-| Rafael Espinheira Santiago | 0.0 |    |    |    | =sum       |
+| Nome                       | T1  | T2  | T3 | T4 | Nota Final |
+|----------------------------|-----|-----|----|----|------------|
+| Matias Viani               | 2.5 | 2.5 |    |    | =sum       |
+| Rafael Espinheira Santiago | 1.0 | 2.5 |    |    | =sum       |
 
 
 ## Trabalhos
@@ -67,8 +67,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Out 10~~ | Seminários internacionais        |
 | Out 17     | Percussão e teclados             |
 | Out 24     | Percussão e teclados             |
-| Out 31     | **Trabalho 3** (2.5 pontos)      |
-| Nov 7      | Análise de Trechos               |
+| Out 31     | Análise de Trechos               |
+| Nov 7      | **Trabalho 3** (2.5 pontos)      |
 | Nov 14     | Análise de Trechos               |
 | Nov 21     | Análise de Trechos               |
 | Nov 28     | **Trabalho 4** (2.5 pontos)      |
