@@ -12,13 +12,13 @@ formas da música sinfônica e sinfônico-coral.
 
 | Nome                          | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
 |-------------------------------|-----------|-------------|---------------|------------|
-| Joabe Jesus Borges            | 2.5       |             |               | =sum       |
-| Leonardo De Almeida Oliveira  | 3.0       |             |               | =sum       |
-| Lizandra Dos Santos Goncalves | 2.5       |             |               | =sum       |
-| Marluce De Oliveira Barbosa   | 2.1       |             |               | =sum       |
-| Samuel Da Silva Ressurreição  | 2.5       |             |               | =sum       |
-| Thiago Alves Pereira          | 2.0       |             |               | =sum       |
-| Wesley Alves Dos Santos       | 2.0       |             |               | =sum       |
+| Joabe Jesus Borges            | 2.5       | 2.0         |               | =sum       |
+| Leonardo De Almeida Oliveira  | 3.0       | 1.5         |               | =sum       |
+| Lizandra Dos Santos Goncalves | 2.5       | 2.0         |               | =sum       |
+| Marluce De Oliveira Barbosa   | 2.1       | 4.0         |               | =sum       |
+| Samuel Da Silva Ressurreição  | 2.5       | 4.0         |               | =sum       |
+| Thiago Alves Pereira          | 2.0       | 2.5         |               | =sum       |
+| Wesley Alves Dos Santos       | 2.0       | 2.0         |               | =sum       |
 
 
 ## Referências
