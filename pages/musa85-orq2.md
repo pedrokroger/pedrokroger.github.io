@@ -39,6 +39,16 @@ Ravel (até o número 4 de ensaio, página 5) e comparar com versão de piano em
 pequeno relatório escrito. **Colocar o nome dos instrumentos na redução**.
 [Partitura Orquestra][5]. [Áudio][6]. [Partitura Piano][7]. [Áudio Piano][8]
 
+- **Trabalho 4**: Orquestrar o início do Prelúdio no. 1 para
+  violão de Villa-Lobos (até a palavra "FIM" em vermelho na terceira
+  página). Lembre-se que o violão **soa uma oitava abaixo** do
+  escrito. Assim como uma orquestração de música para piano, é
+  importante adaptar o original para a sonoridade da orquestra fazendo
+  o uso de dobramentos e mudanças de oitavas quando necessário, porém
+  sem alterar a característica original da composição. A sua
+  orquestração deverá complementar a forma e o gesto musical da
+  composição original. [Partitura][10] e [Áudio][11].
+
 
 [1]: https://www.dropbox.com/scl/fi/g4c1d7psgc74cohv1dop0/Tchaikovsky-Sinfonia-4.pdf?rlkey=7obqji4zieah6livuwc1t19oh
 [2]: https://www.dropbox.com/scl/fi/6opkoj0cdhnz80qpfmk8v/Tchaikovsky-Sinfonia-4.mp3?rlkey=vpqyzdkgcyu8ep5edxo1j2o1w
@@ -48,6 +58,8 @@ pequeno relatório escrito. **Colocar o nome dos instrumentos na redução**.
 [6]: https://www.dropbox.com/scl/fi/3znsbmtsw25yv1fhzig10/Ravel-Tombeau-Orq.m4a?rlkey=hoy3thv4m3fgf7xi9p9tynzss&dl=0
 [7]: https://www.dropbox.com/scl/fi/85z0b53xtpzhx89csh2hq/Ravel-Tombeau-Piano.pdf?rlkey=lqu17g409sxlt6nq74ncj25xj&dl=0
 [8]: https://www.dropbox.com/scl/fi/yjgdoi81qu3k8k8golvvn/Ravel-Tombeau-Piano.m4a?rlkey=vr1tm24xupwrbcik90gdavh8t&dl=0
+[10]: https://www.dropbox.com/scl/fi/zbfjoy455xxiy0x9wgcvf/Villa-Lobos-Preludio-1.pdf?rlkey=t1njpdagobpr5v8xin77hju34&dl=0
+[11]: https://www.dropbox.com/scl/fi/1qi9gz37j2w1mht8urx4k/Villa-Lobos-Preludio-1.mp3?rlkey=0ec9fqakmqdufx3yi5v3m99mg&dl=0
 
 ## Materiais
 
