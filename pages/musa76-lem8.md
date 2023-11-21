@@ -124,8 +124,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Out 24     | **Trabalho de Análise 1/3**               |        |                             |
 | Out 31     | **Trabalho de Análise 1/3**               |        |                             |
 | Nov 7      | Tirar dúvidas para os seminários          |        |                             |
-| Nov 14     | **Seminários:** Lizandra, Marluce, Samuel |        |                             |
-| Nov 21     | **Seminários:** Joabe, Wesley             |        |                             |
+| Nov 14     | **Seminários:** Lizandra, Joabe           |        |                             |
+| Nov 21     | **Seminários:** Marluce, Samuel, Wesley   |        |                             |
 | Nov 28     | **Seminários:** Leonardo, Thiago          |        |                             |
 | Dez 5      | _Reservado para 2a Chamada_               |        |                             |
 | Dez 12     | Entrega de Resultados (online)            |        |                             |
