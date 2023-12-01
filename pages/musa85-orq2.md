@@ -18,10 +18,10 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 
 ## Notas
 
-| Nome                       | T1  | T2  | T3 | T4 | Nota Final |
-|----------------------------|-----|-----|----|----|------------|
-| Matias Viani               | 2.5 | 2.5 |    |    | =sum       |
-| Rafael Espinheira Santiago | 1.0 | 2.5 |    |    | =sum       |
+| Nome                       | T1  | T2  | T3  | T4  | Nota Final |
+|:---------------------------|:----|:----|:----|:----|:-----------|
+| Matias Viani               | 2.5 | 2.5 | 2.5 | 2.5 | =sum       |
+| Rafael Espinheira Santiago | 1.0 | 2.5 | 2.5 | 2.5 | =sum       |
 
 
 ## Trabalhos
@@ -76,7 +76,7 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 ser modificado de acordo com a necessidade e eventualidade.
 
 | Data       | Conteúdo                         |
-|------------|----------------------------------|
+|:-----------|:---------------------------------|
 | Ago 15     | Introdução ao Curso e Metais     |
 | Ago 22     | Metais                           |
 | Ago 29     | Metais                           |

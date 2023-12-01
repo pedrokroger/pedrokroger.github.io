@@ -11,14 +11,14 @@ formas da música sinfônica e sinfônico-coral.
 ## Notas
 
 | Nome                          | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
-|-------------------------------|-----------|-------------|---------------|------------|
-| Joabe Jesus Borges            | 2.5       | 2.7         |               | =sum       |
-| Leonardo De Almeida Oliveira  | 3.0       | 2.7         |               | =sum       |
-| Lizandra Dos Santos Goncalves | 2.5       | 3.0         |               | =sum       |
-| Marluce De Oliveira Barbosa   | 2.1       | 4.0         |               | =sum       |
-| Samuel Da Silva Ressurreição  | 2.5       | 4.0         |               | =sum       |
-| Thiago Alves Pereira          | 2.0       | 2.7         |               | =sum       |
-| Wesley Alves Dos Santos       | 2.0       | 2.7         |               | =sum       |
+|:------------------------------|:----------|:------------|:--------------|:-----------|
+| Joabe Jesus Borges            | 2.5       | 2.7         | 3.0           | =sum       |
+| Leonardo De Almeida Oliveira  | 3.0       | 2.7         | 3.0           | =sum       |
+| Lizandra Dos Santos Goncalves | 2.5       | 3.0         | 3.0           | =sum       |
+| Marluce De Oliveira Barbosa   | 2.1       | 4.0         | 3.0           | =sum       |
+| Samuel Da Silva Ressurreição  | 2.5       | 4.0         | 3.0           | =sum       |
+| Thiago Alves Pereira          | 2.0       | 2.7         | 3.0           | =sum       |
+| Wesley Alves Dos Santos       | 2.0       | 2.7         | 3.0           | =sum       |
 
 
 ## Referências
@@ -42,8 +42,8 @@ Os seguintes livros podem ajudar no entendimento do material visto no curso.
 A avaliação final será soma de 4 notas:
 
   * 1 prova de audição e análise: 3 pontos
-  * 1 trabalho de análise: 3.5 pontos
-  * 1 seminário oral: 3.5 pontos
+  * 1 trabalho de análise: 4 pontos
+  * 1 seminário oral: 3 pontos
 
 Analisar um trecho de uma obra do final do século XIX e apresentar oralmente em
 etapas nos dias 26 de setembro e 1 e 3 de outubro. A obra será escolhida pelo(a)
@@ -105,27 +105,27 @@ aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação o
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                         | Quinta     | Conteúdo                              |
-|------------|----------------------------------|------------|---------------------------------------|
-| Ago 15     | Introdução ao Curso              | Ago 17     | Revisão                               |
-| Ago 22     | Revisão                          | Ago 24     | Revisão                               |
-| Ago 29     | Revisão para a prova             | Ago 31     | Revisão                               |
-| Set 5      | *Atividade Assíncrona Remota*    | ~~Set 7~~  | _Independência do Brasil_             |
-| Set 12     | Revisão para a prova             | Set 14     | Revisão para a prova                  |
-| Set 19     | **Prova de audição e análise**   | Set 21     | Correção da Prova                     |
-| Set 26     | Harmonia no século XIX           | Set 28     | Harmonia no século XIX                |
+| Terça  | Conteúdo                       | Quinta    | Conteúdo                  |
+|:-------|:-------------------------------|:----------|:--------------------------|
+| Ago 15 | Introdução ao Curso            | Ago 17    | Revisão                   |
+| Ago 22 | Revisão                        | Ago 24    | Revisão                   |
+| Ago 29 | Revisão para a prova           | Ago 31    | Revisão                   |
+| Set 5  | *Atividade Assíncrona Remota*  | ~~Set 7~~ | _Independência do Brasil_ |
+| Set 12 | Revisão para a prova           | Set 14    | Revisão para a prova      |
+| Set 19 | **Prova de audição e análise** | Set 21    | Correção da Prova         |
+| Set 26 | Harmonia no século XIX         | Set 28    | Harmonia no século XIX    |
 
 
-| Terça      | Conteúdo                                  | Quinta | Conteúdo                    |
-|------------|-------------------------------------------|--------|-----------------------------|
-| Out 3      | Harmonia no século XIX                    | Out 5  | _Segunda Chamada (Marluce)_ |
-| ~~Out 10~~ | _Seminários Internacionais_               |        |                             |
-| Out 17     | **Trabalho de Análise 1/3**               |        |                             |
-| Out 24     | **Trabalho de Análise 1/3**               |        |                             |
-| Out 31     | **Trabalho de Análise 1/3**               |        |                             |
-| Nov 7      | Tirar dúvidas para os seminários          |        |                             |
-| Nov 14     | **Seminários:** Lizandra, Joabe           |        |                             |
-| Nov 21     | **Seminários:** Marluce, Wesley           |        |                             |
-| Nov 28     | **Seminários:** Leonardo, Thiago, Samuel  |        |                             |
-| Dez 5      | _Reservado para 2a Chamada_               |        |                             |
-| Dez 12     | Entrega de Resultados (online)            |        |                             |
+| Terça      | Conteúdo                                 | Quinta | Conteúdo                    |
+|:-----------|:-----------------------------------------|:-------|:----------------------------|
+| Out 3      | Harmonia no século XIX                   | Out 5  | _Segunda Chamada (Marluce)_ |
+| ~~Out 10~~ | _Seminários Internacionais_              |        |                             |
+| Out 17     | **Trabalho de Análise 1/3**              |        |                             |
+| Out 24     | **Trabalho de Análise 1/3**              |        |                             |
+| Out 31     | **Trabalho de Análise 1/3**              |        |                             |
+| Nov 7      | Tirar dúvidas para os seminários         |        |                             |
+| Nov 14     | **Seminários:** Lizandra, Joabe          |        |                             |
+| Nov 21     | **Seminários:** Marluce, Wesley          |        |                             |
+| Nov 28     | **Seminários:** Leonardo, Thiago, Samuel |        |                             |
+| Dez 5      | _Reservado para 2a Chamada_              |        |                             |
+| Dez 12     | Entrega de Resultados (online)           |        |                             |
