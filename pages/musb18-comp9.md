@@ -2,7 +2,7 @@
 layout: page
 title: MUSB18 - Composição IX
 permalink: /comp9/
-semestre: 2023.1
+semestre: 2024.1
 ---
 
 Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de
@@ -23,13 +23,11 @@ partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc).
 
 ## Notas
 
-| Nome             | C1  | C2  | C3  | C4  | C5* | C6* | C7* | Nota |
-|------------------|-----|-----|-----|-----|-----|-----|-----|------|
-| Jaderson Cardona | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 | 2.0 | 2.0 | =sum |
-| Josias Luiz Dias | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 | 2.0 | 2.0 | =sum |
-| Rebecca Barbosa  | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 | 2.0 | 2.0 | =sum |
-
-\* Vale 2 pontos
+| Nome                                 | C1 | C2 | C3 | C4 | C5* | C6* | C7* | Nota |
+|:-------------------------------------|:---|:---|:---|:---|:----|:----|:----|:-----|
+| Alex Cerqueira Marques               |    |    |    |    |     |     |     | =sum |
+| Leonardo De Almeida Oliveira         |    |    |    |    |     |     |     | =sum |
+| Marina Mapurunga De Miranda Ferreira |    |    |    |    |     |     |     | =sum |
 
 ## Formação da Orquestra
 
@@ -82,27 +80,26 @@ A monografia será trabalhada nas aulas de composição.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data   | Conteúdo                                                                      |
-|--------|-------------------------------------------------------------------------------|
-| Mar 16 | <del>Congresso da UFBA</del>                                                  |
-| Mar 23 | Introdução ao curso                                                           |
-| Mar 30 | Apreciação de [obras do século 21][31]                                        |
-| Abr 6  | <del>Semana Santa</del>                                                       |
-|        | **Tarefa Assíncrona**: [Vídeo Texto na Composição][30] & Material sobre Texto |
-| Abr 13 | Análise e introdução a versificação                                           |
-| Abr 20 | **Composição 1 minuto (1pt)**                                                 |
-| Abr 27 | _Acompanhamento da composição_                                                |
-| Mai 4  | **Composição 2 minutos (1pt)**                                                |
-| Mai 11 | _Acompanhamento da composição_                                                |
-| Mai 18 | **Composição 3 minutos (1pt)**                                                |
-| Mai 25 | **Composição 4 minutos (1pt)**                                                |
-| Jun 1  | **Composição 5 minutos (2pt)**                                                |
-| Jun 8  | <del>Corpus Christi</del>                                                     |
-| Jun 15 | **Composição 6 minutos (2pt)**                                                |
-| Jun 22 | <del>São João</del>                                                           |
-| Jun 29 | **Composição 7 minutos (2pt)**                                                |
-| Jul 6  | _Reservado para correções (sem aula)_                                         |
-| Jul 13 | _Entrega de resultados (online)_                                              |
 
-[30]: https://www.youtube.com/watch?v=G77TeUWKSQs
+| Data              | Conteúdo                               |
+|:------------------|:---------------------------------------|
+| Mar 14            | Introdução ao curso                    |
+| Mar 21            | Apreciação de [obras do século 21][31] |
+| <del>Mar 28</del> | _Semana Santa_                         |
+| Abr 4             | O texto na composição musical          |
+| Abr 11            | **Composição 1 minuto (1pt)**          |
+| Abr 18            | _Acompanhamento da composição_         |
+| Abr 25            | **Composição 2 minutos (1pt)**         |
+| Mai 2             | _Acompanhamento da composição_         |
+| Mai 9             | **Composição 3 minutos (1pt)**         |
+| Mai 16            | **Composição 4 minutos (1pt)**         |
+| Mai 23            | **Composição 5 minutos (2pt)**         |
+| <del>Mai 30</del> | _Corpus Christi_                       |
+| Jun 6             | **Composição 6 minutos (2pt)**         |
+| Jun 13            | _Acompanhamento da composição_         |
+| Jun 20            | **Composição 7 minutos (2pt)**         |
+| Jun 27            | _Reservado segunda chamada_            |
+| Jul 4             | _Entrega de resultados (online)_       |
+
+
 [31]: /pages/sec21/
