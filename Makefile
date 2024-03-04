@@ -1,12 +1,15 @@
 run:
-	bundle exec jekyll serve
+	~/.rbenv/shims/bundle exec jekyll serve
 
 build:
-	bundle exec jekyll build
+	~/.rbenv/shims/bundle exec jekyll build
 
 clean:
-	bundle exec jekyll clean
+	~/.rbenv/shims/bundle exec jekyll clean
 
+deploy:
+	git push -f deploy master
+	
 # Only on the server
 update:
 	git fetch
@@ -14,5 +17,4 @@ update:
 	git merge '@{u}'
 
 install:
-	bundle install
-	
+	~/.rbenv/shims/bundle install
