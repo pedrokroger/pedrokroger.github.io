@@ -6,3 +6,9 @@ description: Aulas de Pedro Kroger
 url: "https://pkroger.com"
 
 exclude: [antigos, Makefile]
+
+markdown: CommonMarkGhPages
+
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]

@@ -10,6 +10,9 @@ formas da música sinfônica e sinfônico-coral.
 
 ## Notas
 
+<details>
+  <summary>Ver notas</summary>
+
 | Nome                          | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
 |:------------------------------|:----------|:--------------|:----------------|:-----------|
 | Alex Cerqueira Marques        |           |               |                 | =sum       |
@@ -26,6 +29,8 @@ formas da música sinfônica e sinfônico-coral.
 | Tadeu Maciel Feitosa Campos   |           |               |                 | =sum       |
 | Thiago Alves Pereira          |           |               |                 | =sum       |
 | Wesley Alves Dos Santos       |           |               |                 | =sum       |
+
+</details>
 
 ## Avaliação
 
