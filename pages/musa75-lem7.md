@@ -32,6 +32,11 @@ formas da música sinfônica e sinfônico-coral.
 
 </details>
 
+## Materiais
+
+- [Bach Chorales](http://www.bach-chorales.com/Index.htm). Informação extensiva sobre os corais de Bach.
+- [Kostka: Harmonia Tonal](https://nuvem.ufba.br/s/9s7D1lAU6nNfnoF)
+
 ## Avaliação
 
 A avaliação final será a soma de 4 notas:
@@ -43,9 +48,39 @@ A avaliação final será a soma de 4 notas:
 
 ### Prova de Audição
 
-Na parte de audição das obras você deverá identificar o nome da obra, o
-compositor, a data aproximada da obra e a data aproximada do compositor.
+Na parte de audição das obras você deverá identificar o nome da obra, o(a)
+compositor(a), e a data aproximada da obra.
 
+- [[Áudio]][1] Giovanni Pierluigi da Palestrina - Il primo libro de madrigali a 4 voci - 1555
+- [[Áudio]][2] Adriaen Willaert - Te Deum Patrem ingenitum - 1559
+- [[Áudio]][3] Maddalena Casulana - Il secondo Libro de Madrigali a quattro voci - 1570 <br/>
+  _Primeira compositora a ter um volume inteiro exclusivamente de sua música_
+- [[Áudio]][4] Gregorio Allegri - Miserere (trecho) - ~1630
+- [[Áudio]][5] Claudio Monteverdi - Sesto libro de madrigali - Oime il bel viso - 1614
+- [[Áudio]][6] Francesca Caccini - La liberazione di Ruggiero dall’isola di Alcina - Ahi Melissa - 1625 <br/>
+  _Primeira mulher a escrever uma ópera completa_
+- [[Áudio]][7] Barbara Strozzi - Che si può fare op. 8 - 1664
+- [[Áudio]][8] A. Vivaldi - Concerto em Si Menor - 2o Movimento - 1711
+- [[Áudio]][9] J. S. Bach - Concerto in A minor - 2o Movimento - 1714
+- [[Áudio]][10] J. S. Bach - Missa em Si Menor - Kyrie - 1748
+
+[Baixar todas as músicas][11] de uma vez em um arquivo zip.
+
+[1]: https://nuvem.ufba.br/s/37ucoKUSN8igtSr
+[2]: https://nuvem.ufba.br/s/JcPbGA6Q88XccH6
+[3]: https://nuvem.ufba.br/s/o1A4U2TCETXtTSg
+[4]: https://nuvem.ufba.br/s/SWnt6nMzUfzNyVp
+[5]: https://nuvem.ufba.br/s/CbS75tsvqHKkWIW
+[6]: https://nuvem.ufba.br/s/VbLKAhYCdrmnqbM
+[7]: https://nuvem.ufba.br/s/6JFy5U2YNPonyJF
+[8]: https://nuvem.ufba.br/s/cdv8gNa4w9AyekC
+[9]: https://nuvem.ufba.br/s/dl32BNdHyfhCGgc
+[10]: https://nuvem.ufba.br/s/cEsMIJ1O1rruC6I
+[11]: https://nuvem.ufba.br/s/J0fpz4HGboIuWxW
+
+Extras
+
+- {% yt %} [How Allegri's Miserere should really sound](https://www.youtube.com/watch?v=h6hD8YtO5HI)
 
 
 {% comment %}
@@ -88,32 +123,24 @@ As aulas expositivas serão nas terças. As aulas na quintas serão para tirar
 dúvidas individuais.
 
 
-- Introdução ao curso. Revisão de harmonia e análise
-- Revisão                                           
-- Revisão                                           
-- **Prova de Audição e Revisão**                    
-- Visão geral histórica                             
-- Modalidade vs. Tonalidade                         
-
-
-| Terça             | Conteúdo                         | Quinta            | Conteúdo                              |
-|:------------------|:---------------------------------|:------------------|:--------------------------------------|
-| Mar 12            |                                  | Mar 14            |                                       |
-| Mar 19            |                                  | Mar 21            |                                       |
-| Mar 26            |                                  | <del>Mar 28</del> | _Semana Santa_                        |
-| Abr 2             |                                  | Abr 4             |                                       |
-| Abr 9             |                                  | Abr 11            |                                       |
-| Abr 16            |                                  | Abr 18            |                                       |
-| Abr 23            |                                  | Abr 25            |                                       |
-| Abr 30            |                                  | Mai 2             |                                       |
-| Mai 7             |                                  | Mai 9             |                                       |
-| Mai 14            |                                  | Mai 16            |                                       |
-| Mai 21            |                                  | Mai 23            |                                       |
-| Mai 28            |                                  | <del>Mai 30</del> | _Corpus Christi_                      |
-| Jun 4             |                                  | Jun 6             |                                       |
-| Jun 11            |                                  | Jun 13            |                                       |
-| Jun 18            |                                  | Jun 20            |                                       |
-| <del>Jun 25</del> | _São João_                       | Jun 27            | Segunda Chamada                       |
-| <del>Jul 2</del>  | _Independência da Bahia_         | Jul 4             | _Reservado para correções (sem aula)_ |
-| Jul 9             | _Entrega de resultados (online)_ | Jul 11            |                                       |
+| Terça             | Conteúdo                                 | Quinta            | Conteúdo                              |
+|:------------------|:-----------------------------------------|:------------------|:--------------------------------------|
+| Mar 12            | Introdução ao curso. Revisão de harmonia | Mar 14            | Revisão                               |
+| Mar 19            | Revisão                                  | Mar 21            | Revisão                               |
+| Mar 26            | Revisão                                  | <del>Mar 28</del> | _Semana Santa_                        |
+| Abr 2             | Revisão                                  | Abr 4             | Revisão                               |
+| Abr 9             | **Prova de Audição e Revisão**           | Abr 11            |                                       |
+| Abr 16            | Modos                                    | Abr 18            |                                       |
+| Abr 23            |                                          | Abr 25            |                                       |
+| Abr 30            |                                          | Mai 2             |                                       |
+| Mai 7             |                                          | Mai 9             |                                       |
+| Mai 14            |                                          | Mai 16            |                                       |
+| Mai 21            | **Trabalho Análise**                     | Mai 23            | **Trabalho Análise**                  |
+| Mai 28            |                                          | <del>Mai 30</del> | _Corpus Christi_                      |
+| Jun 4             | **Seminários**                           | Jun 6             | **Seminários**                        |
+| Jun 11            | **Seminários**                           | Jun 13            | **Seminários**                        |
+| Jun 18            | **Seminários**                           | Jun 20            | **Seminários**                        |
+| <del>Jun 25</del> | _São João_                               | Jun 27            | Segunda Chamada                       |
+| <del>Jul 2</del>  | _Independência da Bahia_                 | Jul 4             | _Reservado para correções (sem aula)_ |
+| Jul 9             | _Entrega de resultados (online)_         | Jul 11            |                                       |
 
