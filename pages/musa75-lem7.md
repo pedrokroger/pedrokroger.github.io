@@ -39,9 +39,9 @@ formas da música sinfônica e sinfônico-coral.
 
 ## Avaliação
 
-A avaliação final será a soma de 4 notas:
+A avaliação final será a soma de 3 notas:
 
- - 1 prova de audição e análise (3 pontos): Kostka cap 11–12, 16—19, 21—24
+ - 1 prova de audição e análise (3 pontos): Kostka capítulos 11–12, 16—19, 21—24
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
 
@@ -119,27 +119,24 @@ Os elementos a serem analisados:
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-As aulas expositivas serão nas terças. As aulas na quintas serão para tirar
-dúvidas individuais.
-
 
 | Terça             | Conteúdo                                 | Quinta            | Conteúdo                              |
 |:------------------|:-----------------------------------------|:------------------|:--------------------------------------|
-| Mar 12            | Introdução ao curso. Revisão de harmonia | Mar 14            | Revisão                               |
-| Mar 19            | Revisão                                  | Mar 21            | Revisão                               |
-| Mar 26            | Revisão                                  | <del>Mar 28</del> | _Semana Santa_                        |
-| Abr 2             | Revisão                                  | Abr 4             | Revisão                               |
-| Abr 9             | **Prova de Audição e Revisão**           | Abr 11            |                                       |
-| Abr 16            | Modos                                    | Abr 18            |                                       |
-| Abr 23            |                                          | Abr 25            |                                       |
+| Mar 12            | Introdução ao curso. Revisão de harmonia | Mar 14            | Revisão e análise                     |
+| Mar 19            | Revisão e análise                        | Mar 21            | Revisão e análise                     |
+| Mar 26            | Revisão e análise                        | <del>Mar 28</del> | _Semana Santa_                        |
+| Abr 2             | **Prova de Audição e Revisão**           | Abr 4             | Correção da prova                     |
+| Abr 9             | Tonalidade vs. Modalismo                 | Abr 11            | Análise de obras                      |
+| Abr 16            | Análise de obras renascentistas          | Abr 18            | Análise de obras                      |
+| Abr 23            | Análise de obras renascentistas          | Abr 25            | Análise de obras                      |
 | Abr 30            |                                          | Mai 2             |                                       |
-| Mai 7             |                                          | Mai 9             |                                       |
-| Mai 14            |                                          | Mai 16            |                                       |
-| Mai 21            | **Trabalho Análise**                     | Mai 23            | **Trabalho Análise**                  |
+| Mai 7             | **Trabalho de Análise**                  | Mai 9             | **Trabalho de Análise**               |
+| Mai 14            | **Trabalho de Análise**                  | Mai 16            | **Trabalho de Análise**               |
+| Mai 21            | **Trabalho de Análise**                  | Mai 23            | **Trabalho de Análise**               |
 | Mai 28            |                                          | <del>Mai 30</del> | _Corpus Christi_                      |
-| Jun 4             | **Seminários**                           | Jun 6             | **Seminários**                        |
-| Jun 11            | **Seminários**                           | Jun 13            | **Seminários**                        |
-| Jun 18            | **Seminários**                           | Jun 20            | **Seminários**                        |
+| Jun 4             | **Apresentação Seminários**              | Jun 6             | **Apresentação Seminários**           |
+| Jun 11            | **Apresentação Seminários**              | Jun 13            | **Apresentação Seminários**           |
+| Jun 18            | **Apresentação Seminários**              | Jun 20            | **Apresentação Seminários**           |
 | <del>Jun 25</del> | _São João_                               | Jun 27            | Segunda Chamada                       |
 | <del>Jul 2</del>  | _Independência da Bahia_                 | Jul 4             | _Reservado para correções (sem aula)_ |
 | Jul 9             | _Entrega de resultados (online)_         | Jul 11            |                                       |
