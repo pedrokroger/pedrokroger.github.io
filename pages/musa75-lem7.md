@@ -5,9 +5,6 @@ permalink: /lem7/
 semestre: 2024.1
 ---
 
-Estudo das técnicas contrapontísticas e harmônicas complexas e das grandes
-formas da música sinfônica e sinfônico-coral.
-
 ## Notas
 
 <details>
