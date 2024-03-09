@@ -14,11 +14,11 @@ Barroco até o século XX.
 
 ## Notas
 
-| Nome                        | T1 | T2 | T3 | T4 | Nota Final |
-|:----------------------------|:---|:---|:---|:---|:-----------|
-| Daniel Lopes De Oliveira    |    |    |    |    | =sum       |
-| Luciano Jose Salvador Bahia |    |    |    |    | =sum       |
-| Rafael Espinheira Santiago  |    |    |    |    | =sum       |
+| Nome                        | Prova | T1 | T2 | T3 | Nota Final |
+|:----------------------------|:------|:---|:---|:---|:-----------|
+| Daniel Lopes De Oliveira    |       |    |    |    | =sum       |
+| Luciano Jose Salvador Bahia |       |    |    |    | =sum       |
+| Rafael Espinheira Santiago  |       |    |    |    | =sum       |
 
 ## Avaliação
 
