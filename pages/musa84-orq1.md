@@ -51,6 +51,12 @@ obras e compositores(as):
 [7]: https://nuvem.ufba.br/s/S5QT7wCNweVhLte
 [8]: https://nuvem.ufba.br/s/5dq6DnBBaKCFUXc
 
+### Trabalhos
+
+- **Trabalho 1**: _a definir_
+- **Trabalho 2**: _a definir_
+- **Trabalho 3**: _a definir_
+
 ## Materiais
 
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
