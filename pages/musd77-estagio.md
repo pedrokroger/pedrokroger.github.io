@@ -8,10 +8,10 @@ semestre: 2024.1
 Essa é uma atividade sem aulas presenciais. O discente deverá trabalhar em
 alguma atividade fora das disciplinas da Escola de Música da UFBA.
 
-{: .alert .alert-warning}
+<p class="alert alert-warning">
 No contexto atual da pandemia, serão aceitas atividades de cunho pessoal, como
 uma análise, estudo ou composição.
-
+</p>
 
 ## Avaliação
 
