@@ -103,4 +103,4 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jul 4             | _Entrega de resultados (online)_       |
 
 
-[31]: /pages/sec21/
+[31]: /sec21/
