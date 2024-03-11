@@ -71,10 +71,10 @@ instrumentos se desejar:
 A monografia será trabalhada nas aulas de composição.
 
 - [Monografia de Marcos][10]
-- [Template da Monografia][11]
+- Template da Monografia. **Em breve**
 
-[10]: https://www.icloud.com/iclouddrive/05eWqDQICE5DhqCRJh7LxuoBw#Monografia_Marcos_Sampaio
-[11]: https://www.dropbox.com/scl/fi/ljxzu5imnuicne8gsfp9q/Template.docx?dl=0&rlkey=cplhwh3g30et2z2f9541jcyrx
+[10]: https://nuvem.ufba.br/s/SXPpxVJ1c4iBDcf
+
 
 ## Cronograma
 

@@ -1,6 +1,7 @@
 ---
 title: Composições do Século 21
 layout: page
+permalink: /sec21/
 ---
 
 
