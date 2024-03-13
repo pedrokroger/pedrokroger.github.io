@@ -82,25 +82,25 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 ser modificado de acordo com a necessidade e eventualidade.
 
 
-| Data              | Conteúdo                               |
-|:------------------|:---------------------------------------|
-| Mar 14            | Introdução ao curso                    |
-| Mar 21            | Apreciação de [obras do século 21][31] |
-| <del>Mar 28</del> | _Semana Santa_                         |
-| Abr 4             | O texto na composição musical          |
-| Abr 11            | **Composição 1 minuto (1pt)**          |
-| Abr 18            | _Acompanhamento da composição_         |
-| Abr 25            | **Composição 2 minutos (1pt)**         |
-| Mai 2             | _Acompanhamento da composição_         |
-| Mai 9             | **Composição 3 minutos (1pt)**         |
-| Mai 16            | **Composição 4 minutos (1pt)**         |
-| Mai 23            | **Composição 5 minutos (2pt)**         |
-| <del>Mai 30</del> | _Corpus Christi_                       |
-| Jun 6             | **Composição 6 minutos (2pt)**         |
-| Jun 13            | _Acompanhamento da composição_         |
-| Jun 20            | **Composição 7 minutos (2pt)**         |
-| Jun 27            | _Reservado segunda chamada_            |
-| Jul 4             | _Entrega de resultados (online)_       |
+| Data              | Conteúdo                                                     |
+|:------------------|:-------------------------------------------------------------|
+| Mar 14            | Introdução ao curso e apreciação de [obras do século 21][31] |
+| Mar 21            | O texto na composição musical                                |
+| <del>Mar 28</del> | _Semana Santa_                                               |
+| Abr 4             | Análise de obras                                             |
+| Abr 11            | **Composição 1 minuto (1pt)**                                |
+| Abr 18            | _Acompanhamento da composição_                               |
+| Abr 25            | **Composição 2 minutos (1pt)**                               |
+| Mai 2             | _Acompanhamento da composição_                               |
+| Mai 9             | **Composição 3 minutos (1pt)**                               |
+| Mai 16            | **Composição 4 minutos (1pt)**                               |
+| Mai 23            | **Composição 5 minutos (2pt)**                               |
+| <del>Mai 30</del> | _Corpus Christi_                                             |
+| Jun 6             | **Composição 6 minutos (2pt)**                               |
+| Jun 13            | _Acompanhamento da composição_                               |
+| Jun 20            | **Composição 7 minutos (2pt)**                               |
+| Jun 27            | _Reservado segunda chamada_                                  |
+| Jul 4             | _Entrega de resultados (online)_                             |
 
 
 [31]: /sec21/
