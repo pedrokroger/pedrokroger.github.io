@@ -54,6 +54,7 @@ instrumentos se desejar:
 ## Materiais
 
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
+- [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
 
 ## Texto
 
