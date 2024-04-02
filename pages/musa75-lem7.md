@@ -117,24 +117,24 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 ser modificado de acordo com a necessidade e eventualidade.
 
 
-| Terça             | Conteúdo                                 | Quinta            | Conteúdo                              |
-|:------------------|:-----------------------------------------|:------------------|:--------------------------------------|
-| Mar 12            | Introdução ao curso. Revisão de harmonia | Mar 14            | Revisão e análise                     |
-| Mar 19            | Revisão e análise                        | Mar 21            | Revisão e análise                     |
-| Mar 26            | Revisão e análise                        | <del>Mar 28</del> | _Semana Santa_                        |
-| Abr 2             | **Prova de Audição e Revisão**           | Abr 4             | Correção da prova                     |
-| Abr 9             | Tonalidade vs. Modalismo                 | Abr 11            | Análise de obras                      |
-| Abr 16            | Análise de obras renascentistas          | Abr 18            | Análise de obras                      |
-| Abr 23            | Análise de obras renascentistas          | Abr 25            | Análise de obras                      |
-| Abr 30            |                                          | Mai 2             |                                       |
-| Mai 7             | **Trabalho de Análise**                  | Mai 9             | **Trabalho de Análise**               |
-| Mai 14            | **Trabalho de Análise**                  | Mai 16            | **Trabalho de Análise**               |
-| Mai 21            | **Trabalho de Análise**                  | Mai 23            | **Trabalho de Análise**               |
-| Mai 28            |                                          | <del>Mai 30</del> | _Corpus Christi_                      |
-| Jun 4             | **Apresentação Seminários**              | Jun 6             | **Apresentação Seminários**           |
-| Jun 11            | **Apresentação Seminários**              | Jun 13            | **Apresentação Seminários**           |
-| Jun 18            | **Apresentação Seminários**              | Jun 20            | **Apresentação Seminários**           |
-| <del>Jun 25</del> | _São João_                               | Jun 27            | Segunda Chamada                       |
-| <del>Jul 2</del>  | _Independência da Bahia_                 | Jul 4             | _Reservado para correções (sem aula)_ |
-| Jul 9             | _Entrega de resultados (online)_         | Jul 11            |                                       |
+| Terça             | Conteúdo                                 | Quinta            | Conteúdo                                    |
+|:------------------|:-----------------------------------------|:------------------|:--------------------------------------------|
+| Mar 12            | Introdução ao curso. Revisão de harmonia | Mar 14            | Revisão e análise                           |
+| Mar 19            | Revisão e análise                        | Mar 21            | Revisão e análise                           |
+| Mar 26            | Revisão e análise                        | <del>Mar 28</del> | _Semana Santa_                              |
+| Abr 2             | **Prova de Audição e Revisão**           | Abr 4             | Correção da prova e Introdução ao Modalismo |
+| Abr 9             | Tonalidade vs. Modalismo                 | Abr 11            | Análise de obras                            |
+| Abr 16            | Análise de obras renascentistas          | Abr 18            | Análise de obras                            |
+| Abr 23            | Análise de obras renascentistas          | Abr 25            | Análise de obras                            |
+| Abr 30            |                                          | Mai 2             |                                             |
+| Mai 7             | **Trabalho de Análise**                  | Mai 9             | **Trabalho de Análise**                     |
+| Mai 14            | **Trabalho de Análise**                  | Mai 16            | **Trabalho de Análise**                     |
+| Mai 21            | **Trabalho de Análise**                  | Mai 23            | **Trabalho de Análise**                     |
+| Mai 28            |                                          | <del>Mai 30</del> | _Corpus Christi_                            |
+| Jun 4             | **Apresentação Seminários**              | Jun 6             | **Apresentação Seminários**                 |
+| Jun 11            | **Apresentação Seminários**              | Jun 13            | **Apresentação Seminários**                 |
+| Jun 18            | **Apresentação Seminários**              | Jun 20            | **Apresentação Seminários**                 |
+| <del>Jun 25</del> | _São João_                               | Jun 27            | Segunda Chamada                             |
+| <del>Jul 2</del>  | _Independência da Bahia_                 | Jul 4             | _Reservado para correções (sem aula)_       |
+| Jul 9             | _Entrega de resultados (online)_         | Jul 11            |                                             |
 
