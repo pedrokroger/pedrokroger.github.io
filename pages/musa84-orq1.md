@@ -19,11 +19,11 @@ Barroco até o século XX.
 
 | Nome                        | Prova | T1 | T2 | T3 | Nota Final |
 |:----------------------------|:------|:---|:---|:---|:-----------|
-| Daniel Lopes De Oliveira    |       |    |    |    | =sum       |
-| Emyle Magna Santos Barbosa  |       |    |    |    | =sum       |
-| Gianmarco Turina            |       |    |    |    | =sum       |
-| Luciano Jose Salvador Bahia |       |    |    |    | =sum       |
-| Rafael Espinheira Santiago  |       |    |    |    | =sum       |
+| Daniel Lopes De Oliveira    | 2.5   |    |    |    | =sum       |
+| Emyle Magna Santos Barbosa  | 1.8   |    |    |    | =sum       |
+| Gianmarco Turina            | 2.5   |    |    |    | =sum       |
+| Luciano Jose Salvador Bahia | 2.5   |    |    |    | =sum       |
+| Rafael Espinheira Santiago  | 2.2   |    |    |    | =sum       |
 
 </details>
 

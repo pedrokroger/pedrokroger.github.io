@@ -12,20 +12,21 @@ semestre: 2024.1
 
 | Nome                          | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
 |:------------------------------|:----------|:--------------|:----------------|:-----------|
-| Alex Cerqueira Marques        |           |               |                 | =sum       |
-| Caroline Lima Turbiani        |           |               |                 | =sum       |
-| Emyle Magna Santos Barbosa    |           |               |                 | =sum       |
-| Gabriela Dalcom De Oliveira   |           |               |                 | =sum       |
-| Joabe Jesus Borges            |           |               |                 | =sum       |
-| João Henrique Souza E Souza   |           |               |                 | =sum       |
-| Jonatan Silva De Oliveira     |           |               |                 | =sum       |
-| Lizandra Dos Santos Goncalves |           |               |                 | =sum       |
-| Rafael Santos Alencar         |           |               |                 | =sum       |
-| Rebeca De Oliveira Lima       |           |               |                 | =sum       |
-| Samuel Da Silva Ressurreição  |           |               |                 | =sum       |
-| Tadeu Maciel Feitosa Campos   |           |               |                 | =sum       |
-| Thiago Alves Pereira          |           |               |                 | =sum       |
-| Wesley Alves Dos Santos       |           |               |                 | =sum       |
+| Alex Cerqueira Marques        | 2.7       |               |                 | =sum       |
+| Caroline Lima Turbiani        | 2.3       |               |                 | =sum       |
+| Emyle Magna Santos Barbosa    | 2.3       |               |                 | =sum       |
+| Gabriela Dalcom De Oliveira   | 2.7       |               |                 | =sum       |
+| Joabe Jesus Borges            | 2.8       |               |                 | =sum       |
+| João Henrique Souza e Souza   | 2.4       |               |                 | =sum       |
+| Jonatan Silva De Oliveira     | 2.3       |               |                 | =sum       |
+| Liliam Abilio Dantas (*)      | 2.8       |               |                 | =sum       |
+| Lizandra Dos Santos Goncalves | 2.3       |               |                 | =sum       |
+| Rafael Santos Alencar         | 2.4       |               |                 | =sum       |
+| Rebeca De Oliveira Lima       | 2.8       |               |                 | =sum       |
+| Samuel Da Silva Ressurreição  | 2.8       |               |                 | =sum       |
+| Tadeu Maciel Feitosa Campos   | 2.3       |               |                 | =sum       |
+| Thiago Alves Pereira          | 2.5       |               |                 | =sum       |
+| Wesley Alves Dos Santos       | 1.7       |               |                 | =sum       |
 
 </details>
 
