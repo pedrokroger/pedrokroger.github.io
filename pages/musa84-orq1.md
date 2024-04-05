@@ -31,6 +31,8 @@ Barroco até o século XX.
 
 A avaliação final será a soma de 1 prova e 3 trabalhos de orquestração orientados.
 
+{% comment %}
+
 ### Prova
 
 A prova será composta de conteúdo das primeiras aulas sobre instrumentos de
@@ -56,6 +58,8 @@ obras e compositores(as):
 [6]: https://nuvem.ufba.br/s/f8l623NOFLO8WXa
 [7]: https://nuvem.ufba.br/s/S5QT7wCNweVhLte
 [8]: https://nuvem.ufba.br/s/5dq6DnBBaKCFUXc
+
+{% endcomment %}
 
 ### Trabalhos
 

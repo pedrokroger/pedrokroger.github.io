@@ -43,6 +43,7 @@ A avaliação final será a soma de 3 notas:
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
 
+{% comment %}
 
 ### Prova de Audição
 
@@ -80,8 +81,8 @@ Extras
 
 - {% yt %} [How Allegri's Miserere should really sound](https://www.youtube.com/watch?v=h6hD8YtO5HI)
 
+{% endcomment %}
 
-{% comment %}
 
 ### Análise de Obra
 
@@ -96,6 +97,8 @@ Os elementos a serem analisados:
 - Intervalos (dissonância vs consonância)
 - Acordes e sonoridades (visão moderna)
 
+
+{% comment %}
 
 ### Tópicos para os Seminários
 
