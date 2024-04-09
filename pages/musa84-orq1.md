@@ -84,8 +84,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Mar 19            | Madeiras                         |
 | Mar 26            | Madeiras                         |
 | Abr 2             | **Prova (2.5 pontos)**           |
-| Abr 9             | Madeiras                         |
-| Abr 16            | Cordas                           |
+| <del>Abr 9</del>  | _Chuvas fortes_                  |
+| Abr 16            | Madeiras                         |
 | Abr 23            | Cordas                           |
 | Abr 30            | **Trabalho 1 (2.5 pontos)**      |
 | Mai 7             | Cordas                           |

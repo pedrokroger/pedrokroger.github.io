@@ -127,8 +127,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Mar 19            | Revisão e análise                        | Mar 21            | Revisão e análise                           |
 | Mar 26            | Revisão e análise                        | <del>Mar 28</del> | _Semana Santa_                              |
 | Abr 2             | **Prova de Audição e Revisão**           | Abr 4             | Correção da prova e Introdução ao Modalismo |
-| Abr 9             | Tonalidade vs. Modalismo                 | Abr 11            | Análise de obras                            |
-| Abr 16            | Análise de obras renascentistas          | Abr 18            | Análise de obras                            |
+| <del>Abr 9</del>  | _Chuvas fortes_                          | Abr 11            |                                             |
+| Abr 16            | Tonalidade vs. Modalismo                 | Abr 18            | Análise de obras                            |
 | Abr 23            | Análise de obras renascentistas          | Abr 25            | Análise de obras                            |
 | Abr 30            |                                          | Mai 2             |                                             |
 | Mai 7             | **Trabalho de Análise**                  | Mai 9             | **Trabalho de Análise**                     |
