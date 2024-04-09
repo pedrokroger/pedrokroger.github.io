@@ -19,7 +19,7 @@ semestre: 2024.1
 | Joabe Jesus Borges            | 2.8       |               |                 | =sum       |
 | João Henrique Souza e Souza   | 2.4       |               |                 | =sum       |
 | Jonatan Silva De Oliveira     | 2.3       |               |                 | =sum       |
-| Liliam Abilio Dantas (*)      | 2.8       |               |                 | =sum       |
+| Liliam Abilio Dantas          | 2.8       |               |                 | =sum       |
 | Lizandra Dos Santos Goncalves | 2.3       |               |                 | =sum       |
 | Rafael Santos Alencar         | 2.4       |               |                 | =sum       |
 | Rebeca De Oliveira Lima       | 2.8       |               |                 | =sum       |
