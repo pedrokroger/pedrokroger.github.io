@@ -31,9 +31,7 @@ Barroco até o século XX.
 
 A avaliação final será a soma de 1 prova e 3 trabalhos de orquestração orientados.
 
-{% comment %}
-
-### Prova
+<!-- ### Prova
 
 A prova será composta de conteúdo das primeiras aulas sobre instrumentos de
 madeira e terá uma parte de audição onde você deverá identificar as seguintes
@@ -47,19 +45,8 @@ obras e compositores(as):
 - [[Baixar]][6] Heitor Villa-Lobos - Uirapurú (trecho) - 1934
 - [[Baixar]][7] Silvestre Revueltas - La Noche de los Mayas, IV - 1939
 
-[Baixar todas as músicas][8] de uma vez em um arquivo zip.
+-->
 
-
-[1]: https://nuvem.ufba.br/s/JSagPhgqYOP7IJF
-[2]: https://nuvem.ufba.br/s/tZQiphW98iZTjTR
-[3]: https://nuvem.ufba.br/s/wByZgRRIUPEaMNp
-[4]: https://nuvem.ufba.br/s/7wlh4maDWdSEMv1
-[5]: https://nuvem.ufba.br/s/6SrqPT3VZIWST1e
-[6]: https://nuvem.ufba.br/s/f8l623NOFLO8WXa
-[7]: https://nuvem.ufba.br/s/S5QT7wCNweVhLte
-[8]: https://nuvem.ufba.br/s/5dq6DnBBaKCFUXc
-
-{% endcomment %}
 
 ### Trabalhos
 
@@ -78,24 +65,23 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 ser modificado de acordo com a necessidade e eventualidade.
 
 
-| Data              | Conteúdo                         |
-|:------------------|:---------------------------------|
-| Mar 12            | Introdução ao Curso & Madeiras   |
-| Mar 19            | Madeiras                         |
-| Mar 26            | Madeiras                         |
-| Abr 2             | **Prova (2.5 pontos)**           |
-| <del>Abr 9</del>  | _Chuvas fortes_                  |
-| Abr 16            | Madeiras                         |
-| Abr 23            | Cordas                           |
-| Abr 30            | **Trabalho 1 (2.5 pontos)**      |
-| Mai 7             | Cordas                           |
-| Mai 14            | Cordas                           |
-| Mai 21            | Análise de Trechos               |
-| Mai 28            | **Trabalho 2 (2.5 pontos)**      |
-| Jun 4             | Análise de Trechos               |
-| Jun 11            | Análise de Trechos               |
-| Jun 18            | **Trabalho 3 (2.5 pontos)**      |
-| <del>Jun 25</del> | _São João_                       |
-| <del>Jul 2</del>  | _Independência da Bahia_         |
-| Jul 9             | _Entrega de resultados (online)_ |
-
+| Data       | Conteúdo                         |
+|:-----------|:---------------------------------|
+| Mar 12     | Introdução ao Curso & Madeiras   |
+| Mar 19     | Madeiras                         |
+| Mar 26     | Madeiras                         |
+| Abr 2      | **Prova (2.5 pontos)**           |
+| ~~Abr 9~~  | _Chuvas fortes_                  |
+| Abr 16     | Madeiras                         |
+| Abr 23     | Cordas                           |
+| Abr 30     | **Trabalho 1 (2.5 pontos)**      |
+| Mai 7      | Cordas                           |
+| Mai 14     | Cordas                           |
+| Mai 21     | Análise de Trechos               |
+| Mai 28     | **Trabalho 2 (2.5 pontos)**      |
+| Jun 4      | Análise de Trechos               |
+| Jun 11     | Análise de Trechos               |
+| Jun 18     | **Trabalho 3 (2.5 pontos)**      |
+| ~~Jun 25~~ | _São João_                       |
+| ~~Jul 2~~  | _Independência da Bahia_         |
+| Jul 9      | _Entrega de resultados (online)_ |
