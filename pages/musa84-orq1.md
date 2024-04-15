@@ -37,20 +37,30 @@ A prova será composta de conteúdo das primeiras aulas sobre instrumentos de
 madeira e terá uma parte de audição onde você deverá identificar as seguintes
 obras e compositores(as):
 
-- [[Baixar]][1] Mozart - Symphony No. 41 Jupiter, IV Mov. - 1788
-- [[Baixar]][2] Clara Schumann - Piano Concerto in A minor, Op. 7 (trecho) - 1835
-- [[Baixar]][3] Rimsky-Korsakov - Suite da Lenda do Tsar Saltan (trecho) - 1901
-- [[Baixar]][4] Stravinsky - Suite do Pássaro de Fogo - 1919
-- [[Baixar]][5] Respighi, I Pini di Rome (trecho) - 1924
-- [[Baixar]][6] Heitor Villa-Lobos - Uirapurú (trecho) - 1934
-- [[Baixar]][7] Silvestre Revueltas - La Noche de los Mayas, IV - 1939
+- Mozart - Symphony No. 41 Jupiter, IV Mov. - 1788
+- Clara Schumann - Piano Concerto in A minor, Op. 7 (trecho) - 1835
+- Rimsky-Korsakov - Suite da Lenda do Tsar Saltan (trecho) - 1901
+- Stravinsky - Suite do Pássaro de Fogo - 1919
+- Respighi, I Pini di Rome (trecho) - 1924
+- Heitor Villa-Lobos - Uirapurú (trecho) - 1934
+- Silvestre Revueltas - La Noche de los Mayas, IV - 1939
 
 -->
 
 
 ### Trabalhos
 
-- **Trabalho 1**: _a definir_
+- **Trabalho 1**: Fazer uma redução analítica do seguinte trecho do _Concerto
+  para Orquestra_ de B. Bartok: [pdf][1], [mp3][2] Na partitura "C.A." indica
+  corne inglês, "B.Cl" indica clarinete baixo e "Bsns" indica fagotes. O
+  objetivo desse trabalho é poder observar os elementos da textura e os
+  instrumentos de madeira em cada registro tanto individualmente quanto no
+  contexto da orquestra. Você deve entregar um pdf com a partitura e um mp3 com
+  o áudio. **Valor: 2.5 pontos**, **Entrega: 30 de Abril**
+
+[1]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.pdf
+[2]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.mp3
+
 - **Trabalho 2**: _a definir_
 - **Trabalho 3**: _a definir_
 
