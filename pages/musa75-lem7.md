@@ -71,14 +71,17 @@ Extras
 
 ### Análise de Obra
 
-Você deverá analisar um trecho da peça designada semanalmente (partitura e
-gravação disponível abaixo) e apresentar oralmente aos colegas o resultado da
-análise da semana. Eu recomendo levar a análise em um formato gráfico como PDF
-para que possamos ver na televisão da sala de aula.
+Você deverá analisar um trecho da peça designada (partitura e gravação
+disponível abaixo) e apresentar oralmente o resultado da análise em sala de
+aula.
+
+Eu recomendo levar a análise em um formato gráfico como PDF para vermos na
+televisão da sala de aula.
 
 Os elementos a serem analisados:
 - Motivos
 - Imitações
+- Modos
 - Intervalos (dissonância vs consonância)
 - Acordes e sonoridades (visão moderna)
 
@@ -112,11 +115,11 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Abr 9~~  | _Chuvas fortes_                          | Abr 11     | Tonalidade vs. Modalismo                    |
 | Abr 16     | Análise de obras renascentistas          | Abr 18     | Análise de obras                            |
 | Abr 23     | Análise de obras renascentistas          | Abr 25     | Análise de obras                            |
-| Abr 30     |                                          | Mai 2      |                                             |
+| Abr 30     | _Tirar dúvidas trabalho_                 | Mai 2      | _Tirar dúvidas trabalho_                    |
 | Mai 7      | **Trabalho de Análise**                  | Mai 9      | **Trabalho de Análise**                     |
 | Mai 14     | **Trabalho de Análise**                  | Mai 16     | **Trabalho de Análise**                     |
 | Mai 21     | **Trabalho de Análise**                  | Mai 23     | **Trabalho de Análise**                     |
-| Mai 28     |                                          | ~~Mai 30~~ | _Corpus Christi_                            |
+| Mai 28     | _Tirar dúdivas apresentação_             | ~~Mai 30~~ | _Corpus Christi_                            |
 | Jun 4      | **Apresentação Seminários**              | Jun 6      | **Apresentação Seminários**                 |
 | Jun 11     | **Apresentação Seminários**              | Jun 13     | **Apresentação Seminários**                 |
 | Jun 18     | **Apresentação Seminários**              | Jun 20     | **Apresentação Seminários**                 |
