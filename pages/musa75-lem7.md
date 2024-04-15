@@ -121,7 +121,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Mai 7      | **Trabalho de Análise**                  | Mai 9      | **Trabalho de Análise**                     |
 | Mai 14     | **Trabalho de Análise**                  | Mai 16     | **Trabalho de Análise**                     |
 | Mai 21     | **Trabalho de Análise**                  | Mai 23     | **Trabalho de Análise**                     |
-| Mai 28     | _Tirar dúdivas apresentação_             | ~~Mai 30~~ | _Corpus Christi_                            |
+| Mai 28     | _Tirar dúvidas apresentação_             | ~~Mai 30~~ | _Corpus Christi_                            |
 | Jun 4      | **Apresentação Seminários**              | Jun 6      | **Apresentação Seminários**                 |
 | Jun 11     | **Apresentação Seminários**              | Jun 13     | **Apresentação Seminários**                 |
 | Jun 18     | **Apresentação Seminários**              | Jun 20     | **Apresentação Seminários**                 |
