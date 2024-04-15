@@ -32,6 +32,7 @@ semestre: 2024.1
 
 ## Materiais
 
+- [Mode Calculator](https://music-theory-practice.com/modes/mode-calculator.html)
 - [Bach Chorales](http://www.bach-chorales.com/Index.htm). Informação extensiva sobre os corais de Bach.
 - [Kostka: Harmonia Tonal](https://nuvem.ufba.br/s/9s7D1lAU6nNfnoF)
 - {% ppt %} [Introdução aos Modos](https://docs.pkroger.com/Introdução%20aos%20Modos.pptx)
