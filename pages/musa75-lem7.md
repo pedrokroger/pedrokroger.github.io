@@ -116,7 +116,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Abr 2      | **Prova de Audição e Revisão**           | Abr 4      | Correção da prova e Introdução ao Modalismo |
 | ~~Abr 9~~  | _Chuvas fortes_                          | Abr 11     | Tonalidade vs. Modalismo                    |
 | Abr 16     | Análise de obras renascentistas          | Abr 18     | Análise de obras                            |
-| Abr 23     | Análise de obras renascentistas          | Abr 25     | Análise de obras                            |
+| Abr 23     | Análise de obras renascentistas          | ~~Abr 25~~ | _Tarefa assíncrona_                         |
 | Abr 30     | _Tirar dúvidas trabalho_                 | Mai 2      | _Tirar dúvidas trabalho_                    |
 | Mai 7      | **Trabalho de Análise**                  | Mai 9      | **Trabalho de Análise**                     |
 | Mai 14     | **Trabalho de Análise**                  | Mai 16     | **Trabalho de Análise**                     |
