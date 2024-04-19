@@ -58,6 +58,8 @@ obras e compositores(as):
   contexto da orquestra. Você deve entregar um pdf com a partitura e um mp3 com
   o áudio. **Valor: 2.5 pontos**, **Entrega: 30 de Abril**
 
+  Ver a página sobre [redução analítica](/reducao/)
+
 [1]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.pdf
 [2]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.mp3
 
