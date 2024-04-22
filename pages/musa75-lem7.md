@@ -78,6 +78,10 @@ disponível abaixo) e apresentar oralmente o resultado da análise em sala de
 aula. A nota (3.5 pontos) será o resultado de 4 apresentações orais em sala
 entre os dias 7 e 23 de maio.
 
+É esperado que você apresente a análise de 2 ou 3 sistemas em cada aula. Caso o
+seu trecho designado seja curto demais, um trecho suplementar será dado. Alguns
+trechos são mais longos e não precisam ser analisados em sua totalidade.
+
 Eu recomendo levar a análise em um formato gráfico como PDF para vermos na
 televisão da sala de aula.
 
