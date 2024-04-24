@@ -5,7 +5,7 @@ layout: default
 
 <ul>
   {% for page in site.pages %}
-  {% if site.data.atual.aulas contains page.name %}
+  {% if site.data.index contains page.name %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
   {% endfor %}

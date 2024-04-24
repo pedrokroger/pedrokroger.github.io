@@ -1,7 +1,6 @@
 ---
 title: MUSD77 - Estágio Supervisionado
 permalink: /estagio/
-layout: aula
 ---
 
 Essa é uma atividade sem aulas presenciais. O discente deverá trabalhar em

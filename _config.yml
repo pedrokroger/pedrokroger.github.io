@@ -12,3 +12,18 @@ markdown: CommonMarkGhPages
 commonmark:
   options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table"]
+
+# Define the default layout for all pages and pages in "aulas"
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "aulas"
+      type: "pages"
+    values:
+      layout: "aula"

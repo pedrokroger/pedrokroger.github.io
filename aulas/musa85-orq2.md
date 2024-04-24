@@ -1,7 +1,6 @@
 ---
 title: MUSA85 - Instrumentação e Orquestração II
 permalink: /orq2/
-layout: aula
 ---
 
 Nível 2 do conhecimento básico dos instrumentos da Orquestra Clássica de modo

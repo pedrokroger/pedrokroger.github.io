@@ -1,6 +1,5 @@
 ---
 title: Redução Analítica
-layout: default
 permalink: /reducao/
 ---
 

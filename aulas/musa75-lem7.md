@@ -1,7 +1,6 @@
 ---
 title: MUSA75 - Literatura e Estruturação Musical VII
 permalink: /lem7/
-layout: aula
 ---
 
 ## Notas
