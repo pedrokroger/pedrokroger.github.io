@@ -88,7 +88,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Data       | Conteúdo                                                            |
 |:-----------|:--------------------------------------------------------------------|
 | Mar 14     | Introdução ao curso                                                 |
-| Mar 21     | apreciação de [obras do século 21][31]                              |
+| Mar 21     | apreciação de [obras do século 21](/sec21/)                         |
 | ~~Mar 28~~ | _Semana Santa_                                                      |
 | Abr 4      | O texto na composição musical                                       |
 | Abr 11     | **Composição 1 minuto (1pt)**                                       |
@@ -104,6 +104,3 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jun 20     | **Composição 7 minutos (2pt)**                                      |
 | Jun 27     | _Reservado segunda chamada_                                         |
 | Jul 4      | _Entrega de resultados (online)_                                    |
-
-
-[31]: /sec21/
