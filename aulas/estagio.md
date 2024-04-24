@@ -1,5 +1,6 @@
 ---
 title: MUSD77 - Estágio Supervisionado
+showindex: true
 ---
 
 Essa é uma atividade sem aulas presenciais. O discente deverá trabalhar em

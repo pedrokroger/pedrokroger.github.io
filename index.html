@@ -3,10 +3,10 @@ title: Disciplinas
 layout: default
 ---
 
+{%- assign pages = site.pages | where: 'showindex', 'true' | sort: 'title' -%}
+
 <ul>
-  {% for page in site.pages %}
-  {% if site.data.index contains page.name %}
+  {% for page in pages %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-  {% endif %}
   {% endfor %}
 </ul>

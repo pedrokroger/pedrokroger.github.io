@@ -1,5 +1,6 @@
 ---
 title: MUSA75 - Literatura e Estruturação Musical VII
+showindex: true
 ---
 
 ## Notas
