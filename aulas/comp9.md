@@ -1,6 +1,5 @@
 ---
 title: MUSB18 - Composição IX
-permalink: /comp9/
 ---
 
 Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de

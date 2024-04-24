@@ -1,6 +1,5 @@
 ---
 title: MUSD77 - Estágio Supervisionado
-permalink: /estagio/
 ---
 
 Essa é uma atividade sem aulas presenciais. O discente deverá trabalhar em

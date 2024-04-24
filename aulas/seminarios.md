@@ -1,6 +1,5 @@
 ---
 title: MUSD76 - Seminários em Música
-permalink: /seminarios/
 ---
 
 Essa é uma atividade sem aulas presenciais. O aluno deverá assistir palestras ou

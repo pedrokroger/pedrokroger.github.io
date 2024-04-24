@@ -27,3 +27,4 @@ defaults:
       type: "pages"
     values:
       layout: "aula"
+      permalink: /:basename/

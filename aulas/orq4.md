@@ -1,6 +1,5 @@
 ---
 title: MUSA87 - Instrumentação e Orquestração IV
-permalink: /orq4/
 ---
 
 Nível 2 do estudo e prática de Orquestração avançada, técnicas de orquestração
