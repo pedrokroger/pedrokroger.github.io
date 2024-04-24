@@ -7,11 +7,7 @@
     <meta name="author" content="Pedro Kroger">
     <meta name="robots" content="noindex">
 
-    {% if page.title %}
     <title>{{ page.title }}</title>
-    {% else %}
-    <title>{{ site.title }} {{ site.semestre }}</title>
-    {% endif %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -26,7 +22,7 @@
   <body>
     <nav class="navbar mb-4 py-3">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/"><b>pkroger.com</b>&nbsp; &nbsp; &nbsp; {{ site.title }} {{ site.semestre }}</a>
+        <a class="navbar-brand" href="/">{{ site.title }}</a>
       </div>
     </nav>
 
