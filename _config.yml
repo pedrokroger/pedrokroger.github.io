@@ -7,15 +7,15 @@ exclude:
   - antigos
   - Makefile
 
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
 
-commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "table"]
+# commonmark:
+#   options: ["SMART", "FOOTNOTES"]
+#   extensions: ["strikethrough", "autolink", "table"]
 
 # Define the default layout for all pages and pages in "aulas"
 defaults:
-  - 
+  -
     scope:
       path: ""
       type: "pages"

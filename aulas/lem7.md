@@ -5,9 +5,6 @@ showindex: true
 
 ## Notas
 
-<details>
-  <summary>Ver notas</summary>
-
 | Nome                          | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
 |:------------------------------|:----------|:--------------|:----------------|:-----------|
 | Alex Cerqueira Marques        | 2.7       |               |                 | =sum       |
@@ -26,7 +23,6 @@ showindex: true
 | Thiago Alves Pereira          | 2.5       |               |                 | =sum       |
 | Wesley Alves Dos Santos       | 1.7       |               |                 | =sum       |
 
-</details>
 
 ## Materiais
 

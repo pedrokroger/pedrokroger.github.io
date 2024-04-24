@@ -12,9 +12,6 @@ Barroco até o século XX.
 
 ## Notas
 
-<details>
-  <summary>Ver notas</summary>
-
 | Nome                        | Prova | T1 | T2 | T3 | Nota Final |
 |:----------------------------|:------|:---|:---|:---|:-----------|
 | Daniel Lopes De Oliveira    | 2.5   |    |    |    | =sum       |
@@ -23,7 +20,6 @@ Barroco até o século XX.
 | Luciano Jose Salvador Bahia | 2.5   |    |    |    | =sum       |
 | Rafael Espinheira Santiago  | 2.2   |    |    |    | =sum       |
 
-</details>
 
 ## Avaliação
 
@@ -42,7 +38,6 @@ obras e compositores(as):
 - Respighi, I Pini di Rome (trecho) - 1924
 - Heitor Villa-Lobos - Uirapurú (trecho) - 1934
 - Silvestre Revueltas - La Noche de los Mayas, IV - 1939
-
 -->
 
 
