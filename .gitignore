@@ -1,10 +1,6 @@
 _site
-.gem
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 build
-
-Aulas.sublime-project
-Aulas.sublime-workspace

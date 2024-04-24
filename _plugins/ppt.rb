@@ -1,4 +1,4 @@
-class DownloadInlineTag < Liquid::Tag
+class PptInlineTag < Liquid::Tag
   def initialize(tag_name, input, tokens)
     super
   end
@@ -8,4 +8,4 @@ class DownloadInlineTag < Liquid::Tag
   end
 end
 
-Liquid::Template.register_tag('ppt', DownloadInlineTag)
+Liquid::Template.register_tag('ppt', PptInlineTag)
