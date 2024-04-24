@@ -15,20 +15,14 @@ Pini di Roma_ de Respighi (harpa e percussão não foram incluídos). Note que o
 elementos da textura estão claramente marcados, e o nome dos instrumentos ajuda
 a dar uma idéia como eles soam.
 
-<audio controls>
-  <source src="/audio/respighi-reducao.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>
+{% audio respighi-reducao.mp3 %}
 
-<img src="/images/respighi-reducao.png" width="80%">
+{% img respighi-reducao.png, 80 %}
 
 Compare a redução analítica acima com o original para orquestra abaixo:
 
-<audio controls>
-  <source src="/audio/respighi.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>
+{% audio respighi.mp3 %}
 
 <br/>
 
-<img src="/images/respighi.png" width="70%">
+{% img respighi.png %}
