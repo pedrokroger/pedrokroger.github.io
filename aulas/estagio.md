@@ -6,10 +6,10 @@ showindex: true
 Essa é uma atividade sem aulas presenciais. O discente deverá trabalhar em
 alguma atividade fora das disciplinas da Escola de Música da UFBA.
 
-<p class="alert alert-warning">
+{% alert %}
 No contexto atual da pandemia, serão aceitas atividades de cunho pessoal, como
 uma análise, estudo ou composição.
-</p>
+{% endalert %}
 
 ## Avaliação
 
