@@ -1,6 +1,5 @@
 ---
 title: Redução Analítica
-permalink: /reducao/
 ---
 
 A redução analítica é similar a uma redução para piano mas sem se preocupar se é
