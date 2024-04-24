@@ -1,8 +1,7 @@
 ---
-layout: page
 title: MUSA84 - Instrumentação e Orquestração I
 permalink: /orq1/
-semestre: 2024.1
+layout: aula
 ---
 
 Conhecimento básico dos instrumentos da Orquestra Clássica de modo individual, e

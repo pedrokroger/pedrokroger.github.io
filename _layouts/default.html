@@ -18,7 +18,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-    
+
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="/assets/main.css" rel="stylesheet">
 
@@ -26,14 +26,18 @@
   <body>
     <nav class="navbar mb-4 py-3">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/"><b>pkroger.com</b>&nbsp; &nbsp; &nbsp;  {{ site.title }} {{ site.semestre }}</a>
+        <a class="navbar-brand" href="/"><b>pkroger.com</b>&nbsp; &nbsp; &nbsp; {{ site.title }} {{ site.semestre }}</a>
       </div>
     </nav>
 
     <main class="container">
       <div class="row">
         <div class="col-lg-8">
-          {{ content }}
+          <article>
+            <h1>{{ page.title }}</h1>
+
+            {{ content }}
+          </article>
         </div>
       </div>
     </main>

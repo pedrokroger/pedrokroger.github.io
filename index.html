@@ -1,11 +1,12 @@
 ---
-layout: home
+title: Disciplinas
+layout: default
 ---
 
-{%- assign pages = site.pages | where: "semestre", site.semestre -%}
-
 <ul>
-  {% for page in pages %}
+  {% for page in site.pages %}
+  {% if site.data.atual.aulas contains page.name %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
   {% endfor %}
 </ul>

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: MUSA76 - Literatura e Estruturação Musical VIII
 permalink: /lem8/
-semestre: 2023.2
+layout: aula
 ---
 
 Estudo das técnicas contrapontísticas e harmônicas complexas e das grandes
