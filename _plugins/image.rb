@@ -12,7 +12,7 @@ class ImgInlineTag < Liquid::Tag
   end
 
   def render(context)
-    "<img src='/exemplos/#{@filename}' width=#{@width}%>"
+    "<img src='/exemplos/#{@filename}' width='#{@width}%'>"
   end
 end
 
