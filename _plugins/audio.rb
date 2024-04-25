@@ -6,7 +6,7 @@ class AudioInlineTag < Liquid::Tag
 
   def render(context)
     "<audio controls>
-<source src='/exemplos/#{@filename}' type='audio/mpeg'>
+<source src='/media/#{@filename}' type='audio/mpeg'>
 Your browser does not support the audio tag.
 </audio>"
   end
