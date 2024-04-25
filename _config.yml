@@ -3,17 +3,8 @@ email: kroger@ufba.br
 description: Aulas de Pedro Kroger
 url: "https://pkroger.com"
 
-exclude:
-  - antigos
-  - Makefile
+exclude: [Makefile]
 
-# markdown: CommonMarkGhPages
-
-# commonmark:
-#   options: ["SMART", "FOOTNOTES"]
-#   extensions: ["strikethrough", "autolink", "table"]
-
-# Define the default layout for all pages and pages in "aulas"
 defaults:
   -
     scope:

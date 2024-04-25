@@ -56,6 +56,10 @@ obras e compositores(as):
 - **Trabalho 2**: _a definir_
 - **Trabalho 3**: _a definir_
 
+[1]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.pdf
+[2]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.mp3
+[3]: {% link docs/reducao-analitica.md %}
+
 ## Materiais
 
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
@@ -87,8 +91,3 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Jun 25~~ | _São João_                       |
 | ~~Jul 2~~  | _Independência da Bahia_         |
 | Jul 9      | _Entrega de resultados (online)_ |
-
-
-[1]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.pdf
-[2]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.mp3
-[3]: {% link docs/reducao-analitica.md %}

@@ -65,24 +65,24 @@ A monografia será trabalhada nas aulas de composição.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data              | Conteúdo                                  |
-|-------------------|-------------------------------------------|
-| Ago 17            | Acompanhamento da composição e monografia |
-| Ago 24            | Acompanhamento da composição e monografia |
-| Ago 31            | Acompanhamento da composição e monografia |
-| <del>Set 7</del>  | *Independência do Brasil*                 |
-| Set 14            | Acompanhamento da composição e monografia |
-| Set 21            | Acompanhamento da composição e monografia |
-| Set 28            | Acompanhamento da composição e monografia |
-| Out 5             | Acompanhamento da composição e monografia |
-| <del>Out 12</del> | *Nossa Senhora Aparecida*                 |
-| Out 19            | Acompanhamento da composição e monografia |
-| Out 26            | Acompanhamento da composição e monografia |
-| <del>Nov 2</del>  | *Finados*                                 |
-| Nov 9             | Acompanhamento da composição e monografia |
-| Nov 16            | **Entrega do trabalho final**             |
-| Nov 23            | *Banca avalia trabalhos* (sem aula)       |
-| Nov 30            | *Banca avalia trabalhos* (sem aula)       |
-| Dez 7             | *Banca avalia trabalhos* (sem aula)       |
-| Dez 14            | *Entrega de resultados (online)*          |
-|                   |                                           |
+| Data       | Conteúdo                                  |
+|------------|-------------------------------------------|
+| Ago 17     | Acompanhamento da composição e monografia |
+| Ago 24     | Acompanhamento da composição e monografia |
+| Ago 31     | Acompanhamento da composição e monografia |
+| ~~Set 7~~  | *Independência do Brasil*                 |
+| Set 14     | Acompanhamento da composição e monografia |
+| Set 21     | Acompanhamento da composição e monografia |
+| Set 28     | Acompanhamento da composição e monografia |
+| Out 5      | Acompanhamento da composição e monografia |
+| ~~Out 12~~ | *Nossa Senhora Aparecida*                 |
+| Out 19     | Acompanhamento da composição e monografia |
+| Out 26     | Acompanhamento da composição e monografia |
+| ~~Nov 2~~  | *Finados*                                 |
+| Nov 9      | Acompanhamento da composição e monografia |
+| Nov 16     | **Entrega do trabalho final**             |
+| Nov 23     | *Banca avalia trabalhos* (sem aula)       |
+| Nov 30     | *Banca avalia trabalhos* (sem aula)       |
+| Dez 7      | *Banca avalia trabalhos* (sem aula)       |
+| Dez 14     | *Entrega de resultados (online)*          |
+|            |                                           |

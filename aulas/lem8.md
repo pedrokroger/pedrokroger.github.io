@@ -19,9 +19,9 @@ formas da música sinfônica e sinfônico-coral.
 
 A avaliação final será soma de 4 notas:
 
-  * 1 prova de audição e análise: 3 pontos
-  * 1 trabalho de análise: 4 pontos
-  * 1 seminário oral: 3 pontos
+- 1 prova de audição e análise: 3 pontos
+- 1 trabalho de análise: 4 pontos
+- 1 seminário oral: 3 pontos
 
 Analisar um trecho de uma obra do final do século XIX e apresentar oralmente em
 etapas nos dias 26 de setembro e 1 e 3 de outubro. A obra será escolhida pelo(a)

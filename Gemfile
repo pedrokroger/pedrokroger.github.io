@@ -7,6 +7,5 @@ gem "csv"
 gem "base64"
 gem "bigdecimal"
 
-group :jekyll_plugins do
-	gem 'jekyll-commonmark-ghpages'
-end
+# group :jekyll_plugins do
+# end
