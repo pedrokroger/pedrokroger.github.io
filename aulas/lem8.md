@@ -8,30 +8,11 @@ formas da música sinfônica e sinfônico-coral.
 ## Notas
 
 | Nome                          | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
-|:------------------------------|:----------|:------------|:--------------|:-----------|
-| Joabe Jesus Borges            | 2.5       | 2.7         | 3.0           | =sum       |
-| Leonardo De Almeida Oliveira  | 3.0       | 2.7         | 3.0           | =sum       |
-| Lizandra Dos Santos Goncalves | 2.5       | 3.0         | 3.0           | =sum       |
-| Marluce De Oliveira Barbosa   | 2.1       | 4.0         | 3.0           | =sum       |
-| Samuel Da Silva Ressurreição  | 2.5       | 4.0         | 3.0           | =sum       |
-| Thiago Alves Pereira          | 2.0       | 2.7         | 3.0           | =sum       |
-| Wesley Alves Dos Santos       | 2.0       | 2.7         | 3.0           | =sum       |
-
+| :---------------------------- | :-------- | :---------- | :------------ | :--------- |
+|                               |           |             |               | =sum       |
 
 ## Referências
 
-Os seguintes livros podem ajudar no entendimento do material visto no curso.
-
-- [Kostka, Harmonia Tonal][7]. Especialmente os últimos capítulos.
-- [Schoenberg, Theory of Harmony (inglês)][8]. Páginas 238, 369, 383, 384.
-- [Schoenberg, Teoria da Harmonia (português)][9]. Capítulos "Nas fronteiras da
-  tonalidade" (p. 343), "Sobre a tonalidade suspensa e a tonalidade flutuante"
-  (p. 527), "A escala cromática como fundamento da tonalidade" (p. 529).
-
-
-[7]: https://www.dropbox.com/s/upnuczqhv0zeqa9/Kostka%20Tonal%20Harmony%20Traduzido.pdf?dl=0
-[8]: https://www.dropbox.com/s/tka12cssiqfaglm/Schoenberg%20Arnold%20Theory%20of%20Harmony.pdf?dl=0
-[9]: https://www.dropbox.com/s/1u9drv7yqpmr5kw/Schoenberg%20Harmonia.pdf?dl=0
 
 
 ## Avaliação
@@ -52,27 +33,16 @@ aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação o
 Na parte de audição das obras você deverá identificar o nome da obra e o nome
 do(a) compositor(a). Lista de Obras:
 
-- [Baixar][30] Mathilde von Rothschild - Sechs Lieder IV (1876) (Seis Canções) - Wiegenlied (Canção de Ninar)
-- [Baixar][31] Manuel de Falla - 7 Canciones Populares Españolas (1914) - El pano moruno
-- [Baixar][32] Chiquinha Gonzaga - Saudade (1896?)
-- [Baixar][33] Béla Bartók - Romanian Folk Dances (1915) (Danças Folclóricas Romenas) - Pe-Loc
-- [Baixar][34] Richard Strauss - Vier letzte Lieder (4 últimas canções) (1948) - Frühling (Primavera)
-- [Baixar][35] Richard Wagner - Götterdämmerung (O crepúsculo dos deuses) (1876) - Ato 3 - trauermarsch (Marcha fúnebre)
-- [Baixar][36] J. Brahms - Fünf Gesänge, Op. 104 (Cinco Canções) (1888)- Nachtwache I (vigília noturna)
-- [Baixar][37] H. Villa-Lobos - Valsa da dor (1932)
-- [Baixar][38] Clara Schumann - 3 Romances, op. 11 no. 1 (1839)
-- [Baixar][39] Claudio Santoro - Ponteio (1953)
-
-[30]: https://ln5.sync.com/dl/474a2f710/rs78pup8-kkrsukma-i6jdnx6m-cchng3e9
-[31]: https://ln5.sync.com/dl/a70068dd0/h6hsj49e-virukrsz-ch7nuvrd-yria6737
-[32]: https://ln5.sync.com/dl/a559e49a0/a38sgter-8jv3zsxu-5ce9fmwr-2zvbwxic
-[33]: https://ln5.sync.com/dl/b349a1590/rc9hcpkx-3y9qx7x9-rcsph3nt-f5uaptz5
-[34]: https://ln5.sync.com/dl/a93d9f4f0/nqx797xa-9rs566yu-2xyacnqf-rxqp9qca
-[35]: https://ln5.sync.com/dl/3f051aac0/qfcv744h-ztqy6jwy-dj8eaq7h-wnhisahu
-[36]: https://ln5.sync.com/dl/2fb890020/tig52avs-fdryg4b8-xwsbuhgc-2hprgqht
-[37]: https://ln5.sync.com/dl/62eac7510/ekp8c4vv-6eqxzr4r-tfrdnp8r-qe5sks58
-[38]: https://ln5.sync.com/dl/e96d71950/wm866cbw-iyws2nbr-rdu8guqb-qzqwr6wm
-[39]: https://ln5.sync.com/dl/4eb2a35e0/cugyqbv7-nfxub9bu-4byeyhba-59mbxwan
+- Mathilde von Rothschild - Sechs Lieder IV (1876) (Seis Canções) - Wiegenlied (Canção de Ninar)
+- Manuel de Falla - 7 Canciones Populares Españolas (1914) - El pano moruno
+- Chiquinha Gonzaga - Saudade (1896?)
+- Béla Bartók - Romanian Folk Dances (1915) (Danças Folclóricas Romenas) - Pe-Loc
+- Richard Strauss - Vier letzte Lieder (4 últimas canções) (1948) - Frühling (Primavera)
+- Richard Wagner - Götterdämmerung (O crepúsculo dos deuses) (1876) - Ato 3 - trauermarsch (Marcha fúnebre)
+- J. Brahms - Fünf Gesänge, Op. 104 (Cinco Canções) (1888)- Nachtwache I (vigília noturna)
+- H. Villa-Lobos - Valsa da dor (1932)
+- Clara Schumann - 3 Romances, op. 11 no. 1 (1839)
+- Claudio Santoro - Ponteio (1953)
 
 ### Trabalho de Análise
 

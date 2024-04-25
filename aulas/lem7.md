@@ -89,7 +89,6 @@ Os elementos a serem analisados:
 
 ### Músicas para Análise
 
-
 | Música                                                            | Discente      | Arquivos                |
 |-------------------------------------------------------------------|---------------|-------------------------|
 | Cristóbal de Morales - Missa pro defunctis a 5 - Graduale (1544)  | Tadeu         | [PDF][10] e [Áudio][30] |

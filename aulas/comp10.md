@@ -11,16 +11,18 @@ A nota final será determinada pela banca composta por três docentes. Você dev
 entregar um pdf da partitura com mp3 e um pdf da monografia. A obra deverá ter a
 duração mínima de 14 minutos.
 
-{: .alert .alert-warning }
+{% alert %}
 A obra final e monografia devem ser entregues até **16 de novembro.**
+{% endalert %}
 
 ## Formação da Orquestra
 
 A obra deverá ter seguinte formação mínima, mas você pode incluir mais
 instrumentos se desejar:
 
-{: .alert .alert-warning}
+{% alert %}
 É fundamental que a obra tenha características de uma obra vocal com coro.
+{% endalert %}
 
 - 2 Flautas
 - 2 Oboes
@@ -57,8 +59,6 @@ A monografia será trabalhada nas aulas de composição.
 - [Monografia de Marcos][10]
 - [Template da Monografia][11]
 
-[10]: https://www.dropbox.com/scl/fi/h351kpgcvoefbfep3g3tm/Monografia-Marcos-Sampaio.pdf?rlkey=htvuikvunun3lsuvpl9r34jxc&dl=0
-[11]: https://www.dropbox.com/scl/fi/ljxzu5imnuicne8gsfp9q/Template.docx?dl=0&rlkey=cplhwh3g30et2z2f9541jcyrx
 
 ## Cronograma
 
