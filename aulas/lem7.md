@@ -5,6 +5,8 @@ showindex: true
 
 ## Notas
 
+{% notas %}
+
 | Nome                          | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
 |:------------------------------|:----------|:--------------|:----------------|:-----------|
 | Alex Cerqueira Marques        | 2.7       |               |                 | =sum       |
@@ -22,6 +24,7 @@ showindex: true
 | Tadeu Maciel Feitosa Campos   | 2.3       |               |                 | =sum       |
 | Thiago Alves Pereira          | 2.5       |               |                 | =sum       |
 | Wesley Alves Dos Santos       | 1.7       |               |                 | =sum       |
+{: .collapse #notas-table}
 
 
 ## Materiais

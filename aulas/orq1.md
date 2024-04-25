@@ -12,6 +12,8 @@ Barroco até o século XX.
 
 ## Notas
 
+{% notas %}
+
 | Nome                        | Prova | T1 | T2 | T3 | Nota Final |
 |:----------------------------|:------|:---|:---|:---|:-----------|
 | Daniel Lopes De Oliveira    | 2.5   |    |    |    | =sum       |
@@ -19,6 +21,7 @@ Barroco até o século XX.
 | Gianmarco Turina            | 2.5   |    |    |    | =sum       |
 | Luciano Jose Salvador Bahia | 2.5   |    |    |    | =sum       |
 | Rafael Espinheira Santiago  | 2.2   |    |    |    | =sum       |
+{: .collapse #notas-table}
 
 
 ## Avaliação
