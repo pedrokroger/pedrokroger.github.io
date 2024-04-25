@@ -29,3 +29,8 @@ table {
   margin-top: 2.5em !important;
   margin-bottom: 2.5em !important;
 }
+
+.file-icon {
+  font-size: 1.2rem;
+  color: #cc551b;
+}

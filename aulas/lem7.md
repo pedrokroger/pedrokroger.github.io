@@ -26,11 +26,17 @@ showindex: true
 
 ## Materiais
 
-- [Mode Calculator](https://music-theory-practice.com/modes/mode-calculator.html)
-- [Bach Chorales](http://www.bach-chorales.com/Index.htm). Informação extensiva sobre os corais de Bach.
-- [Kostka: Harmonia Tonal](https://nuvem.ufba.br/s/9s7D1lAU6nNfnoF)
-- {% ppt %} [Introdução aos Modos](https://docs.pkroger.com/Introdução%20aos%20Modos.pptx)
-- {% pdf %} [Verbete 'Mode' do Grove](https://docs.pkroger.com/Mode%20-%20Grove.pdf)
+- [Mode Calculator][1]
+- {% icon ppt %} [Introdução aos Modos][2]
+- {% icon pdf %} [Verbete 'Mode' do Grove][3]
+- [Bach Chorales][4] Informação extensiva sobre os corais de Bach.
+- {% icon pdf %} [Kostka: Harmonia Tonal][5]
+
+[1]: https://music-theory-practice.com/modes/mode-calculator.html
+[2]: https://docs.pkroger.com/Introdução aos Modos.pptx
+[3]: https://docs.pkroger.com/Mode - Grove.pdf
+[4]: http://www.bach-chorales.com/Index.htm
+[5]: https://nuvem.ufba.br/s/9s7D1lAU6nNfnoF
 
 ## Avaliação
 
@@ -61,7 +67,7 @@ compositor(a), e a data aproximada da obra.
 
 Extras
 
-- {% yt %} [How Allegri's Miserere should really sound](https://www.youtube.com/watch?v=h6hD8YtO5HI)
+- {% icon yt %} [How Allegri's Miserere should really sound](https://www.youtube.com/watch?v=h6hD8YtO5HI)
 
 -->
 

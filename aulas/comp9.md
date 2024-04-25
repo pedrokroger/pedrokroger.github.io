@@ -53,7 +53,7 @@ instrumentos se desejar:
 
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
 - [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
-- {% ppt %} [Texto na Composição Musical](https://docs.pkroger.com/Texto%20na%20Composição%20Musical.pptx)
+- {% icon ppt %} [Texto na Composição Musical](https://docs.pkroger.com/Texto%20na%20Composição%20Musical.pptx)
 
 
 ## Texto
