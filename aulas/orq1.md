@@ -83,6 +83,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Abr 9~~  | _Chuvas fortes_                  |
 | Abr 16     | Madeiras                         |
 | Abr 23     | Cordas                           |
+
 | Abr 30     | **Trabalho 1 (2.5 pontos)**      |
 | Mai 7      | Cordas                           |
 | Mai 14     | Cordas                           |

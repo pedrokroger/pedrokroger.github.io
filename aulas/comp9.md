@@ -90,6 +90,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Abr 11     | **Composição 1 minuto (1pt)**                                  |
 | Abr 18     | _Acompanhamento da composição_                                 |
 | ~~Abr 25~~ | **Composição 2 minutos (1pt)**: _Entrega assíncrona por email_ |
+
 | Mai 2      | _Acompanhamento da composição_                                 |
 | Mai 9      | **Composição 3 minutos (1pt)**                                 |
 | Mai 16     | **Composição 4 minutos (1pt)**                                 |
