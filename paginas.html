@@ -1,0 +1,14 @@
+---
+title: Páginas
+layout: default
+---
+
+{%- assign pages = site.pages | sort: 'title' -%}
+
+<ul>
+  {% for page in pages %}
+  {% if page.title and page.title != 'Páginas' %}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+  {% endfor %}
+</ul>
