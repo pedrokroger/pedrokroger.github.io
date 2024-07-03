@@ -183,24 +183,24 @@ Os elementos a serem analisados:
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                                 | Quinta     | Conteúdo                                    |
-|:-----------|:-----------------------------------------|:-----------|:--------------------------------------------|
-| Mar 12     | Introdução ao curso. Revisão de harmonia | Mar 14     | Revisão e análise                           |
-| Mar 19     | Revisão e análise                        | Mar 21     | Revisão e análise                           |
-| Mar 26     | Revisão e análise                        | ~~Mar 28~~ | _Semana Santa_                              |
-| Abr 2      | **Prova de Audição e Revisão**           | Abr 4      | Correção da prova e Introdução ao Modalismo |
-| ~~Abr 9~~  | _Chuvas fortes_                          | Abr 11     | Tonalidade vs. Modalismo                    |
-| Abr 16     | Análise de obras renascentistas          | Abr 18     | Análise de obras                            |
-| Abr 23     | Análise de obras renascentistas          | ~~Abr 25~~ | _Tarefa assíncrona_                         |
-
-| Abr 30     | _Tirar dúvidas trabalho (opcional)_      | Mai 2      | _Tirar dúvidas trabalho (opcional)_         |
-| Mai 7      | **Trabalho de Análise**                  | Mai 9      | **Trabalho de Análise**                     |
-| Mai 14     | **Trabalho de Análise**                  | Mai 16     | **Trabalho de Análise**                     |
-| Mai 21     | **Trabalho de Análise**                  | Mai 23     | **Trabalho de Análise**                     |
-| Mai 28     | _Tirar dúvidas apresentação_             | ~~Mai 30~~ | _Corpus Christi_                            |
-| Jun 4      | **Apresentação Seminários**              | Jun 6      | **Apresentação Seminários**                 |
-| Jun 11     | **Apresentação Seminários**              | Jun 13     | **Apresentação Seminários**                 |
-| Jun 18     | **Apresentação Seminários**              | Jun 20     | **Apresentação Seminários**                 |
-| ~~Jun 25~~ | _São João_                               | Jun 27     | Segunda Chamada                             |
-| ~~Jul 2~~  | _Independência da Bahia_                 | Jul 4      | _Reservado para correções (sem aula)_       |
-| Jul 9      | _Entrega de resultados (online)_         | Jul 11     |                                             |
+| Terça     | Conteúdo                                 | Quinta     | Conteúdo                                    |
+|:----------|:-----------------------------------------|:-----------|:--------------------------------------------|
+| Mar 12    | Introdução ao curso. Revisão de harmonia | Mar 14     | Revisão e análise                           |
+| Mar 19    | Revisão e análise                        | Mar 21     | Revisão e análise                           |
+| Mar 26    | Revisão e análise                        | ~~Mar 28~~ | _Semana Santa_                              |
+| Abr 2     | **Prova de Audição e Revisão**           | Abr 4      | Correção da prova e Introdução ao Modalismo |
+| ~~Abr 9~~ | _Chuvas fortes_                          | Abr 11     | Tonalidade vs. Modalismo                    |
+| Abr 16    | Análise de obras renascentistas          | Abr 18     | Análise de obras                            |
+| Abr 23    | Análise de obras renascentistas          | Abr 25     | _Tarefa assíncrona_                         |
+|           | Greve                                    |            | Greve                                       |
+|           | Greve                                    | Jun 27     | _Tarefa assíncrona_                         |
+| ~~Jul 2~~ | _Independência da Bahia_                 | Jul 4      | Revisão                                     |
+| Jul 9     | _Tirar dúvidas trabalho (opcional)_      | Jul 11     | _Tirar dúvidas trabalho (opcional)_         |
+| Jul 16    | **Trabalho de Análise**                  | Jul 18     | **Trabalho de Análise**                     |
+| Jul 23    | **Trabalho de Análise**                  | Jul 25     | **Trabalho de Análise**                     |
+| Jul 30    | **Trabalho de Análise**                  | Ago 1      | **Trabalho de Análise**                     |
+| Ago 6     | _Tirar dúvidas apresentação_             | Ago 8      | _Tirar dúvidas apresentação_                |
+| Ago 13    | **Apresentação Seminários**              | Ago 15     | **Apresentação Seminários**                 |
+| Ago 20    | **Apresentação Seminários**              | Ago 22     | **Apresentação Seminários**                 |
+| Ago 27    | **Apresentação Seminários**              | Ago 29     | _Reservado para 2a chamada_                 |
+| Set 3     | _Reservado para correções (sem aula)_    | Set 5      | _Entrega de resultados (online)_            |
