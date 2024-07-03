@@ -81,26 +81,27 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 ser modificado de acordo com a necessidade e eventualidade.
 
 
-| Data       | Conteúdo                                                       |
-|:-----------|:---------------------------------------------------------------|
-| Mar 14     | Introdução ao curso                                            |
-| Mar 21     | apreciação de [músicas do século 21][2]                        |
-| ~~Mar 28~~ | _Semana Santa_                                                 |
-| Abr 4      | O texto na composição musical                                  |
-| Abr 11     | **Composição 1 minuto (1pt)**                                  |
-| Abr 18     | _Acompanhamento da composição_                                 |
-| ~~Abr 25~~ | **Composição 2 minutos (1pt)**: _Entrega assíncrona por email_ |
-
-| Mai 2      | _Acompanhamento da composição_                                 |
-| Mai 9      | **Composição 3 minutos (1pt)**                                 |
-| Mai 16     | **Composição 4 minutos (1pt)**                                 |
-| Mai 23     | **Composição 5 minutos (2pt)**                                 |
-| ~~Mai 30~~ | _Corpus Christi_                                               |
-| Jun 6      | **Composição 6 minutos (2pt)**                                 |
-| Jun 13     | _Acompanhamento da composição_                                 |
-| Jun 20     | **Composição 7 minutos (2pt)**                                 |
-| Jun 27     | _Reservado segunda chamada_                                    |
-| Jul 4      | _Entrega de resultados (online)_                               |
+| Data       | Conteúdo                                |
+|:-----------|:----------------------------------------|
+| Mar 14     | Introdução ao curso                     |
+| Mar 21     | apreciação de [músicas do século 21][2] |
+| ~~Mar 28~~ | _Semana Santa_                          |
+| Abr 4      | O texto na composição musical           |
+| Abr 11     | **Composição 1 minuto (1pt)**           |
+| Abr 18     | _Acompanhamento da composição_          |
+| ~~Abr 25~~ | ~~**Composição 2 minutos (1pt)**~~      |
+|            | Greve                                   |
+| Jun 27     | _Tarefa assíncrona_                     |
+| Jul 4      | _Acompanhamento da composição_          |
+| Jul 11     | **Composição 2 minutos (1pt)**          |
+| Jul 18     | **Composição 3 minutos (1pt)**          |
+| Jul 25     | **Composição 4 minutos (1pt)**          |
+| Ago 1      | _Acompanhamento da composição_          |
+| Ago 8      | **Composição 5 minutos (2pt)**          |
+| Ago 15     | **Composição 6 minutos (2pt)**          |
+| Ago 22     | _Acompanhamento da composição_          |
+| Ago 29     | **Composição 7 minutos (2pt)**          |
+| Set 5      | _Entrega de resultados (online)_        |
 
 
 [1]: https://nuvem.ufba.br/s/SXPpxVJ1c4iBDcf
