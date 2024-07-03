@@ -202,5 +202,5 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Ago 6     | _Tirar dúvidas apresentação_             | Ago 8      | _Tirar dúvidas apresentação_                |
 | Ago 13    | **Apresentação Seminários**              | Ago 15     | **Apresentação Seminários**                 |
 | Ago 20    | **Apresentação Seminários**              | Ago 22     | **Apresentação Seminários**                 |
-| Ago 27    | **Apresentação Seminários**              | Ago 29     | _Reservado para 2a chamada_                 |
+| Ago 27    | _Reservado para 2a chamada_              | Ago 29     | _Reservado para 2a chamada_                 |
 | Set 3     | _Reservado para correções (sem aula)_    | Set 5      | _Entrega de resultados (online)_            |
