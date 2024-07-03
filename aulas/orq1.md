@@ -52,7 +52,7 @@ obras e compositores(as):
   objetivo desse trabalho é poder observar os elementos da textura e os
   instrumentos de madeira em cada registro tanto individualmente quanto no
   contexto da orquestra. Você deve entregar um pdf com a partitura e um mp3 com
-  o áudio. **Valor: 2.5 pontos**, **Entrega: 30 de Abril**
+  o áudio. **Valor: 2.5 pontos**, **Entrega: 16 de Julho**
 
   Ver a página sobre [redução analítica][3]
 
@@ -74,24 +74,23 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 ser modificado de acordo com a necessidade e eventualidade.
 
 
-| Data       | Conteúdo                         |
-|:-----------|:---------------------------------|
-| Mar 12     | Introdução ao Curso & Madeiras   |
-| Mar 19     | Madeiras                         |
-| Mar 26     | Madeiras                         |
-| Abr 2      | **Prova (2.5 pontos)**           |
-| ~~Abr 9~~  | _Chuvas fortes_                  |
-| Abr 16     | Madeiras                         |
-| Abr 23     | Cordas                           |
-
-| Abr 30     | **Trabalho 1 (2.5 pontos)**      |
-| Mai 7      | Cordas                           |
-| Mai 14     | Cordas                           |
-| Mai 21     | Análise de Trechos               |
-| Mai 28     | **Trabalho 2 (2.5 pontos)**      |
-| Jun 4      | Análise de Trechos               |
-| Jun 11     | Análise de Trechos               |
-| Jun 18     | **Trabalho 3 (2.5 pontos)**      |
-| ~~Jun 25~~ | _São João_                       |
-| ~~Jul 2~~  | _Independência da Bahia_         |
-| Jul 9      | _Entrega de resultados (online)_ |
+| Data      | Conteúdo                         |
+|:----------|:---------------------------------|
+| Mar 12    | Introdução ao Curso & Madeiras   |
+| Mar 19    | Madeiras                         |
+| Mar 26    | Madeiras                         |
+| Abr 2     | **Prova (2.5 pontos)**           |
+| ~~Abr 9~~ | _Chuvas fortes_                  |
+| Abr 16    | Madeiras                         |
+| Abr 23    | Cordas                           |
+|           | Greve                            |
+| ~~Jul 2~~ | _Independência da Bahia_         |
+| Jul 9     | Revisão                          |
+| Jul 16    | **Trabalho 1 (2.5 pontos)**      |
+| Jul 23    | Cordas                           |
+| Jul 30    | Cordas                           |
+| Ago 6     | **Trabalho 2 (2.5 pontos)**      |
+| Ago 13    | Análise de Trechos               |
+| Ago 20    | Análise de Trechos               |
+| Ago 27    | **Trabalho 3 (2.5 pontos)**      |
+| Set 3     | _Entrega de resultados (online)_ |
