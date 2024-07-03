@@ -13,7 +13,7 @@ uma análise, estudo ou composição.
 
 ## Avaliação
 
-Entrega de um resumo até **4 de Julho** descrevendo a atividade efetuada.
+Entrega de um resumo até **27 de Agosto** descrevendo a atividade efetuada.
 Pode-se discutir e consultar o orientador sobre a natureza da atividade no
 decorrer do semestre, e orientações presenciais ou por email podem ser marcadas
 a partir da necessidade indivudual do aluno.

@@ -19,4 +19,4 @@ digitais como o YouTube.
 
 Entrega de resumos de 3 palestras assistidas durante o semestre. Cada resumo
 deve conter o nome do palestrante, o título da palestra e um breve resumo do
-conteúdo. Os resumos devem ser entregues até **4 de Julho**.
+conteúdo. Os resumos devem ser entregues até **27 de Agosto**.
