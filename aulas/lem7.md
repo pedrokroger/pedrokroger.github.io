@@ -36,7 +36,7 @@ showindex: true
 - {% icon pdf %} [Kostka: Harmonia Tonal][5]
 
 [1]: https://music-theory-practice.com/modes/mode-calculator.html
-[2]: https://docs.pkroger.com/Introdução aos Modos.pptx
+[2]: https://docs.pkroger.com/Introducao aos Modos.pptx
 [3]: https://docs.pkroger.com/Mode - Grove.pdf
 [4]: http://www.bach-chorales.com/Index.htm
 [5]: https://nuvem.ufba.br/s/9s7D1lAU6nNfnoF
