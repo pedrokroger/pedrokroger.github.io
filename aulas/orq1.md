@@ -85,7 +85,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Abr 23    | Cordas                           |
 |           | Greve                            |
 | ~~Jul 2~~ | _Independência da Bahia_         |
-| Jul 9     | Revisão                          |
+| Jul 9     | Revisão e Cordas                 |
 | Jul 16    | **Trabalho 1 (2.5 pontos)**      |
 | Jul 23    | Cordas                           |
 | Jul 30    | Cordas                           |
