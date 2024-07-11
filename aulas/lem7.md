@@ -79,7 +79,7 @@ Extras
 Você deverá analisar um trecho da peça designada (partitura e gravação
 disponível abaixo) e apresentar oralmente o resultado da análise em sala de
 aula. A nota (3.5 pontos) será o resultado de 4 apresentações orais em sala
-entre os dias 7 e 23 de maio.
+entre os dias 16 de Julho e 1º de Agosto.
 
 É esperado que você apresente a análise de 2 ou 3 sistemas em cada aula. Caso o
 seu trecho designado seja curto demais, um trecho suplementar será dado. Alguns
@@ -98,26 +98,26 @@ Os elementos a serem analisados:
 
 ### Músicas para Análise
 
-| Música                                                            | Discente      | Arquivos                |
-|-------------------------------------------------------------------|---------------|-------------------------|
-| Cristóbal de Morales - Missa pro defunctis a 5 - Graduale (1544)  | Tadeu         | [PDF][10] e [Áudio][30] |
-| Cristóbal de Morales - Missa pro defunctis a 5 - Kyrie (1544)     | Gabriela      | [PDF][11] e [Áudio][31] |
-| Cristóbal de Morales - Missa pro defunctis a 5 - Sequentia (1544) | Gabriela      | [PDF][12] e [Áudio][32] |
-| Gioseffo Zarlino - Ave Maria (1566)                               | Liliam        | [PDF][13] e [Áudio][33] |
-| Gioseffo Zarlino - Pater Noster (1566)                            | Caroline      | [PDF][14] e [Áudio][34] |
-| Maddalena Casulana - Morir non può il mio cuore (1566)            | Lizandra      | [PDF][15] e [Áudio][35] |
-| Maddalena Casulana - Vagh amorosi augelli (1570)                  | Lizandra      | [PDF][16] e [Áudio][36] |
-| Manuel Cardoso - Magnificat secundi toni a 5 (1613)               | Emyle         | [PDF][17] e [Áudio][37] |
-| Nicolà Vicentino - Musica prisca caput (1555)                     | João Henrique | [PDF][18] e [Áudio][38] |
-| Orlandus Lassus - Carmina Chromatico (1600)                       | Alex          | [PDF][19] e [Áudio][39] |
-| Orlandus Lassus - Missa Osculetur Me - Kyrie (1582)               | Rafael        | [PDF][20] e [Áudio][40] |
-| Orlandus Lassus - Sibylla Persica (1600)                          | Alex          | [PDF][21] e [Áudio][41] |
-| Palestrina - Missa Papae Marcelli - Glória (1567)                 | Rebeca        | [PDF][22] e [Áudio][42] |
-| Palestrina - Missa Papae Marcelli - Kyrie (1567)                  | Joabe         | [PDF][23] e [Áudio][43] |
-| Thomas Tallis - Missa a 4 - Credo (1572)                          | Thiago        | [PDF][24] e [Áudio][44] |
-| Thomas Tallis - Missa a 4 - Gloria (1572)                         | Samuel        | [PDF][25] e [Áudio][45] |
-| William Byrd - Missa a 4 - Gloria (1592)                          | Jonatan       | [PDF][26] e [Áudio][46] |
-| William Byrd - Missa a 4 - Kyrie (1592)                           | Wesley        | [PDF][27] e [Áudio][47] |
+| Música                                                            | Discente | Arquivos                |
+|-------------------------------------------------------------------|----------|-------------------------|
+| Cristóbal de Morales - Missa pro defunctis a 5 - Graduale (1544)  | Tadeu    | [PDF][10] e [Áudio][30] |
+| Cristóbal de Morales - Missa pro defunctis a 5 - Kyrie (1544)     | Gabriela | [PDF][11] e [Áudio][31] |
+| Cristóbal de Morales - Missa pro defunctis a 5 - Sequentia (1544) | Gabriela | [PDF][12] e [Áudio][32] |
+| Gioseffo Zarlino - Ave Maria (1566)                               | Liliam   | [PDF][13] e [Áudio][33] |
+| Gioseffo Zarlino - Pater Noster (1566)                            | Caroline | [PDF][14] e [Áudio][34] |
+| Maddalena Casulana - Morir non può il mio cuore (1566)            | Lizandra | [PDF][15] e [Áudio][35] |
+| Maddalena Casulana - Vagh amorosi augelli (1570)                  | Lizandra | [PDF][16] e [Áudio][36] |
+| Manuel Cardoso - Magnificat secundi toni a 5 (1613)               | Emyle    | [PDF][17] e [Áudio][37] |
+| Nicolà Vicentino - Musica prisca caput (1555)                     | João     | [PDF][18] e [Áudio][38] |
+| Orlandus Lassus - Missa Osculetur Me - Kyrie (1582)               | Rafael   | [PDF][20] e [Áudio][40] |
+| Orlandus Lassus - Sibylla Persica (1600)                          | Alex     | [PDF][21] e [Áudio][41] |
+| Orlandus Lassus - Carmina Chromatico (1600)                       | Alex     | [PDF][19] e [Áudio][39] |
+| Palestrina - Missa Papae Marcelli - Glória (1567)                 | Rebeca   | [PDF][22] e [Áudio][42] |
+| Palestrina - Missa Papae Marcelli - Kyrie (1567)                  | Joabe    | [PDF][23] e [Áudio][43] |
+| Thomas Tallis - Missa a 4 - Credo (1572)                          | Thiago   | [PDF][24] e [Áudio][44] |
+| Thomas Tallis - Missa a 4 - Gloria (1572)                         | Samuel   | [PDF][25] e [Áudio][45] |
+| William Byrd - Missa a 4 - Gloria (1592)                          | Jonatan  | [PDF][26] e [Áudio][46] |
+| William Byrd - Missa a 4 - Kyrie (1592)                           | Wesley   | [PDF][27] e [Áudio][47] |
 
 
 [10]: https://docs.pkroger.com/analise/Cristobal de Morales - Missa pro defunctis a 5 - Graduale.pdf
