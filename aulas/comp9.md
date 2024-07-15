@@ -21,11 +21,11 @@ partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc).
 
 ## Notas
 
-| Nome                                 | C1  | C2 | C3 | C4 | C5* | C6* | C7* | Nota |
-|:-------------------------------------|:----|:---|:---|:---|:----|:----|:----|:-----|
-| Alex Cerqueira Marques               | 1.0 |    |    |    |     |     |     | =sum |
-| Leonardo De Almeida Oliveira         | 1.0 |    |    |    |     |     |     | =sum |
-| Marina Mapurunga De Miranda Ferreira | 1.0 |    |    |    |     |     |     | =sum |
+| Nome                                 | C1  | C2  | C3 | C4 | C5* | C6* | C7* | Nota |
+|:-------------------------------------|:----|:----|:---|:---|:----|:----|:----|:-----|
+| Alex Cerqueira Marques               | 1.0 | 1.0 |    |    |     |     |     | =sum |
+| Leonardo De Almeida Oliveira         | 1.0 | 0.0 |    |    |     |     |     | =sum |
+| Marina Mapurunga De Miranda Ferreira | 1.0 | 1.0 |    |    |     |     |     | =sum |
 
 ## Formação da Orquestra
 
