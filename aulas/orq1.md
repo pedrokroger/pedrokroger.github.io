@@ -14,13 +14,13 @@ Barroco até o século XX.
 
 {% notas %}
 
-| Nome                        | Prova | T1 | T2 | T3 | Nota Final |
-|:----------------------------|:------|:---|:---|:---|:-----------|
-| Daniel Lopes De Oliveira    | 2.5   |    |    |    | =sum       |
-| Emyle Magna Santos Barbosa  | 1.8   |    |    |    | =sum       |
-| Gianmarco Turina            | 2.5   |    |    |    | =sum       |
-| Luciano Jose Salvador Bahia | 2.5   |    |    |    | =sum       |
-| Rafael Espinheira Santiago  | 2.2   |    |    |    | =sum       |
+| Nome                        | Prova | T1  | T2 | T3 | Nota Final |
+|:----------------------------|:------|:----|:---|:---|:-----------|
+| Daniel Lopes De Oliveira    | 2.5   | 2.5 |    |    | =sum       |
+| Emyle Magna Santos Barbosa  | 1.8   | 2.5 |    |    | =sum       |
+| Gianmarco Turina            | 2.5   | 2.5 |    |    | =sum       |
+| Luciano Jose Salvador Bahia | 2.5   | 2.5 |    |    | =sum       |
+| Rafael Espinheira Santiago  | 2.2   | 2.5 |    |    | =sum       |
 {: .collapse #notas-table}
 
 
@@ -47,21 +47,28 @@ obras e compositores(as):
 ### Trabalhos
 
 - **Trabalho 1**: Fazer uma redução analítica do seguinte trecho do _Concerto
-  para Orquestra_ de B. Bartok: [pdf][1], [mp3][2] Na partitura "C.A." indica
+  para Orquestra_ de B. Bartok: [pdf][2], [mp3][3] Na partitura "C.A." indica
   corne inglês, "B.Cl" indica clarinete baixo e "Bsns" indica fagotes. O
   objetivo desse trabalho é poder observar os elementos da textura e os
   instrumentos de madeira em cada registro tanto individualmente quanto no
   contexto da orquestra. Você deve entregar um pdf com a partitura e um mp3 com
   o áudio. **Valor: 2.5 pontos**, **Entrega: 16 de Julho**
 
-  Ver a página sobre [redução analítica][3]
+  Ver a página sobre [redução analítica][1]
 
-- **Trabalho 2**: _a definir_
+- **Trabalho 2**: Orquestrar para madeiras e cordas o seguinte trecho do _Chôros
+  no. 5 - Alma Brasileira_ de H. Villa-Lobos: [pdf][4], [mp3][5]. Lembre-se que
+  como o original é para piano, possivelmente será necessário fazer modificações
+  nos registro para fazer uma adaptação melhor para a orquestra. **Valor: 2.5
+  pontos**, **Entrega: 6 de Agosto**
+
 - **Trabalho 3**: _a definir_
 
-[1]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.pdf
-[2]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.mp3
-[3]: {% link docs/reducao-analitica.md %}
+[1]: {% link docs/reducao-analitica.md %}
+[2]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.pdf
+[3]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.mp3
+[4]: https://docs.pkroger.com/Villa-Lobos%20-%20Choro%205%20-%20Trecho.pdf
+[5]: https://docs.pkroger.com/Villa-Lobos%20-%20Choro%205%20-%20Trecho.mp3
 
 ## Materiais
 
