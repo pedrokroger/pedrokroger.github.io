@@ -75,6 +75,11 @@ obras e compositores(as):
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
 - [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
 
+### Harmônicos em Cordas
+
+- [Jordan M Holloway - Harmonics](https://www.youtube.com/watch?v=26sHBw0oAyE)
+- [Joy Lee - Harmonics](https://www.youtube.com/watch?v=IOk2JR6Ic50)
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
