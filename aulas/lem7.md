@@ -163,19 +163,17 @@ Os elementos a serem analisados:
 [47]: https://docs.pkroger.com/analise/William Byrd - Missa a 4 - Kyrie.mp3
 
 
-<!-- ### Tópicos para os Seminários
+### Tópicos para os Seminários
 
+- Compositoras mulheres no período renascentista e barroco
 - Moteto
 - Madrigal
-- Palestrina
 - Renascimento vs Barroco
 - Época medieval vs Renascimento
-- Compositor(a) renascentista
 - Missa
-- Música reservata
 - Contraponto imitativo
-
--->
+- Modos (gregos) na atualidade
+- Modos (gregos) na música para jogos
 
 
 ## Cronograma
