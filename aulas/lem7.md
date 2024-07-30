@@ -165,6 +165,10 @@ Os elementos a serem analisados:
 
 ### Tópicos para os Seminários
 
+A terceira avaliação será a apresentação de um seminário sobre um dos tópicos
+abaixo. A apresentação deverá ser **em duplas** em uma data pré-determinada
+entre os dias 13 e 22 de Agosto.
+
 - Compositoras mulheres no período renascentista e barroco
 - Moteto
 - Madrigal
