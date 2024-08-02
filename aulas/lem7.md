@@ -49,8 +49,9 @@ A avaliação final será a soma de 3 notas:
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
 
+<!--
 
-<!-- ### Prova de Audição
+### Prova de Audição
 
 Na parte de audição das obras você deverá identificar o nome da obra, o(a)
 compositor(a), e a data aproximada da obra.
@@ -72,7 +73,6 @@ Extras
 
 - {% icon yt %} [How Allegri's Miserere should really sound](https://www.youtube.com/watch?v=h6hD8YtO5HI)
 
--->
 
 ### Trabalho 2: Análise de Obra
 
@@ -162,6 +162,7 @@ Os elementos a serem analisados:
 [46]: https://docs.pkroger.com/analise/William Byrd - Missa a 4 - Gloria.mp3
 [47]: https://docs.pkroger.com/analise/William Byrd - Missa a 4 - Kyrie.mp3
 
+-->
 
 ### Tópicos para os Seminários
 
@@ -185,28 +186,28 @@ entre os dias 13 e 22 de Agosto.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça     | Conteúdo                                   | Quinta     | Conteúdo                                    |
-|:----------|:-------------------------------------------|:-----------|:--------------------------------------------|
-| Mar 12    | Introdução ao curso. Revisão de harmonia   | Mar 14     | Revisão e análise                           |
-| Mar 19    | Revisão e análise                          | Mar 21     | Revisão e análise                           |
-| Mar 26    | Revisão e análise                          | ~~Mar 28~~ | _Semana Santa_                              |
-| Abr 2     | **Prova de Audição e Revisão**             | Abr 4      | Correção da prova e Introdução ao Modalismo |
-| ~~Abr 9~~ | _Chuvas fortes_                            | Abr 11     | Tonalidade vs. Modalismo                    |
-| Abr 16    | Análise de obras renascentistas            | Abr 18     | Análise de obras                            |
-| Abr 23    | Análise de obras renascentistas            | Abr 25     | _Tarefa assíncrona_                         |
-|           | Greve                                      |            | Greve                                       |
-|           | Greve                                      | Jun 27     | _Tarefa assíncrona_                         |
-| ~~Jul 2~~ | _Independência da Bahia_                   | Jul 4      | Revisão                                     |
-| Jul 9     | _Tirar dúvidas trabalho (opcional)_        | Jul 11     | _Tirar dúvidas trabalho (opcional)_         |
-| Jul 16    | **Trabalho de Análise**                    | Jul 18     | **Trabalho de Análise**                     |
-| Jul 23    | **Trabalho de Análise**                    | Jul 25     | **Trabalho de Análise**                     |
-| Jul 30    | **Trabalho de Análise**                    | Ago 1      | **Trabalho de Análise**                     |
-| Ago 6     | _Tirar dúvidas apresentação_               | Ago 8      | _Tirar dúvidas apresentação_                |
-| Ago 13    | **Seminários**                             | Ago 15     | **Seminários**                              |
-|           | Thiago e Wesley - Moteto                   |            | Lizandra e Joabe - Compositoras             |
-|           | Samuel e Emyle - Madrigal                  |            | Jonatan - Modos atualidade                  |
-| Ago 20    | **Seminários**                             | Ago 22     | **Seminários**                              |
-|           | Alex e João - Modos jogos                  |            |                                             |
-|           | Lilian e Rafael - Medieval vs Renascimento |            |                                             |
-| Ago 27    | _Reservado para 2a chamada_                | Ago 29     | _Reservado para 2a chamada_                 |
-| Set 3     | _Reservado para correções (sem aula)_      | Set 5      | _Entrega de resultados (online)_            |
+| Terça     | Conteúdo                                   | Quinta     | Conteúdo                                      |
+|:----------|:-------------------------------------------|:-----------|:----------------------------------------------|
+| Mar 12    | Introdução ao curso. Revisão de harmonia   | Mar 14     | Revisão e análise                             |
+| Mar 19    | Revisão e análise                          | Mar 21     | Revisão e análise                             |
+| Mar 26    | Revisão e análise                          | ~~Mar 28~~ | _Semana Santa_                                |
+| Abr 2     | **Prova de Audição e Revisão**             | Abr 4      | Correção da prova e Introdução ao Modalismo   |
+| ~~Abr 9~~ | _Chuvas fortes_                            | Abr 11     | Tonalidade vs. Modalismo                      |
+| Abr 16    | Análise de obras renascentistas            | Abr 18     | Análise de obras                              |
+| Abr 23    | Análise de obras renascentistas            | Abr 25     | _Tarefa assíncrona_                           |
+|           | Greve                                      |            | Greve                                         |
+|           | Greve                                      | Jun 27     | _Tarefa assíncrona_                           |
+| ~~Jul 2~~ | _Independência da Bahia_                   | Jul 4      | Revisão                                       |
+| Jul 9     | _Tirar dúvidas trabalho (opcional)_        | Jul 11     | _Tirar dúvidas trabalho (opcional)_           |
+| Jul 16    | **Trabalho de Análise**                    | Jul 18     | **Trabalho de Análise**                       |
+| Jul 23    | **Trabalho de Análise**                    | Jul 25     | **Trabalho de Análise**                       |
+| Jul 30    | **Trabalho de Análise**                    | Ago 1      | **Trabalho de Análise**                       |
+| Ago 6     | _Tirar dúvidas apresentação_               | Ago 8      | _Tirar dúvidas apresentação_                  |
+| Ago 13    | **Seminários**                             | Ago 15     | **Seminários**                                |
+|           | Thiago e Wesley - Moteto                   |            | Lizandra e Joabe - Compositoras               |
+|           | Samuel e Emyle - Madrigal                  |            | Renascimento vs Barroco - Caroline e Gabriela |
+| Ago 20    | **Seminários**                             | Ago 22     | **Seminários**                                |
+|           | Alex e João - Modos jogos                  |            | Rebeca - Missa                                |
+|           | Lilian e Rafael - Medieval vs Renascimento |            | Jonatan - Modos atualidade                    |
+| Ago 27    | _Reservado para 2a chamada_                | Ago 29     | _Reservado para 2a chamada_                   |
+| Set 3     | _Reservado para correções (sem aula)_      | Set 5      | _Entrega de resultados (online)_              |
