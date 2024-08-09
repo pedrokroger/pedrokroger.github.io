@@ -62,7 +62,10 @@ obras e compositores(as):
   nos registro para fazer uma adaptação melhor para a orquestra. **Valor: 2.5
   pontos**, **Entrega: 6 de Agosto**
 
-- **Trabalho 3**: _a definir_
+- **Trabalho 3**: Fazer uma breve composição com duração de cerca de 1 minuto
+  para madeiras e cordas. Você poderá acrescentar instrumentos extras se
+  desejar. A composição deverá usar os seguintes efeitos nas cordas: trêmolo e
+  harmônicos (artificiais ou naturais).
 
 [1]: {% link docs/reducao-analitica.md %}
 [2]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.pdf
