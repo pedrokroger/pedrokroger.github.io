@@ -105,7 +105,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jul 23    | Cordas                           |
 | Jul 30    | Cordas                           |
 | Ago 6     | **Trabalho 2 (2.5 pontos)**      |
-| Ago 13    | Análise de Trechos               |
-| Ago 20    | Análise de Trechos               |
+| Ago 13    | Cordas                           |
+| Ago 20    | Cordas                           |
 | Ago 27    | **Trabalho 3 (2.5 pontos)**      |
 | Set 3     | _Entrega de resultados (online)_ |
