@@ -14,13 +14,13 @@ Barroco até o século XX.
 
 {% notas %}
 
-| Nome                        | Prova | T1  | T2 | T3 | Nota Final |
-|:----------------------------|:------|:----|:---|:---|:-----------|
-| Daniel Lopes De Oliveira    | 2.5   | 2.5 |    |    | =sum       |
-| Emyle Magna Santos Barbosa  | 1.8   | 2.5 |    |    | =sum       |
-| Gianmarco Turina            | 2.5   | 2.5 |    |    | =sum       |
-| Luciano Jose Salvador Bahia | 2.5   | 2.5 |    |    | =sum       |
-| Rafael Espinheira Santiago  | 2.2   | 2.5 |    |    | =sum       |
+| Nome                        | Prova | T1  | T2  | T3 | Nota Final |
+|:----------------------------|:------|:----|:----|:---|:-----------|
+| Daniel Lopes De Oliveira    | 2.5   | 2.5 | 2.5 |    | =sum       |
+| Emyle Magna Santos Barbosa  | 1.8   | 2.5 | 2.5 |    | =sum       |
+| Gianmarco Turina            | 2.5   | 2.5 | 2.5 |    | =sum       |
+| Luciano Jose Salvador Bahia | 2.5   | 2.5 | 2.5 |    | =sum       |
+| Rafael Espinheira Santiago  | 2.2   | 2.5 | 2.5 |    | =sum       |
 {: .collapse #notas-table}
 
 
@@ -65,7 +65,9 @@ obras e compositores(as):
 - **Trabalho 3**: Fazer uma breve composição com duração de cerca de 1 minuto
   para madeiras e cordas. Você poderá acrescentar instrumentos extras se
   desejar. A composição deverá usar os seguintes efeitos nas cordas: trêmolo e
-  harmônicos (artificiais ou naturais).
+  harmônicos (artificiais ou naturais). Você deve entregar um pdf com a
+  partitura e um mp3 com o áudio. **Valor: 2.5 pontos**, **Entrega: 27 de
+  Agosto**
 
 [1]: {% link docs/reducao-analitica.md %}
 [2]: https://docs.pkroger.com/Bartok%20-%20Concerto%20para%20Orquestra%20-%20Trecho.pdf
