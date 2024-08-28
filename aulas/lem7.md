@@ -9,21 +9,21 @@ showindex: true
 
 | Nome                          | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
 |:------------------------------|:----------|:--------------|:----------------|:-----------|
-| Alex Cerqueira Marques        | 2.7       | 3.5           |                 | =sum       |
-| Caroline Lima Turbiani        | 2.3       | 3.0           |                 | =sum       |
-| Emyle Magna Santos Barbosa    | 2.3       | 3.5           |                 | =sum       |
-| Gabriela Dalcom De Oliveira   | 2.7       | 3.0           |                 | =sum       |
-| Joabe Jesus Borges            | 2.8       | 3.0           |                 | =sum       |
-| João Henrique Souza e Souza   | 2.4       | 3.5           |                 | =sum       |
-| Jonatan Silva De Oliveira     | 2.3       | 3.0           |                 | =sum       |
-| Liliam Abilio Dantas          | 2.8       | 2.0           |                 | =sum       |
-| Lizandra Dos Santos Goncalves | 2.3       | 3.5           |                 | =sum       |
-| Rafael Santos Alencar         | 2.4       | 3.5           |                 | =sum       |
-| Rebeca De Oliveira Lima       | 2.8       | 3.0           |                 | =sum       |
-| Samuel Da Silva Ressurreição  | 2.8       | 3.0           |                 | =sum       |
-| Tadeu Maciel Feitosa Campos   | 2.3       | 0.0           |                 | =sum       |
-| Thiago Alves Pereira          | 2.5       | 2.0           |                 | =sum       |
-| Wesley Alves Dos Santos       | 1.7       | 2.8           |                 | =sum       |
+| Alex Cerqueira Marques        | 2.7       | 3.5           | 3.5             | =sum       |
+| Caroline Lima Turbiani        | 2.3       | 3.0           | 3.5             | =sum       |
+| Emyle Magna Santos Barbosa    | 2.3       | 3.5           | 3.5             | =sum       |
+| Gabriela Dalcom De Oliveira   | 2.7       | 3.0           | 3.5             | =sum       |
+| Joabe Jesus Borges            | 2.8       | 3.0           | 3.5             | =sum       |
+| João Henrique Souza e Souza   | 2.4       | 3.5           | 3.5             | =sum       |
+| Jonatan Silva De Oliveira     | 2.3       | 3.0           | 3.0             | =sum       |
+| Liliam Abilio Dantas          | 2.8       | 2.0           | 3.0             | =sum       |
+| Lizandra Dos Santos Goncalves | 2.3       | 3.5           | 3.5             | =sum       |
+| Rafael Santos Alencar         | 2.4       | 3.5           | 3.5             | =sum       |
+| Rebeca De Oliveira Lima       | 2.8       | 3.0           | 3.5             | =sum       |
+| Samuel Da Silva Ressurreição  | 2.8       | 3.0           | 3.5             | =sum       |
+| Tadeu Maciel Feitosa Campos   | 2.3       | 0.0           | 0.0             | =sum       |
+| Thiago Alves Pereira          | 2.5       | 2.0           | 3.0             | =sum       |
+| Wesley Alves Dos Santos       | 1.7       | 2.8           | 3.0             | =sum       |
 {: .collapse #notas-table}
 
 
