@@ -21,7 +21,6 @@ showindex: true
 | Rafael Santos Alencar         | 2.4       | 3.5           | 3.5             | =sum       |
 | Rebeca De Oliveira Lima       | 2.8       | 3.0           | 3.5             | =sum       |
 | Samuel Da Silva Ressurreição  | 2.8       | 3.0           | 3.5             | =sum       |
-| Tadeu Maciel Feitosa Campos   | 2.3       | 0.0           | 0.0             | =sum       |
 | Thiago Alves Pereira          | 2.5       | 2.0           | 3.0             | =sum       |
 | Wesley Alves Dos Santos       | 1.7       | 2.8           | 3.0             | =sum       |
 {: .collapse #notas-table}
