@@ -1,5 +1,6 @@
 ---
 title: MUSB19 - Composição X
+showindex: true
 ---
 
 Nesse semestre concluiremos a obra final de curso com duração mínima de 14
@@ -12,7 +13,7 @@ entregar um pdf da partitura com mp3 e um pdf da monografia. A obra deverá ter 
 duração mínima de 14 minutos.
 
 {% alert %}
-A obra final e monografia devem ser entregues até **16 de novembro.**
+A obra final e monografia devem ser entregues até <b>16 de janeiro.</b>
 {% endalert %}
 
 ## Formação da Orquestra
@@ -65,24 +66,23 @@ A monografia será trabalhada nas aulas de composição.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data       | Conteúdo                                  |
-|------------|-------------------------------------------|
-| Ago 17     | Acompanhamento da composição e monografia |
-| Ago 24     | Acompanhamento da composição e monografia |
-| Ago 31     | Acompanhamento da composição e monografia |
-| ~~Set 7~~  | *Independência do Brasil*                 |
-| Set 14     | Acompanhamento da composição e monografia |
-| Set 21     | Acompanhamento da composição e monografia |
-| Set 28     | Acompanhamento da composição e monografia |
-| Out 5      | Acompanhamento da composição e monografia |
-| ~~Out 12~~ | *Nossa Senhora Aparecida*                 |
-| Out 19     | Acompanhamento da composição e monografia |
-| Out 26     | Acompanhamento da composição e monografia |
-| ~~Nov 2~~  | *Finados*                                 |
-| Nov 9      | Acompanhamento da composição e monografia |
-| Nov 16     | **Entrega do trabalho final**             |
-| Nov 23     | *Banca avalia trabalhos* (sem aula)       |
-| Nov 30     | *Banca avalia trabalhos* (sem aula)       |
-| Dez 7      | *Banca avalia trabalhos* (sem aula)       |
-| Dez 14     | *Entrega de resultados (online)*          |
-|            |                                           |
+| Data       | Conteúdo                            |
+|------------|-------------------------------------|
+| Out 3      | Introdução ao curso                 |
+| ~~Out 10~~ | *Seminários internacionais*         |
+| ~~Out 17~~ | *Seminários internacionais*         |
+| Out 24     | **Composição 8 minutos**            |
+| Out 31     | **Composição 9 minutos**            |
+| Nov 7      | **Composição 10 minutos**           |
+| Nov 14     | Acompanhamento da composição        |
+| Nov 21     | **Composição 11 minutos**           |
+| Nov 28     | **Composição 12 minutos**           |
+| Dez 5      | Acompanhamento da composição        |
+| Dez 12     | **Composição 13 minutos**           |
+| Dez 19     | **Composição 14 minutos**           |
+| Jan 9      | Monografia                          |
+| Jan 16     | **Entrega do trabalho final**       |
+| Jan 23     | *Banca avalia trabalhos* (sem aula) |
+| Jan 30     | *Banca avalia trabalhos* (sem aula) |
+| Fev 6      | *Banca avalia trabalhos* (sem aula) |
+| Fev 13     | *Entrega de resultados (online)*    |

@@ -1,5 +1,6 @@
 ---
 title: MUSA85 - Instrumentação e Orquestração II
+showindex: true
 ---
 
 Nível 2 do conhecimento básico dos instrumentos da Orquestra Clássica de modo
@@ -15,10 +16,15 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 
 ## Notas
 
-| Nome                       | T1  | T2  | T3  | T4  | Nota Final |
-| :------------------------- | :-- | :-- | :-- | :-- | :--------- |
-|                            |     |     |     |     | =sum       |
+| Nome                        | Prova | T1 | T2 | T3 | Nota Final |
+|:----------------------------|:------|:---|:---|:---|:-----------|
+| Daniel Lopes De Oliveira    |       |    |    |    | =sum       |
+| Gianmarco Turina            |       |    |    |    | =sum       |
+| Luciano Jose Salvador Bahia |       |    |    |    | =sum       |
+| Rafael Espinheira Santiago  |       |    |    |    | 8.5        |
+{: #notas-table}
 
+<!-- | Rafael Espinheira Santiago | 1.0 | 2.5 | 2.5 | 2.5  -->
 
 ## Trabalhos
 
@@ -52,3 +58,24 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Nov 28     | **Trabalho 4** (2.5 pontos)      |
 | Dez 5      | _Reservado para 2a chamada_      |
 | Dez 12     | _Entrega de resultados (online)_ |
+
+| Data       | Conteúdo                    |
+|:-----------|:----------------------------|
+| Out 1      | Atividade assíncrona        |
+| ~~Out 8~~  | *Seminários internacionais* |
+| ~~Out 15~~ | *Seminários internacionais* |
+| Out 22     |                             |
+| Out 29     |                             |
+| Nov 5      |                             |
+| Nov 12     |                             |
+| Nov 19     |                             |
+| Nov 26     |                             |
+| Dez 3      |                             |
+| Dez 10     |                             |
+| Dez 17     |                             |
+| Jan 7      |                             |
+| Jan 14     |                             |
+| Jan 21     |                             |
+| Jan 28     | x                           |
+| Fev 4      | x                           |
+| Fev 11     | x                           |

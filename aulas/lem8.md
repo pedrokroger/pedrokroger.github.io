@@ -1,5 +1,6 @@
 ---
 title: MUSA76 - Literatura e Estruturação Musical VIII
+showindex: true
 ---
 
 Estudo das técnicas contrapontísticas e harmônicas complexas e das grandes
@@ -7,9 +8,12 @@ formas da música sinfônica e sinfônico-coral.
 
 ## Notas
 
-| Nome                          | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
-| :---------------------------- | :-------- | :---------- | :------------ | :--------- |
-|                               |           |             |               | =sum       |
+| Nome                       | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
+|:---------------------------|:----------|:------------|:--------------|:-----------|
+| Alex Cerqueira Marques     |           |             |               | =sum       |
+| Emyle Magna Santos Barbosa |           |             |               | =sum       |
+| Gianmarco Turina           |           |             |               | =sum       |
+| Rafael Santos Alencar      |           |             |               | =sum       |
 
 ## Referências
 
@@ -96,3 +100,25 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Nov 28     | **Seminários:** Leonardo, Thiago, Samuel |        |                             |
 | Dez 5      | _Reservado para 2a Chamada_              |        |                             |
 | Dez 12     | Entrega de Resultados (online)           |        |                             |
+
+
+| Terça      | Conteúdo                    | Quinta     | Conteúdo                    |
+|:-----------|:----------------------------|:-----------|:----------------------------|
+| Out 1      |                             | Out 3      | Introdução ao curso         |
+| ~~Out 8~~  | *Seminários internacionais* | ~~Out 10~~ | *Seminários internacionais* |
+| ~~Out 15~~ | *Seminários internacionais* | ~~Out 17~~ | *Seminários internacionais* |
+| Out 22     |                             | Out 24     |                             |
+| Out 29     |                             | Out 31     |                             |
+| Nov 5      |                             | Nov 7      |                             |
+| Nov 12     |                             | Nov 14     |                             |
+| Nov 19     |                             | Nov 21     |                             |
+| Nov 26     |                             | Nov 28     |                             |
+| Dez 3      |                             | Dez 5      |                             |
+| Dez 10     |                             | Dez 12     |                             |
+| Dez 17     |                             | Dez 19     |                             |
+| Jan 7      |                             | Jan 9      |                             |
+| Jan 14     |                             | Jan 16     |                             |
+| Jan 21     |                             | Jan 23     |                             |
+| Jan 28     |                             | Jan 30     |                             |
+| Fev 4      |                             | Fev 6      |                             |
+| Fev 11     |                             | Fev 13     |                             |
