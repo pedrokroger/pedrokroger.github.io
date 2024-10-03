@@ -41,6 +41,7 @@ instrumentos se desejar:
 ## Materiais
 
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
+- [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
 
 ## Texto
 
@@ -57,8 +58,13 @@ instrumentos se desejar:
 
 A monografia será trabalhada nas aulas de composição.
 
-- [Monografia de Marcos][10]
-- [Template da Monografia][11]
+- [Monografia de Marcos Sampaio][1]
+- [Monografia de Rebecca Gallinari][2]
+- [Template da Monografia][3]
+
+[1]: https://docs.pkroger.com/Monografia%20Marcos.pdf
+[2]: https://docs.pkroger.com/Monografia%20Rebecca.pdf
+[3]: https://docs.pkroger.com/Modelo%20Monografia.docx
 
 
 ## Cronograma
