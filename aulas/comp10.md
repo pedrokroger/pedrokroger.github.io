@@ -40,6 +40,7 @@ instrumentos se desejar:
 
 ## Materiais
 
+- [Anna’s Archive](https://annas-archive.org)
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
 - [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
 
@@ -86,7 +87,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Dez 5      | Acompanhamento da composição        |
 | Dez 12     | **Composição 13 minutos**           |
 | Dez 19     | **Composição 14 minutos**           |
-| Jan 9      | Monografia                          |
+| Jan 9      | Acompanhamento da Monografia        |
 | Jan 16     | **Entrega do trabalho final**       |
 | Jan 23     | *Banca avalia trabalhos* (sem aula) |
 | Jan 30     | *Banca avalia trabalhos* (sem aula) |

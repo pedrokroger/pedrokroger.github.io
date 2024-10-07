@@ -15,9 +15,12 @@ formas da música sinfônica e sinfônico-coral.
 | Gianmarco Turina           |           |             |               | =sum       |
 | Rafael Santos Alencar      |           |             |               | =sum       |
 
-## Referências
 
+## Materiais
 
+- [Anna’s Archive](https://annas-archive.org)
+- [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
+- [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
 
 ## Avaliação
 
@@ -37,16 +40,6 @@ aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação o
 Na parte de audição das obras você deverá identificar o nome da obra e o nome
 do(a) compositor(a). Lista de Obras:
 
-- Mathilde von Rothschild - Sechs Lieder IV (1876) (Seis Canções) - Wiegenlied (Canção de Ninar)
-- Manuel de Falla - 7 Canciones Populares Españolas (1914) - El pano moruno
-- Chiquinha Gonzaga - Saudade (1896?)
-- Béla Bartók - Romanian Folk Dances (1915) (Danças Folclóricas Romenas) - Pe-Loc
-- Richard Strauss - Vier letzte Lieder (4 últimas canções) (1948) - Frühling (Primavera)
-- Richard Wagner - Götterdämmerung (O crepúsculo dos deuses) (1876) - Ato 3 - trauermarsch (Marcha fúnebre)
-- J. Brahms - Fünf Gesänge, Op. 104 (Cinco Canções) (1888)- Nachtwache I (vigília noturna)
-- H. Villa-Lobos - Valsa da dor (1932)
-- Clara Schumann - 3 Romances, op. 11 no. 1 (1839)
-- Claudio Santoro - Ponteio (1953)
 
 ### Trabalho de Análise
 
@@ -58,14 +51,13 @@ aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação o
 
 ### Tópicos para os Seminários
 
-- A Sinfonia no século XIX - Joabe
-- A Música Programática nos séc. XIX e XX - Marluce
-- A Canção Romântica no séc. XIX - Wesley
-- A Ópera entre 1850 e 1910 - Samuel
-- Compositoras mulheres entre 1850 e 1920 - Lizandra
-- O Lied alemão - Thiago
-- Minimalismo - Leonardo
-
+- A Sinfonia no século XIX
+- A Música Programática nos séc. XIX e XX
+- A Canção Romântica no séc. XIX
+- A Ópera entre 1850 e 1910
+- Compositoras mulheres entre 1850 e 1920
+- O Lied alemão
+- Minimalismo
 - O Concerto no século XIX
 - O Balé entre 1850 e 1920
 - Os movimentos nacionalistas no final do século XIX e início do século XX
