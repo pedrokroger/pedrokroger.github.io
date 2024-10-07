@@ -62,55 +62,44 @@ aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação o
 - O Balé entre 1850 e 1920
 - Os movimentos nacionalistas no final do século XIX e início do século XX
 
+{% comment %}
+- Musica uma unica escala => lira, modos gregos, ali farka toure, minimalismo, eletronica
+- Pentatonica: porque não em musica classica? (Debussy, Bartok)
+- Total cromatico => compara com unica escala => dodecafonismo (tambem na musica moderna, heavy metal, caetano)
+- Quantas escalas existem? sonoridades
+- Forma fechada: lamento, passacaglia, blues 12 compassos
+- Influencia de J. Williams (Holst, etc) => analisar como soa
+- Textural e repetição: vivaldi, beethoven, wagner, gurrelieder, vertigo (hermann), zimmer
+- Modernismo. Nacionalismo, outras sonoridades: Debussy, Bartok, Villa-Lobos, Guerra-Peixe (+ argentino, mexicano)
+
+- Harmonia cromatica sec 19 (schoenberg)
+- Acorde aumentado: Liszt
+- Contexto historico: harmonia para forma (sinfonia, sonata) vs harmonia para expressão (poema sinfonico, opera)
+- Influência desse periodo na era moderna e musica de filme (Korngold, Hermann)
+{% endcomment %}
+
 
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça  | Conteúdo                       | Quinta    | Conteúdo                  |
-|:-------|:-------------------------------|:----------|:--------------------------|
-| Ago 15 | Introdução ao Curso            | Ago 17    | Revisão                   |
-| Ago 22 | Revisão                        | Ago 24    | Revisão                   |
-| Ago 29 | Revisão para a prova           | Ago 31    | Revisão                   |
-| Set 5  | *Atividade Assíncrona Remota*  | ~~Set 7~~ | _Independência do Brasil_ |
-| Set 12 | Revisão para a prova           | Set 14    | Revisão para a prova      |
-| Set 19 | **Prova de audição e análise** | Set 21    | Correção da Prova         |
-| Set 26 | Harmonia no século XIX         | Set 28    | Harmonia no século XIX    |
-
-
-| Terça      | Conteúdo                                 | Quinta | Conteúdo                    |
-|:-----------|:-----------------------------------------|:-------|:----------------------------|
-| Out 3      | Harmonia no século XIX                   | Out 5  | _Segunda Chamada (Marluce)_ |
-| ~~Out 10~~ | _Seminários Internacionais_              |        |                             |
-| Out 17     | **Trabalho de Análise 1/3**              |        |                             |
-| Out 24     | **Trabalho de Análise 1/3**              |        |                             |
-| Out 31     | **Trabalho de Análise 1/3**              |        |                             |
-| Nov 7      | Tirar dúvidas para os seminários         |        |                             |
-| Nov 14     | **Seminários:** Lizandra, Joabe          |        |                             |
-| Nov 21     | **Seminários:** Marluce, Wesley          |        |                             |
-| Nov 28     | **Seminários:** Leonardo, Thiago, Samuel |        |                             |
-| Dez 5      | _Reservado para 2a Chamada_              |        |                             |
-| Dez 12     | Entrega de Resultados (online)           |        |                             |
-
-
-| Terça      | Conteúdo                    | Quinta     | Conteúdo                    |
-|:-----------|:----------------------------|:-----------|:----------------------------|
-| Out 1      |                             | Out 3      | Introdução ao curso         |
-| ~~Out 8~~  | *Seminários internacionais* | ~~Out 10~~ | *Seminários internacionais* |
-| ~~Out 15~~ | *Seminários internacionais* | ~~Out 17~~ | *Seminários internacionais* |
-| Out 22     |                             | Out 24     |                             |
-| Out 29     |                             | Out 31     |                             |
-| Nov 5      |                             | Nov 7      |                             |
-| Nov 12     |                             | Nov 14     |                             |
-| Nov 19     |                             | Nov 21     |                             |
-| Nov 26     |                             | Nov 28     |                             |
-| Dez 3      |                             | Dez 5      |                             |
-| Dez 10     |                             | Dez 12     |                             |
-| Dez 17     |                             | Dez 19     |                             |
-| Jan 7      |                             | Jan 9      |                             |
-| Jan 14     |                             | Jan 16     |                             |
-| Jan 21     |                             | Jan 23     |                             |
-| Jan 28     |                             | Jan 30     |                             |
-| Fev 4      |                             | Fev 6      |                             |
-| Fev 11     |                             | Fev 13     |                             |
+| Terça      | Conteúdo                         | Quinta     | Conteúdo                       |
+|:-----------|:---------------------------------|:-----------|:-------------------------------|
+| Out 1      |                                  | Out 3      | Introdução ao curso            |
+| ~~Out 8~~  | *Seminários internacionais*      | ~~Out 10~~ | *Seminários internacionais*    |
+| ~~Out 15~~ | *Seminários internacionais*      | ~~Out 17~~ | *Congresso da TeMA*            |
+| Out 22     |                                  | Out 24     |                                |
+| Out 29     |                                  | Out 31     |                                |
+| Nov 5      |                                  | Nov 7      |                                |
+| Nov 12     |                                  | Nov 14     |                                |
+| Nov 19     |                                  | Nov 21     |                                |
+| ~~Nov 26~~ | *Congresso da UFBA*              | ~~Nov 28~~ | *Congresso da UFBA*            |
+| Dez 3      |                                  | Dez 5      |                                |
+| Dez 10     |                                  | Dez 12     |                                |
+| Dez 17     |                                  | Dez 19     |                                |
+| Jan 7      |                                  | Jan 9      |                                |
+| Jan 14     |                                  | ~~Jan 16~~ | _Lavagem do Bomfim_            |
+| Jan 21     |                                  | Jan 23     |                                |
+| Jan 28     | *Reservado para 2a Chamada*      | Jan 30     | *Reservado para 2a Chamada*    |
+| Fev 4      | *Entrega de Resultados (online)* | Fev 6      | *Reservado para visita do MEC* |
