@@ -77,7 +77,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 |------------|-------------------------------------|
 | Out 3      | Introdução ao curso                 |
 | ~~Out 10~~ | *Seminários internacionais*         |
-| ~~Out 17~~ | *Seminários internacionais*         |
+| ~~Out 17~~ | **Congresso da TeMA**               |
 | Out 24     | **Composição 8 minutos**            |
 | Out 31     | **Composição 9 minutos**            |
 | Nov 7      | **Composição 10 minutos**           |
