@@ -12,7 +12,7 @@ desde o Barroco até o século XX. Continuação de Instrumentação e Orquestra
 
 ## Avaliação
 
-A avaliação final será soma de 4 trabalhos de orquestração orientados.
+A avaliação final será soma de 3 trabalhos de orquestração orientados.
 
 ## Notas
 
@@ -28,54 +28,54 @@ A avaliação final será soma de 4 trabalhos de orquestração orientados.
 
 ## Trabalhos
 
+- **Atividade assíncrona 1**: A composição *Os Planetas* de Gustav Holst foi
+  composta entre 1914 e 1917 e influenciou a orquestração e composição modernas
+  de inúmeras maneiras. [pdf][1] e [mp3][2]
+
+  - Observe cuidadosamente a instrumentação listada na 2a página
+  - Ouça o trecho selecionado com a partitura, observando o uso dos metais e uso do ostinato
+  - Observe o uso de efeitos como surdina nos metais e *col legno* nas cordas
+
+<br/>
+
+- **Trabalho 1** (3 pontos): Faça uma redução analítica dos sopros (excluindo
+    percussão, harpas e cordas) dos compassos 8-16, 25-32 e 40 (tutti com II de
+    ensaio) do trecho da obra *Os Planetas* visto na **atividade assíncrona 1**.
+
+- **Trabalho 2** (3 pontos): a definir.
+
+- **Trabalho 3** (4 pontos): a definir.
+
+[1]: https://docs.pkroger.com/Holst%20-%20Os%20Planetas%20-%20Marte%20-%20Trecho.pdf
+[2]: https://docs.pkroger.com/Holst%20-%20Os%20Planetas%20-%20Marte%20-%20Trecho.mp3
 
 ## Materiais
 
+- [Anna’s Archive](https://annas-archive.org)
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
+- [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
 
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data       | Conteúdo                         |
-|:-----------|:---------------------------------|
-| Ago 15     | Introdução ao Curso e Metais     |
-| Ago 22     | Metais                           |
-| Ago 29     | Metais                           |
-| Set 5      | **Trabalho 1** (2.5 pontos)      |
-| Set 12     | Madeiras, Metais e Cordas        |
-| Set 19     | Madeiras, Metais e Cordas        |
-| Set 26     | Madeiras, Metais e Cordas        |
-| Out 3      | **Trabalho 2** (2.5 pontos)      |
-| ~~Out 10~~ | Seminários internacionais        |
-| Out 17     | Percussão e teclados             |
-| Out 24     | Percussão e teclados             |
-| Out 31     | Análise de Trechos               |
-| Nov 7      | **Trabalho 3** (2.5 pontos)      |
-| Nov 14     | Análise de Trechos               |
-| Nov 21     | Análise de Trechos               |
-| Nov 28     | **Trabalho 4** (2.5 pontos)      |
-| Dez 5      | _Reservado para 2a chamada_      |
-| Dez 12     | _Entrega de resultados (online)_ |
-
-| Data       | Conteúdo                    |
-|:-----------|:----------------------------|
-| Out 1      | Atividade assíncrona        |
-| ~~Out 8~~  | *Seminários internacionais* |
-| ~~Out 15~~ | *Seminários internacionais* |
-| Out 22     |                             |
-| Out 29     |                             |
-| Nov 5      |                             |
-| Nov 12     |                             |
-| Nov 19     |                             |
-| Nov 26     |                             |
-| Dez 3      |                             |
-| Dez 10     |                             |
-| Dez 17     |                             |
-| Jan 7      |                             |
-| Jan 14     |                             |
-| Jan 21     |                             |
-| Jan 28     | x                           |
-| Fev 4      | x                           |
-| Fev 11     | x                           |
+| Data       | Conteúdo                       |
+|:-----------|:-------------------------------|
+| Out 1      | Atividade assíncrona           |
+| ~~Out 8~~  | *Seminários internacionais*    |
+| ~~Out 15~~ | *Seminários internacionais*    |
+| Out 22     | Introdução ao curso e Metais   |
+| Out 29     | Metais                         |
+| Nov 5      | **Trabalho 1**                 |
+| Nov 12     | Madeiras, metais e cordas      |
+| Nov 19     | Madeiras, metais e cordas      |
+| ~~Nov 26~~ | *Congresso da UFBA*            |
+| Dez 3      | **Trabalho 2**                 |
+| Dez 10     | Percussão e teclados           |
+| Dez 17     | Percussão e teclados           |
+| Jan 7      | Análise de trechos             |
+| Jan 14     | Análise de trechos             |
+| Jan 21     | **Trabalho 3**                 |
+| Jan 28     | *Reservado para 2a Chamada*    |
+| Fev 4      | *Reservado para visita do MEC* |

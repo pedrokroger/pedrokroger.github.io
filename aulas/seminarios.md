@@ -20,3 +20,6 @@ digitais como o YouTube.
 Entrega de resumos de 3 palestras assistidas durante o semestre. Cada resumo
 deve conter o nome do palestrante, o título da palestra e um breve resumo do
 conteúdo. Os resumos devem ser entregues até **3 de Fevereiro**.
+
+Orientações presenciais ou por email podem ser marcadas a partir da necessidade
+indivudual do aluno.
