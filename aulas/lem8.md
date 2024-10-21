@@ -1,6 +1,6 @@
 ---
 title: MUSA76 - Literatura e Estruturação Musical VIII
-showindex: false
+showindex: true
 ---
 
 Estudo das técnicas contrapontísticas e harmônicas complexas e das grandes
@@ -8,12 +8,12 @@ formas da música sinfônica e sinfônico-coral.
 
 ## Notas
 
-| Nome                       | Prova (3) | Análise (4) | Seminário (3) | Nota Final |
-|:---------------------------|:----------|:------------|:--------------|:-----------|
-| Alex Cerqueira Marques     |           |             |               | =sum       |
-| Emyle Magna Santos Barbosa |           |             |               | =sum       |
-| Gianmarco Turina           |           |             |               | =sum       |
-| Rafael Santos Alencar      |           |             |               | =sum       |
+| Nome                       | T1 (1.5) | T2 (1.5) | T3 (1.5) | T4 (1.5) | Trab (3) | Part (1) | Nota Final |
+|:---------------------------|:---------|:---------|----------|----------|:---------|----------|:-----------|
+| Alex Cerqueira Marques     |          |          |          |          |          |          | =sum       |
+| Emyle Magna Santos Barbosa |          |          |          |          |          |          | =sum       |
+| Gianmarco Turina           |          |          |          |          |          |          | =sum       |
+| Rafael Santos Alencar      |          |          |          |          |          |          | =sum       |
 
 
 ## Materiais
@@ -24,59 +24,31 @@ formas da música sinfônica e sinfônico-coral.
 
 ## Avaliação
 
-A avaliação final será soma de 4 notas:
+A avaliação final será soma de 3 notas:
 
-- 1 prova de audição e análise: 3 pontos
-- 1 trabalho de análise: 4 pontos
-- 1 seminário oral: 3 pontos
-
-Analisar um trecho de uma obra do final do século XIX e apresentar oralmente em
-etapas nos dias 26 de setembro e 1 e 3 de outubro. A obra será escolhida pelo(a)
-aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação oral
-é individual.
-
-### Prova de Audição
-
-Na parte de audição das obras você deverá identificar o nome da obra e o nome
-do(a) compositor(a). Lista de Obras:
+- Assiduidade e participação em aula: 1 ponto
+- 4 mini-trabalhos de análise: 6 pontos (1.5 pontos cada)
+- 1 trabalho sobre um tópico específico: 3 pontos
 
 
-### Trabalho de Análise
+- **Mini-trabalho 1:** Fazer uma análise harmônica dos compassos 1-41 do
+  Quarteto 1 de J. Brahms: [pdf][1] e [mp3][2]
 
-Analisar um trecho de uma obra do final do século XIX e apresentar oralmente em
-etapas nas aulas de 17, 24, e 31 de outubro. A obra será escolhida pelo(a)
-aluno(a) e deverá ter algum recurso harmônico interessante. A apresentação oral
-é individual.
+[1]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.pdf
+[2]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.m4a
 
+### Tópicos para o trabalho multimídia
 
-### Tópicos para os Seminários
+Fazer um trabalho multimídia com texto, vídeo e áudio sobre um dos tópicos
+abaixos.
 
 - A Sinfonia no século XIX
-- A Música Programática nos séc. XIX e XX
-- A Canção Romântica no séc. XIX
 - A Ópera entre 1850 e 1910
 - Compositoras mulheres entre 1850 e 1920
-- O Lied alemão
 - Minimalismo
 - O Concerto no século XIX
 - O Balé entre 1850 e 1920
 - Os movimentos nacionalistas no final do século XIX e início do século XX
-
-{% comment %}
-- Musica uma unica escala => lira, modos gregos, ali farka toure, minimalismo, eletronica
-- Pentatonica: porque não em musica classica? (Debussy, Bartok)
-- Total cromatico => compara com unica escala => dodecafonismo (tambem na musica moderna, heavy metal, caetano)
-- Quantas escalas existem? sonoridades
-- Forma fechada: lamento, passacaglia, blues 12 compassos
-- Influencia de J. Williams (Holst, etc) => analisar como soa
-- Textural e repetição: vivaldi, beethoven, wagner, gurrelieder, vertigo (hermann), zimmer
-- Modernismo. Nacionalismo, outras sonoridades: Debussy, Bartok, Villa-Lobos, Guerra-Peixe (+ argentino, mexicano)
-
-- Harmonia cromatica sec 19 (schoenberg)
-- Acorde aumentado: Liszt
-- Contexto historico: harmonia para forma (sinfonia, sonata) vs harmonia para expressão (poema sinfonico, opera)
-- Influência desse periodo na era moderna e musica de filme (Korngold, Hermann)
-{% endcomment %}
 
 
 ## Cronograma
@@ -89,17 +61,17 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Out 1      |                                  | Out 3      | Introdução ao curso            |
 | ~~Out 8~~  | *Seminários internacionais*      | ~~Out 10~~ | *Seminários internacionais*    |
 | ~~Out 15~~ | *Seminários internacionais*      | ~~Out 17~~ | *Congresso da TeMA*            |
-| Out 22     |                                  | Out 24     |                                |
-| Out 29     |                                  | Out 31     |                                |
+| Out 22     | Contextualização e análise       | Out 24     | Análise                        |
+| Out 29     | **Mini-trabalho 1 (1.5 pts)**    | Out 31     |                                |
 | Nov 5      |                                  | Nov 7      |                                |
-| Nov 12     |                                  | Nov 14     |                                |
+| Nov 12     | **Mini-trabalho 2 (1.5 pts)**    | Nov 14     |                                |
 | Nov 19     |                                  | Nov 21     |                                |
 | ~~Nov 26~~ | *Congresso da UFBA*              | ~~Nov 28~~ | *Congresso da UFBA*            |
-| Dez 3      |                                  | Dez 5      |                                |
+| Dez 3      | **Mini-trabalho 3 (1.5 pts)**    | Dez 5      |                                |
 | Dez 10     |                                  | Dez 12     |                                |
-| Dez 17     |                                  | Dez 19     |                                |
-| Jan 7      |                                  | Jan 9      |                                |
-| Jan 14     |                                  | ~~Jan 16~~ | _Lavagem do Bomfim_            |
-| Jan 21     |                                  | Jan 23     |                                |
+| Dez 17     | **Mini-trabalho 4 (1.5 pts)**    | Dez 19     | *Orientação assíncrona*        |
+| Jan 7      | *Orientação assíncrona*          | Jan 9      | *Orientação assíncrona*        |
+| Jan 14     | *Orientação assíncrona*          | ~~Jan 16~~ | *Lavagem do Bomfim*            |
+| Jan 21     | *Orientação assíncrona*          | Jan 23     | **Trabalho multimídia (2pts)** |
 | Jan 28     | *Reservado para 2a Chamada*      | Jan 30     | *Reservado para 2a Chamada*    |
 | Fev 4      | *Entrega de Resultados (online)* | Fev 6      | *Reservado para visita do MEC* |
