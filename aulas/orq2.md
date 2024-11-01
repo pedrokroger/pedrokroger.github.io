@@ -42,6 +42,10 @@ A avaliação final será soma de 3 trabalhos de orquestração orientados.
     percussão, harpas e cordas) dos compassos 8-16, 25-32 e 40 (tutti com II de
     ensaio) do trecho da obra *Os Planetas* visto na **atividade assíncrona 1**.
 
+    Considere incluir todos os instrumentos (incluindo percussão, harpas e
+    cordas) na redução do c. 40 já que é útil para observar como o tutti é
+    construido.
+
 - **Trabalho 2** (3 pontos): a definir.
 
 - **Trabalho 3** (4 pontos): a definir.
