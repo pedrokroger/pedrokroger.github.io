@@ -10,10 +10,10 @@ formas da música sinfônica e sinfônico-coral.
 
 | Nome                       | T1 (1.5) | T2 (1.5) | T3 (1.5) | T4 (1.5) | Trab (3) | Part (1) | Nota Final |
 |:---------------------------|:---------|:---------|----------|----------|:---------|----------|:-----------|
-| Alex Cerqueira Marques     |          |          |          |          |          |          | =sum       |
-| Emyle Magna Santos Barbosa |          |          |          |          |          |          | =sum       |
-| Gianmarco Turina           |          |          |          |          |          |          | =sum       |
-| Rafael Santos Alencar      |          |          |          |          |          |          | =sum       |
+| Alex Cerqueira Marques     | 1.5      |          |          |          |          |          | =sum       |
+| Emyle Magna Santos Barbosa | 0.7      |          |          |          |          |          | =sum       |
+| Gianmarco Turina           | 1.5      |          |          |          |          |          | =sum       |
+| Rafael Santos Alencar      | 1.5      |          |          |          |          |          | =sum       |
 
 
 ## Materiais
@@ -30,12 +30,25 @@ A avaliação final será soma de 3 notas:
 - 4 mini-trabalhos de análise: 6 pontos (1.5 pontos cada)
 - 1 trabalho sobre um tópico específico: 3 pontos
 
-
 - **Mini-trabalho 1:** Fazer uma análise harmônica dos compassos 1-41 do
   Quarteto 1 de J. Brahms: [pdf][1] e [mp3][2]
 
+- **Mini-trabalho 2:** *Noite Transfigurada* foi composta em 1899 por Arnold
+  Schoenberg e é um dos primeiros exemplos de **música programática** para grupo
+  de câmara (2 violinos, 2 violas e 2 violoncellos). O mini-trabalho tem duas
+  partes:
+
+  - Leia sobre a obra [nesse artigo][3] (o autor tem tem uma série de 6 artigos
+  sobre essa obra) e a [entrada da Wikipedia][4].
+
+  - Faça una análise harmônica compassos 1-21: [pdf][5] e [mp3][6]
+
 [1]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.pdf
 [2]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.m4a
+[3]: https://euterpe.blog.br/noite-transfigurada-parte-i/
+[4]: https://en.wikipedia.org/wiki/Verkl%C3%A4rte_Nacht
+[5]: https://docs.pkroger.com/Schoenberg%20-%20Noite%20Transfigurada%20-%20Trecho.pdf
+[6]: https://docs.pkroger.com/Schoenberg%20-%20Noite%20Transfigurada%20-%20Trecho.mp3
 
 ### Tópicos para o trabalho multimídia
 
@@ -62,9 +75,9 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Out 8~~  | *Seminários internacionais*      | ~~Out 10~~ | *Seminários internacionais*    |
 | ~~Out 15~~ | *Seminários internacionais*      | ~~Out 17~~ | *Congresso da TeMA*            |
 | Out 22     | Contextualização e análise       | Out 24     | Análise                        |
-| Out 29     | **Mini-trabalho 1 (1.5 pts)**    | Out 31     |                                |
-| Nov 5      |                                  | Nov 7      |                                |
-| Nov 12     | **Mini-trabalho 2 (1.5 pts)**    | Nov 14     |                                |
+| Out 29     | **Mini-trabalho 1 (1.5 pts)**    | Out 31     | Análise quarteto Brahms        |
+| Nov 5      | Análise Chopin                   | Nov 7      | Análise Chopin                 |
+| Nov 12     | **Mini-trabalho 2 (1.5 pts)**    | Nov 14     | Anlálise Schoenberg            |
 | Nov 19     |                                  | Nov 21     |                                |
 | ~~Nov 26~~ | *Congresso da UFBA*              | ~~Nov 28~~ | *Congresso da UFBA*            |
 | Dez 3      | **Mini-trabalho 3 (1.5 pts)**    | Dez 5      |                                |
