@@ -46,12 +46,22 @@ A avaliação final será soma de 3 trabalhos de orquestração orientados.
     cordas) na redução do c. 40 já que é útil para observar como o tutti é
     construido.
 
-- **Trabalho 2** (3 pontos): a definir.
+- **Trabalho 2** (3 pontos): Orquestre o Prelúdio Op. 28 no. 6 de F. Chopin para
+  orquestra contendo madeiras a 2, metais a 2 e cordas. A natureza repetitiva do
+  acompanhamento permite a possibilidade de variações através do colorido
+  orquestral. Tenha cuidado especial na concepção composicional e indicação de
+  quando os instrumentos de sopro devem tocar a dois ou individualmente.
+  [pdf][3] e [mp3][4]
+
+  Você deve entregar uma partitura em pdf e uma performance midi em mp3. A
+  partitura deverá ter os instrumentos transpostos.
 
 - **Trabalho 3** (4 pontos): a definir.
 
 [1]: https://docs.pkroger.com/Holst%20-%20Os%20Planetas%20-%20Marte%20-%20Trecho.pdf
 [2]: https://docs.pkroger.com/Holst%20-%20Os%20Planetas%20-%20Marte%20-%20Trecho.mp3
+[3]: https://docs.pkroger.com/Chopin%20Preludio%206.pdf
+[4]: https://docs.pkroger.com/Chopin%20Preludio%206.mp3
 
 ## Materiais
 
