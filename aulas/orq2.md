@@ -85,8 +85,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Nov 12     | Madeiras, metais e cordas      |
 | Nov 19     | Madeiras, metais e cordas      |
 | ~~Nov 26~~ | *Congresso da UFBA*            |
-| Dez 3      | **Trabalho 2**                 |
-| Dez 10     | Percussão e teclados           |
+| Dez 3      | Percussão e teclados           |
+| Dez 10     | **Trabalho 2**                 |
 | Dez 17     | Percussão e teclados           |
 | Jan 7      | Análise de trechos             |
 | Jan 14     | Análise de trechos             |

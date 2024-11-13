@@ -80,7 +80,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Out 22     | Contextualização e análise       | Out 24     | Análise                        |
 | Out 29     | **Mini-trabalho 1 (1.5 pts)**    | Out 31     | Análise quarteto Brahms        |
 | Nov 5      | Análise Chopin                   | Nov 7      | Análise Chopin                 |
-| Nov 12     | **Mini-trabalho 2 (1.5 pts)**    | Nov 14     | Anlálise Schoenberg            |
+| Nov 12     | Análise Schoenberg               | Nov 14     | **Mini-trabalho 2 (1.5 pts)**  |
 | Nov 19     |                                  | Nov 21     |                                |
 | ~~Nov 26~~ | *Congresso da UFBA*              | ~~Nov 28~~ | *Congresso da UFBA*            |
 | Dez 3      | **Mini-trabalho 3 (1.5 pts)**    | Dez 5      |                                |
