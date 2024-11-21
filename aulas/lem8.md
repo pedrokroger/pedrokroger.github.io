@@ -12,10 +12,10 @@ formas da música sinfônica e sinfônico-coral.
 
 | Nome                       | T1 (1.5) | T2 (1.5) | T3 (1.5) | T4 (1.5) | Trab (3) | Part (1) | Nota Final |
 |:---------------------------|:---------|:---------|----------|----------|:---------|----------|:-----------|
-| Alex Cerqueira Marques     | 1.5      |          |          |          |          |          | =sum       |
-| Emyle Magna Santos Barbosa | 0.7      |          |          |          |          |          | =sum       |
-| Gianmarco Turina           | 1.5      |          |          |          |          |          | =sum       |
-| Rafael Santos Alencar      | 1.5      |          |          |          |          |          | =sum       |
+| Alex Cerqueira Marques     | 1.5      | 1.0      |          |          |          |          | =sum       |
+| Emyle Magna Santos Barbosa | 0.7      | 1.0      |          |          |          |          | =sum       |
+| Gianmarco Turina           | 1.5      | 1.5      |          |          |          |          | =sum       |
+| Rafael Santos Alencar      | 1.5      | 1.5      |          |          |          |          | =sum       |
 {: .collapse #notas-table}
 
 
@@ -46,12 +46,22 @@ A avaliação final será soma de 3 notas:
 
   - Faça una análise harmônica compassos 1-21: [pdf][5] e [mp3][6]
 
+- **Mini-trabalho 3:** *Le Tombeau de Couperin* é uma suite para piano composta
+  entre 1914 e 1917 por M. Ravel. **Entrega dia 3 de Dezembro.**
+
+  - Leia sobre a obra [nesse artigo][7]
+
+  - Faça uma análise harmônica do seguinte trecho: [pdf][8] e [mp3][9]
+
 [1]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.pdf
 [2]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.m4a
 [3]: https://euterpe.blog.br/noite-transfigurada-parte-i/
 [4]: https://en.wikipedia.org/wiki/Verkl%C3%A4rte_Nacht
 [5]: https://docs.pkroger.com/Schoenberg%20-%20Noite%20Transfigurada%20-%20Trecho.pdf
 [6]: https://docs.pkroger.com/Schoenberg%20-%20Noite%20Transfigurada%20-%20Trecho.mp3
+[7]: https://en.wikipedia.org/wiki/Le_Tombeau_de_Couperin
+[8]: https://docs.pkroger.com/Ravel%20-%20Le%20Tombeau%20de%20Couperin%20-%20Trecho.pdf
+[9]: https://docs.pkroger.com/Ravel%20-%20Le%20Tombeau%20de%20Couperin%20-%20Forlane.mp3
 
 ### Tópicos para o trabalho multimídia
 
