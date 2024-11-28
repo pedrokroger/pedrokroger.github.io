@@ -83,7 +83,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Nov 7      | **Composição 10 minutos**           |
 | Nov 14     | Acompanhamento da composição        |
 | Nov 21     | **Composição 11 minutos**           |
-| ~~Nov 28~~ | __Congresso da UFBA__               |
+| ~~Nov 28~~ | _Congresso da UFBA_                 |
 | Dez 5      | **Composição 12 minutos**           |
 | Dez 12     | **Composição 13 minutos**           |
 | Dez 19     | **Composição 14 minutos**           |
