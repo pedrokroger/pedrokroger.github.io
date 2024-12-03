@@ -68,11 +68,12 @@ A avaliação final será soma de 3 notas:
 Fazer um trabalho multimídia com texto, vídeo e áudio sobre um dos tópicos
 abaixos.
 
-- A Sinfonia no século XIX
-- A Ópera entre 1850 e 1910
+- A Sinfonia no século XIX - Alex
+- A Ópera entre 1850 e 1910 - Emily
+- Minimalismo - Rafael
+- O Concerto no século XIX - Gianmarco
+
 - Compositoras mulheres entre 1850 e 1920
-- Minimalismo
-- O Concerto no século XIX
 - O Balé entre 1850 e 1920
 - Os movimentos nacionalistas no final do século XIX e início do século XX
 
