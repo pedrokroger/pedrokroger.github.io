@@ -85,7 +85,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Nov 21     | **Composição 11 minutos**           |
 | ~~Nov 28~~ | _Congresso da UFBA_                 |
 | Dez 5      | **Composição 12 minutos**           |
-| Dez 12     | **Composição 13 minutos**           |
+| ~~Dez 12~~ | *Atividade assíncrona (13 minutos)* |
 | Dez 19     | **Composição 14 minutos**           |
 | Jan 9      | Acompanhamento da Monografia        |
 | Jan 16     | **Entrega do trabalho final**       |

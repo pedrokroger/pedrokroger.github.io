@@ -12,10 +12,10 @@ formas da música sinfônica e sinfônico-coral.
 
 | Nome                       | T1 (1.5) | T2 (1.5) | T3 (1.5) | T4 (1.5) | Trab (3) | Part (1) | Nota Final |
 |:---------------------------|:---------|:---------|----------|----------|:---------|----------|:-----------|
-| Alex Cerqueira Marques     | 1.5      | 1.0      |          |          |          |          | =sum       |
-| Emyle Magna Santos Barbosa | 0.7      | 1.0      |          |          |          |          | =sum       |
-| Gianmarco Turina           | 1.5      | 1.5      |          |          |          |          | =sum       |
-| Rafael Santos Alencar      | 1.5      | 1.5      |          |          |          |          | =sum       |
+| Alex Cerqueira Marques     | 1.5      | 1.0      | 1.5      |          |          |          | =sum       |
+| Emyle Magna Santos Barbosa | 0.7      | 1.0      | 1.5      |          |          |          | =sum       |
+| Gianmarco Turina           | 1.5      | 1.5      | 1.5      |          |          |          | =sum       |
+| Rafael Santos Alencar      | 1.5      | 1.5      | 1.5      |          |          |          | =sum       |
 {: .collapse #notas-table}
 
 
@@ -83,22 +83,22 @@ abaixos.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                         | Quinta     | Conteúdo                       |
-|:-----------|:---------------------------------|:-----------|:-------------------------------|
-| Out 1      |                                  | Out 3      | Introdução ao curso            |
-| ~~Out 8~~  | *Seminários internacionais*      | ~~Out 10~~ | *Seminários internacionais*    |
-| ~~Out 15~~ | *Seminários internacionais*      | ~~Out 17~~ | *Congresso da TeMA*            |
-| Out 22     | Contextualização e análise       | Out 24     | Análise                        |
-| Out 29     | **Mini-trabalho 1 (1.5 pts)**    | Out 31     | Análise quarteto Brahms        |
-| Nov 5      | Análise Chopin                   | Nov 7      | Análise Chopin                 |
-| Nov 12     | Análise Schoenberg               | Nov 14     | **Mini-trabalho 2 (1.5 pts)**  |
-| Nov 19     | Música programática              | Nov 21     | Música programática            |
-| ~~Nov 26~~ | *Congresso da UFBA*              | ~~Nov 28~~ | *Congresso da UFBA*            |
-| Dez 3      | **Mini-trabalho 3 (1.5 pts)**    | Dez 5      |                                |
-| Dez 10     |                                  | Dez 12     |                                |
-| Dez 17     | **Mini-trabalho 4 (1.5 pts)**    | Dez 19     | *Orientação assíncrona*        |
-| Jan 7      | *Orientação assíncrona*          | Jan 9      | *Orientação assíncrona*        |
-| Jan 14     | *Orientação assíncrona*          | ~~Jan 16~~ | *Lavagem do Bomfim*            |
-| Jan 21     | *Orientação assíncrona*          | Jan 23     | **Trabalho multimídia (2pts)** |
-| Jan 28     | *Reservado para 2a Chamada*      | Jan 30     | *Reservado para 2a Chamada*    |
-| Fev 4      | *Entrega de Resultados (online)* | Fev 6      | *Reservado para visita do MEC* |
+| Terça      | Conteúdo                         | Quinta     | Conteúdo                          |
+|:-----------|:---------------------------------|:-----------|:----------------------------------|
+| Out 1      |                                  | Out 3      | Introdução ao curso               |
+| ~~Out 8~~  | *Seminários internacionais*      | ~~Out 10~~ | *Seminários internacionais*       |
+| ~~Out 15~~ | *Seminários internacionais*      | ~~Out 17~~ | *Congresso da TeMA*               |
+| Out 22     | Contextualização e análise       | Out 24     | Análise                           |
+| Out 29     | **Mini-trabalho 1 (1.5 pts)**    | Out 31     | Análise quarteto Brahms           |
+| Nov 5      | Análise Chopin                   | Nov 7      | Análise Chopin                    |
+| Nov 12     | Análise Schoenberg               | Nov 14     | **Mini-trabalho 2 (1.5 pts)**     |
+| Nov 19     | Música programática              | Nov 21     | Música programática               |
+| ~~Nov 26~~ | *Congresso da UFBA*              | ~~Nov 28~~ | *Congresso da UFBA*               |
+| Dez 3      | **Mini-trabalho 3 (1.5 pts)**    | Dez 5      | Análise em sala                   |
+| Dez 10     | Análise em sala                  | ~~Dez 12~~ | *Atividade assíncrona* (trabalho) |
+| Dez 17     | **Mini-trabalho 4 (1.5 pts)**    | Dez 19     | *Orientação assíncrona*           |
+| Jan 7      | *Orientação assíncrona*          | Jan 9      | *Orientação assíncrona*           |
+| Jan 14     | *Orientação assíncrona*          | ~~Jan 16~~ | *Lavagem do Bomfim*               |
+| Jan 21     | *Orientação assíncrona*          | Jan 23     | **Trabalho multimídia (2pts)**    |
+| Jan 28     | *Reservado para 2a Chamada*      | Jan 30     | *Reservado para 2a Chamada*       |
+| Fev 4      | *Entrega de Resultados (online)* | Fev 6      | *Reservado para visita do MEC*    |
