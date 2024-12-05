@@ -50,8 +50,10 @@ A avaliação final será soma de 3 notas:
   entre 1914 e 1917 por M. Ravel. **Entrega dia 3 de Dezembro.**
 
   - Leia sobre a obra [nesse artigo][7]
-
   - Faça uma análise harmônica do seguinte trecho: [pdf][8] e [mp3][9]
+
+- **Mini-trabalho 4:** Faça uma análise harmônica da canção _Herr,was trägt der
+  Boden hier_ de Hugo Wolf: [pdf][10] e [mp3][11]. **Entrega dia 17 de Dezembro**
 
 [1]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.pdf
 [2]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.m4a
@@ -62,10 +64,12 @@ A avaliação final será soma de 3 notas:
 [7]: https://en.wikipedia.org/wiki/Le_Tombeau_de_Couperin
 [8]: https://docs.pkroger.com/Ravel%20-%20Le%20Tombeau%20de%20Couperin%20-%20Trecho.pdf
 [9]: https://docs.pkroger.com/Ravel%20-%20Le%20Tombeau%20de%20Couperin%20-%20Forlane.mp3
+[10]: https://docs.pkroger.com/Hugo%20Wolf%20Herr%20was.pdf
+[11]: https://docs.pkroger.com/Hugo%20Wolf%20Herr%20was.mp3
 
-### Tópicos para o trabalho multimídia
+### Tópicos para o artigo multimídia
 
-Fazer um trabalho multimídia com texto, vídeo e áudio sobre um dos tópicos
+Fazer um artigo multimídia com texto, vídeo e áudio sobre um dos tópicos
 abaixos.
 
 - A Sinfonia no século XIX - Alex
@@ -83,22 +87,24 @@ abaixos.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                         | Quinta     | Conteúdo                          |
-|:-----------|:---------------------------------|:-----------|:----------------------------------|
-| Out 1      |                                  | Out 3      | Introdução ao curso               |
-| ~~Out 8~~  | *Seminários internacionais*      | ~~Out 10~~ | *Seminários internacionais*       |
-| ~~Out 15~~ | *Seminários internacionais*      | ~~Out 17~~ | *Congresso da TeMA*               |
-| Out 22     | Contextualização e análise       | Out 24     | Análise                           |
-| Out 29     | **Mini-trabalho 1 (1.5 pts)**    | Out 31     | Análise quarteto Brahms           |
-| Nov 5      | Análise Chopin                   | Nov 7      | Análise Chopin                    |
-| Nov 12     | Análise Schoenberg               | Nov 14     | **Mini-trabalho 2 (1.5 pts)**     |
-| Nov 19     | Música programática              | Nov 21     | Música programática               |
-| ~~Nov 26~~ | *Congresso da UFBA*              | ~~Nov 28~~ | *Congresso da UFBA*               |
-| Dez 3      | **Mini-trabalho 3 (1.5 pts)**    | Dez 5      | Análise em sala                   |
-| Dez 10     | Análise em sala                  | ~~Dez 12~~ | *Atividade assíncrona* (trabalho) |
-| Dez 17     | **Mini-trabalho 4 (1.5 pts)**    | Dez 19     | *Orientação assíncrona*           |
-| Jan 7      | *Orientação assíncrona*          | Jan 9      | *Orientação assíncrona*           |
-| Jan 14     | *Orientação assíncrona*          | ~~Jan 16~~ | *Lavagem do Bomfim*               |
-| Jan 21     | *Orientação assíncrona*          | Jan 23     | **Trabalho multimídia (2pts)**    |
-| Jan 28     | *Reservado para 2a Chamada*      | Jan 30     | *Reservado para 2a Chamada*       |
-| Fev 4      | *Entrega de Resultados (online)* | Fev 6      | *Reservado para visita do MEC*    |
+| Terça      | Conteúdo                         | Quinta     | Conteúdo                                 |
+|:-----------|:---------------------------------|:-----------|:-----------------------------------------|
+| Out 1      |                                  | Out 3      | Introdução ao curso                      |
+| ~~Out 8~~  | *Seminários internacionais*      | ~~Out 10~~ | *Seminários internacionais*              |
+| ~~Out 15~~ | *Seminários internacionais*      | ~~Out 17~~ | *Congresso da TeMA*                      |
+| Out 22     | Contextualização e análise       | Out 24     | Análise                                  |
+| Out 29     | **Mini-trabalho 1 (1.5 pts)**    | Out 31     | Análise quarteto Brahms                  |
+| Nov 5      | Análise Chopin                   | Nov 7      | Análise Chopin                           |
+| Nov 12     | Análise Schoenberg               | Nov 14     | **Mini-trabalho 2 (1.5 pts)**            |
+| Nov 19     | Música programática              | Nov 21     | Música programática                      |
+| ~~Nov 26~~ | *Congresso da UFBA*              | ~~Nov 28~~ | *Congresso da UFBA*                      |
+| Dez 3      | **Mini-trabalho 3 (1.5 pts)**    | Dez 5      | Análise em sala                          |
+| Dez 10     | Análise em sala                  | ~~Dez 12~~ | *Atividade assíncrona* (trabalho)        |
+| Dez 17     | **Mini-trabalho 4 (1.5 pts)**    | Dez 19     | Análise em sala e Orientação para artigo |
+| ~~Dez 24~~ | *Recesso*                        | ~~Dez 26~~ | *Recesso*                                |
+| ~~Dez 31~~ | *Recesso*                        | ~~Jan 2~~  | *Recesso*                                |
+| Jan 7      | *Orientação assíncrona*          | Jan 9      | *Orientação assíncrona*                  |
+| Jan 14     | *Orientação assíncrona*          | ~~Jan 16~~ | *Lavagem do Bomfim*                      |
+| Jan 21     | *Orientação assíncrona*          | Jan 23     | **Entrega artigo multimídia (2pts)**     |
+| Jan 28     | *Reservado para 2a Chamada*      | Jan 30     | *Reservado para 2a Chamada*              |
+| Fev 4      | *Entrega de Resultados (online)* | Fev 6      | *Reservado para visita do MEC*           |
