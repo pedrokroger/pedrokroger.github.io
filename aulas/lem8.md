@@ -75,10 +75,10 @@ abaixos.
 - A Sinfonia no século XIX - Alex
 - A Ópera entre 1850 e 1910 - Emily
 - Minimalismo - Rafael
-- O Concerto no século XIX - Gianmarco
+- O Balé entre 1850 e 1920 - Gianmarco
 
+- O Concerto no século XIX
 - Compositoras mulheres entre 1850 e 1920
-- O Balé entre 1850 e 1920
 - Os movimentos nacionalistas no final do século XIX e início do século XX
 
 
