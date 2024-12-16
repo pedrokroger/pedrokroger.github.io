@@ -87,8 +87,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Nov 26~~ | *Congresso da UFBA*            |
 | Dez 3      | Percussão e teclados           |
 | Dez 10     | **Trabalho 2**                 |
-| Dez 17     | Percussão e teclados           |
-| Jan 7      | Análise de trechos             |
+| ~~Dez 17~~ | ~~Reunião Congregação~~        |
+| Jan 7      | Percussão e teclados           |
 | Jan 14     | Análise de trechos             |
 | Jan 21     | **Trabalho 3**                 |
 | Jan 28     | *Reservado para 2a Chamada*    |
