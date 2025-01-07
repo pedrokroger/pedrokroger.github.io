@@ -56,12 +56,33 @@ A avaliação final será soma de 3 trabalhos de orquestração orientados.
   Você deve entregar uma partitura em pdf e uma performance midi em mp3. A
   partitura deverá ter os instrumentos transpostos.
 
-- **Trabalho 3** (4 pontos): a definir.
+- **Trabalho 3** (4 pontos): Fazer uma redução analítica dos primeiros 23
+  compassos da Sinfonia 1 de N. Rimsky-Korsakov. [pdf][5] e [mp3][6]
+
+  - Use um sistema separado para cada naipe. Ou seja, um sistema para madeiras,
+    outro para metais e outro para cordas. Talvez você precise de mais pautas.
+    Ignore o tímpano. Você pode ver um exemplo de redução do 1o compasso
+    [aqui][7].
+
+  - Marque os instrumentos que tocam cada parte com abreviações (ver exemplo).
+
+  - Não é necessário indicar a dinâmica.
+
+  - Observe cuidadosamente o uso das madeiras e metais, especialmente quando a2
+    ou separadamente (ou seja, primeiro e segundo). Além da redução, escreva um
+    breve parágrafo analisando o uso de instrumentos de sopros a2 ou
+    individualmente.
+
+  - Você deverá entregar um pdf com a redução, um mp3 e o parágrafo com a
+    analise em pdf.
 
 [1]: https://docs.pkroger.com/Holst%20-%20Os%20Planetas%20-%20Marte%20-%20Trecho.pdf
 [2]: https://docs.pkroger.com/Holst%20-%20Os%20Planetas%20-%20Marte%20-%20Trecho.mp3
 [3]: https://docs.pkroger.com/Chopin%20Preludio%206.pdf
 [4]: https://docs.pkroger.com/Chopin%20Preludio%206.mp3
+[5]: https://docs.pkroger.com/Korsakov%20-%20Sinfonia%201.pdf
+[6]: https://docs.pkroger.com/Korsakov%20-%20Sinfonia%201.mp3
+[7]: https://docs.pkroger.com/Korsakov%20Exemplo.pdf
 
 ## Materiais
 
