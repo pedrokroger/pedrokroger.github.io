@@ -10,12 +10,12 @@ formas da música sinfônica e sinfônico-coral.
 
 {% notas %}
 
-| Nome                       | T1 (1.5) | T2 (1.5) | T3 (1.5) | T4 (1.5) | Trab (3) | Part (1) | Nota Final |
-|:---------------------------|:---------|:---------|----------|----------|:---------|----------|:-----------|
-| Alex Cerqueira Marques     | 1.5      | 1.0      | 1.5      |          |          |          | =sum       |
-| Emyle Magna Santos Barbosa | 0.7      | 1.0      | 1.5      |          |          |          | =sum       |
-| Gianmarco Turina           | 1.5      | 1.5      | 1.5      |          |          |          | =sum       |
-| Rafael Santos Alencar      | 1.5      | 1.5      | 1.5      |          |          |          | =sum       |
+| Nome                       | T1 (1.5) | T2 (1.5) | T3 (1.5) | T4 (1.5) | Art (3) | Part (1) | Nota Final |
+|:---------------------------|:---------|:---------|----------|----------|:--------|----------|:-----------|
+| Alex Cerqueira Marques     | 1.5      | 1.0      | 1.5      | 1.5      |         |          | =sum       |
+| Emyle Magna Santos Barbosa | 0.7      | 1.0      | 1.5      | 1.5      |         |          | =sum       |
+| Gianmarco Turina           | 1.5      | 1.5      | 1.5      | 1.5      |         |          | =sum       |
+| Rafael Santos Alencar      | 1.5      | 1.5      | 1.5      | 1.5      |         |          | =sum       |
 {: .collapse #notas-table}
 
 
