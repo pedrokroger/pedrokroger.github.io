@@ -14,8 +14,8 @@ formas da música sinfônica e sinfônico-coral.
 |:---------------------------|:---------|:---------|----------|----------|:--------|----------|:-----------|
 | Alex Cerqueira Marques     | 1.5      | 1.0      | 1.5      | 1.5      |         |          | =sum       |
 | Emyle Magna Santos Barbosa | 0.7      | 1.0      | 1.5      | 1.5      |         |          | =sum       |
-| Gianmarco Turina           | 1.5      | 1.5      | 1.5      | 1.5      |         |          | =sum       |
-| Rafael Santos Alencar      | 1.5      | 1.5      | 1.5      | 1.5      |         |          | =sum       |
+| Gianmarco Turina           | 1.5      | 1.5      | 1.5      | 1.5      | 3.0     | 1.0      | =sum       |
+| Rafael Santos Alencar      | 1.5      | 1.5      | 1.5      | 1.5      | 3.0     | 1.0      | =sum       |
 {: .collapse #notas-table}
 
 
