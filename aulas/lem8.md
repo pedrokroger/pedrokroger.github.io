@@ -105,6 +105,6 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Dez 31~~ | *Recesso*                        | ~~Jan 2~~  | *Recesso*                                              |
 | Jan 7      | *Orientação assíncrona*          | Jan 9      | *Orientação assíncrona*                                |
 | Jan 14     | *Orientação assíncrona*          | ~~Jan 16~~ | *Lavagem do Bomfim*                                    |
-| Jan 21     | *Orientação assíncrona*          | Jan 23     | **Entrega artigo multimídia (2pts)**                   |
-| Jan 28     | *Reservado para 2a Chamada*      | Jan 30     | *Reservado para 2a Chamada*                            |
+| Jan 21     | *Orientação assíncrona*          | Jan 23     | *Orientação assíncrona*                                |
+| Jan 28     | *Reservado para 2a Chamada*      | Jan 30     | **Entrega artigo multimídia (2pts)**                   |
 | Fev 4      | *Entrega de Resultados (online)* | Fev 6      | *Reservado para visita do MEC*                         |
