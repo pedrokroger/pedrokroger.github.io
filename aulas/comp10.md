@@ -16,6 +16,27 @@ duração mínima de 14 minutos.
 A obra final e monografia devem ser entregues até <b>16 de janeiro.</b>
 {% endalert %}
 
+### Marina
+
+- O relatório está excelente.
+- A diversidade de sonoridades e maneira de desenvolvimento do material inicial estão ótimos.
+- A manutenção do andamento nos primeiros 6 minutos prejudica o discurso.
+- A orquestração parece resultar em vazios em alguns pontos.
+- O trabalho rítmico e criação do clímax estão ótimos.
+
+### Alex
+
+- O relatório está bom.
+- Boa orquestração.
+- A dinâmica das mudanças de andamento dão boa diversidade à obra.
+- O único aspecto negativo é o uso de alguns recursos clichê, lembrando o que se faz em Hollywood. Por exemplo, orquestração clássica no início, seção modal no meio, empréstimo modal com iv menor.
+
+### Leonardo
+
+- Bom uso da orquestra e coro.
+- Dinâmica entre sonoridades mais e menos "lúdicas" ótima.
+- Demonstra habilidade em manter o interesse do ouvinte.
+
 ## Formação da Orquestra
 
 A obra deverá ter seguinte formação mínima, mas você pode incluir mais
