@@ -1,7 +1,8 @@
 title: Aulas Pedro Kroger
 email: kroger@ufba.br
 description: Aulas de Pedro Kroger
-url: "https://pkroger.com"
+#url: "https://pkroger.com"
+baseurl: "/pkroger.com"
 
 timezone: "America/Bahia"
 
