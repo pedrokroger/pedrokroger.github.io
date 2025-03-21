@@ -1,5 +1,6 @@
 ---
 title: MUSA84 - Instrumentação e Orquestração I
+showindex: true
 ---
 
 Conhecimento básico dos instrumentos da Orquestra Clássica de modo individual, e

@@ -1,5 +1,6 @@
 ---
 title: MUSB18 - Composição IX
+showindex: true
 ---
 
 Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de
@@ -20,11 +21,10 @@ partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc).
 
 ## Notas
 
-| Nome                                 | C1  | C2  | C3  | C4  | C5* | C6* | C7* | Nota |
-|:-------------------------------------|:----|:----|:----|:----|:----|:----|:----|:-----|
-| Alex Cerqueira Marques               | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 | 2.0 | 2.0 | =sum |
-| Leonardo De Almeida Oliveira         | 1.0 | 0.0 | 1.0 | 1.0 | 0.0 | 2.0 | 2.0 | =sum |
-| Marina Mapurunga De Miranda Ferreira | 1.0 | 1.0 | 1.0 | 1.0 | 2.0 | 2.0 | 2.0 | =sum |
+| Nome                  | C1 | C2 | C3 | C4 | C5* | C6* | C7* | Nota |
+|:----------------------|:---|:---|:---|:---|:----|:----|:----|:-----|
+| Mauricio Freitas Goes |    |    |    |    |     |     |     | =sum |
+
 
 ## Formação da Orquestra
 
@@ -52,8 +52,7 @@ instrumentos se desejar:
 
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
 - [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
-- {% icon ppt %} [Texto na Composição Musical](https://docs.pkroger.com/Texto%20na%20Composição%20Musical.pptx)
-
+- {% icon ppt %} [Texto na Composição Musical][1]
 
 ## Texto
 
@@ -70,8 +69,12 @@ instrumentos se desejar:
 
 A monografia será trabalhada nas aulas de composição.
 
-- [Monografia de Marcos][1]
-- Template da Monografia.
+- [Monografia de Rebecca Gallinari][2]
+- [Template da Monografia][3]
+
+[1]: https://www.dropbox.com/scl/fi/aevwl2jh6aimkzmxs5ugd/Texto-na-Composi-o-Musical.pptx?rlkey=o8u8tdb3jzjiqg3oirjt9kcxl&dl=1
+[2]: https://www.dropbox.com/scl/fi/lbpj842lhc2ey07k1q7t8/Monografia-Rebecca.pdf?rlkey=5b6tryax26t4z05rfvkuts564&dl=1
+[3]: https://www.dropbox.com/scl/fi/cukc9f0wd7m5l058yghf8/Modelo-Monografia.docx?rlkey=ic6kdowopx8pbxzle9v89gpjz&dl=1
 
 
 ## Cronograma
@@ -79,29 +82,25 @@ A monografia será trabalhada nas aulas de composição.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-
 | Data       | Conteúdo                                |
 |:-----------|:----------------------------------------|
-| Mar 14     | Introdução ao curso                     |
-| Mar 21     | apreciação de [músicas do século 21][2] |
-| ~~Mar 28~~ | _Semana Santa_                          |
-| Abr 4      | O texto na composição musical           |
-| Abr 11     | **Composição 1 minuto (1pt)**           |
-| Abr 18     | _Acompanhamento da composição_          |
-| ~~Abr 25~~ | ~~**Composição 2 minutos (1pt)**~~      |
-|            | Greve                                   |
-| Jun 27     | _Tarefa assíncrona_                     |
-| Jul 4      | _Acompanhamento da composição_          |
-| Jul 11     | **Composição 2 minutos (1pt)**          |
-| Jul 18     | **Composição 3 minutos (1pt)**          |
-| Jul 25     | **Composição 4 minutos (1pt)**          |
-| Ago 1      | _Acompanhamento da composição_          |
-| Ago 8      | **Composição 5 minutos (2pt)**          |
-| Ago 15     | **Composição 6 minutos (2pt)**          |
-| Ago 22     | _Acompanhamento da composição_          |
-| Ago 29     | **Composição 7 minutos (2pt)**          |
-| Set 5      | _Entrega de resultados (online)_        |
+| Mar 27     | Introdução ao curso                     |
+| Abr 3      | apreciação de [músicas do século 21][4] |
+| Abr 10     | O texto na composição musical           |
+| ~~Abr 17~~ | ~~Semana Santa~~                        |
+| Abr 24     | **Composição 1 minuto (1pt)**           |
+| ~~Mai 1~~  | *Dia to Trabalho*                       |
+| Mai 8      | Acompanhamento da composição            |
+| Mai 15     | **Composição 2 minutos (1pt)**          |
+| Mai 22     | Acompanhamento da composição            |
+| Mai 29     | **Composição 3 minutos (1pt)**          |
+| Jun 5      | Acompanhamento da composição            |
+| Jun 12     | **Composição 4 minutos (1pt)**          |
+| ~~Jun 19~~ | *Corpus Christi*                        |
+| Jun 26     | **Composição 5 minutos (2pts)**         |
+| Jul 3      | **Composição 6 minutos (2pts)**         |
+| Jul 10     | **Composição 7 minutos (2pts)**         |
+| Jul 17     |                                         |
+| Jul 24     |                                         |
 
-
-[1]: https://nuvem.ufba.br/s/SXPpxVJ1c4iBDcf
-[2]: {% link docs/musicas-seculo21.md %}
+[4]: {% link docs/musicas-seculo21.md %}

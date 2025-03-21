@@ -1,6 +1,6 @@
 ---
 title: MUSB19 - Composição X
-showindex: true
+showindex: false
 ---
 
 Nesse semestre concluiremos a obra final de curso com duração mínima de 14

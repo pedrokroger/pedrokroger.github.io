@@ -1,6 +1,6 @@
 ---
 title: MUSA76 - Literatura e Estruturação Musical VIII
-showindex: true
+showindex: false
 ---
 
 Estudo das técnicas contrapontísticas e harmônicas complexas e das grandes
