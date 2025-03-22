@@ -70,11 +70,11 @@ instrumentos se desejar:
 A monografia será trabalhada nas aulas de composição.
 
 - [Monografia de Rebecca Gallinari][2]
-- [Template da Monografia][3]
+- [Modelo da Monografia][3]
 
-[1]: https://www.dropbox.com/scl/fi/aevwl2jh6aimkzmxs5ugd/Texto-na-Composi-o-Musical.pptx?rlkey=o8u8tdb3jzjiqg3oirjt9kcxl&dl=1
-[2]: https://www.dropbox.com/scl/fi/lbpj842lhc2ey07k1q7t8/Monografia-Rebecca.pdf?rlkey=5b6tryax26t4z05rfvkuts564&dl=1
-[3]: https://www.dropbox.com/scl/fi/cukc9f0wd7m5l058yghf8/Modelo-Monografia.docx?rlkey=ic6kdowopx8pbxzle9v89gpjz&dl=1
+[1]: https://www.icloud.com/iclouddrive/0eb2fV0vh_mh-VoIioGq-pvyA
+[2]: https://www.icloud.com/iclouddrive/028K4RWG0lA0ZC0d540OybYqA#Monografia_Rebecca
+[3]: https://www.icloud.com/iclouddrive/00693UKcLaSE2HZFjZsa96syg#Modelo_Monografia
 
 
 ## Cronograma
