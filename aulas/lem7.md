@@ -7,48 +7,45 @@ showindex: true
 
 {% notas %}
 
-| Nome                          | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
-|:------------------------------|:----------|:--------------|:----------------|:-----------|
-| Alex Cerqueira Marques        | 2.7       | 3.5           | 3.5             | =sum       |
-| Caroline Lima Turbiani        | 2.3       | 3.0           | 3.5             | =sum       |
-| Emyle Magna Santos Barbosa    | 2.3       | 3.5           | 3.5             | =sum       |
-| Gabriela Dalcom De Oliveira   | 2.7       | 3.0           | 3.5             | =sum       |
-| Joabe Jesus Borges            | 2.8       | 3.0           | 3.5             | =sum       |
-| João Henrique Souza e Souza   | 2.4       | 3.5           | 3.5             | =sum       |
-| Jonatan Silva De Oliveira     | 2.3       | 3.0           | 3.0             | =sum       |
-| Liliam Abilio Dantas          | 2.8       | 2.0           | 3.0             | =sum       |
-| Lizandra Dos Santos Goncalves | 2.3       | 3.5           | 3.5             | =sum       |
-| Rafael Santos Alencar         | 2.4       | 3.5           | 3.5             | =sum       |
-| Rebeca De Oliveira Lima       | 2.8       | 3.0           | 3.5             | =sum       |
-| Samuel Da Silva Ressurreição  | 2.8       | 3.0           | 3.5             | =sum       |
-| Thiago Alves Pereira          | 2.5       | 2.0           | 3.0             | =sum       |
-| Wesley Alves Dos Santos       | 1.7       | 2.8           | 3.0             | =sum       |
+| Nome                                | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
+|:------------------------------------|:----------|:--------------|:----------------|:-----------|
+| Amanda Isa Gonzaga Pinto            |           |               |                 | =sum       |
+| Camila Maria Carvalho Santos        |           |               |                 | =sum       |
+| Daniel Lopes De Oliveira            |           |               |                 | =sum       |
+| Eliel Reuel Dos Santos Sena         |           |               |                 | =sum       |
+| Everaldo Do Espirito Santo E Santos |           |               |                 | =sum       |
+| Izã Teixeira Santos                 |           |               |                 | =sum       |
+| Leonardo Rocha De Jesus             |           |               |                 | =sum       |
+| Marcos Paulo Pinto De Oliveira      |           |               |                 | =sum       |
+| Mateus Correia De Oliveira          |           |               |                 | =sum       |
+| Roberto José Santana De Sousa       |           |               |                 | =sum       |
+| Tadeu Maciel Feitosa Campos         |           |               |                 | =sum       |
+| Vicente Sanches De Oliveira         |           |               |                 | =sum       |
+| Victor Vogel Bartilotti Anselmo     |           |               |                 | =sum       |
 {: .collapse #notas-table}
 
 
 ## Materiais
 
 - [Mode Calculator][1]
-- {% icon ppt %} [Introdução aos Modos][2]
-- {% icon pdf %} [Verbete 'Mode' do Grove][3]
-- [Bach Chorales][4] Informação extensiva sobre os corais de Bach.
-- {% icon pdf %} [Kostka: Harmonia Tonal][5]
+- {% icon pdf %} [Verbete 'Mode' do Grove][2]
+- [Bach Chorales][3] Informação extensiva sobre os corais de Bach.
+- {% icon pdf %} [Kostka: Harmonia Tonal][4]
 
 [1]: https://music-theory-practice.com/modes/mode-calculator.html
-[2]: https://docs.pkroger.com/Introducao aos Modos.pptx
-[3]: https://docs.pkroger.com/Mode - Grove.pdf
-[4]: http://www.bach-chorales.com/Index.htm
-[5]: https://nuvem.ufba.br/s/9s7D1lAU6nNfnoF
+[2]: https://www.icloud.com/iclouddrive/0d7f3Vd44XRjfP9UU6dHPG5VQ#Mode_-_Grove
+[3]: http://www.bach-chorales.com/Index.htm
+[4]: https://www.icloud.com/iclouddrive/027whr7W2UT9WE1tnwdUVG0yg#Kostka_-_Harmonia_Tonal
 
 ## Avaliação
 
 A avaliação final será a soma de 3 notas:
 
- - 1 prova de audição e análise (3 pontos): Kostka capítulos 11–12, 16—19, 21—24
+ - 1 prova de audição e análise (3 pontos)
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
 
-<!--
+{% comment %}
 
 ### Prova de Audição
 
@@ -58,19 +55,15 @@ compositor(a), e a data aproximada da obra.
 - Giovanni Pierluigi da Palestrina - Il primo libro de madrigali a 4 voci - 1555
 - Adriaen Willaert - Te Deum Patrem ingenitum - 1559
 - Maddalena Casulana - Il secondo Libro de Madrigali a quattro voci - 1570 <br/>
-  _Primeira compositora a ter um volume inteiro exclusivamente de sua música_
+  *Primeira compositora a ter um volume inteiro exclusivamente de sua música*
 - Gregorio Allegri - Miserere (trecho) - ~1630
 - Claudio Monteverdi - Sesto libro de madrigali - Oime il bel viso - 1614
 - Francesca Caccini - La liberazione di Ruggiero dall’isola di Alcina - Ahi Melissa - 1625 <br/>
-  _Primeira mulher a escrever uma ópera completa_
+  *Primeira mulher a escrever uma ópera completa*
 - Barbara Strozzi - Che si può fare op. 8 - 1664
 - A. Vivaldi - Concerto em Si Menor - 2o Movimento - 1711
 - J. S. Bach - Concerto in A minor - 2o Movimento - 1714
 - J. S. Bach - Missa em Si Menor - Kyrie - 1748
-
-Extras
-
-- {% icon yt %} [How Allegri's Miserere should really sound](https://www.youtube.com/watch?v=h6hD8YtO5HI)
 
 
 ### Trabalho 2: Análise de Obra
@@ -99,67 +92,25 @@ Os elementos a serem analisados:
 
 | Música                                                            | Discente | Arquivos                |
 |-------------------------------------------------------------------|----------|-------------------------|
-| Cristóbal de Morales - Missa pro defunctis a 5 - Graduale (1544)  | Tadeu    | [PDF][10] e [Áudio][30] |
-| Cristóbal de Morales - Missa pro defunctis a 5 - Kyrie (1544)     | Gabriela | [PDF][11] e [Áudio][31] |
-| Cristóbal de Morales - Missa pro defunctis a 5 - Sequentia (1544) | Gabriela | [PDF][12] e [Áudio][32] |
-| Gioseffo Zarlino - Ave Maria (1566)                               | Liliam   | [PDF][13] e [Áudio][33] |
-| Gioseffo Zarlino - Pater Noster (1566)                            | Caroline | [PDF][14] e [Áudio][34] |
-| Maddalena Casulana - Morir non può il mio cuore (1566)            | Lizandra | [PDF][15] e [Áudio][35] |
-| Maddalena Casulana - Vagh amorosi augelli (1570)                  | Lizandra | [PDF][16] e [Áudio][36] |
-| Manuel Cardoso - Magnificat secundi toni a 5 (1613)               | Emyle    | [PDF][17] e [Áudio][37] |
-| Nicolà Vicentino - Musica prisca caput (1555)                     | João     | [PDF][18] e [Áudio][38] |
-| Orlandus Lassus - Missa Osculetur Me - Kyrie (1582)               | Rafael   | [PDF][20] e [Áudio][40] |
-| Orlandus Lassus - Sibylla Persica (1600)                          | Alex     | [PDF][21] e [Áudio][41] |
-| Orlandus Lassus - Carmina Chromatico (1600)                       | Alex     | [PDF][19] e [Áudio][39] |
-| Palestrina - Missa Papae Marcelli - Glória (1567)                 | Rebeca   | [PDF][22] e [Áudio][42] |
-| Palestrina - Missa Papae Marcelli - Kyrie (1567)                  | Joabe    | [PDF][23] e [Áudio][43] |
-| Thomas Tallis - Missa a 4 - Credo (1572)                          | Thiago   | [PDF][24] e [Áudio][44] |
-| Thomas Tallis - Missa a 4 - Gloria (1572)                         | Samuel   | [PDF][25] e [Áudio][45] |
-| William Byrd - Missa a 4 - Gloria (1592)                          | Jonatan  | [PDF][26] e [Áudio][46] |
-| William Byrd - Missa a 4 - Kyrie (1592)                           | Wesley   | [PDF][27] e [Áudio][47] |
+| Cristóbal de Morales - Missa pro defunctis a 5 - Graduale (1544)  |          | [PDF][10] e [Áudio][30] |
+| Cristóbal de Morales - Missa pro defunctis a 5 - Kyrie (1544)     |          | [PDF][11] e [Áudio][31] |
+| Cristóbal de Morales - Missa pro defunctis a 5 - Sequentia (1544) |          | [PDF][12] e [Áudio][32] |
+| Gioseffo Zarlino - Ave Maria (1566)                               |          | [PDF][13] e [Áudio][33] |
+| Gioseffo Zarlino - Pater Noster (1566)                            |          | [PDF][14] e [Áudio][34] |
+| Maddalena Casulana - Morir non può il mio cuore (1566)            |          | [PDF][15] e [Áudio][35] |
+| Maddalena Casulana - Vagh amorosi augelli (1570)                  |          | [PDF][16] e [Áudio][36] |
+| Manuel Cardoso - Magnificat secundi toni a 5 (1613)               |          | [PDF][17] e [Áudio][37] |
+| Nicolà Vicentino - Musica prisca caput (1555)                     |          | [PDF][18] e [Áudio][38] |
+| Orlandus Lassus - Missa Osculetur Me - Kyrie (1582)               |          | [PDF][20] e [Áudio][40] |
+| Orlandus Lassus - Sibylla Persica (1600)                          |          | [PDF][21] e [Áudio][41] |
+| Orlandus Lassus - Carmina Chromatico (1600)                       |          | [PDF][19] e [Áudio][39] |
+| Palestrina - Missa Papae Marcelli - Glória (1567)                 |          | [PDF][22] e [Áudio][42] |
+| Palestrina - Missa Papae Marcelli - Kyrie (1567)                  |          | [PDF][23] e [Áudio][43] |
+| Thomas Tallis - Missa a 4 - Credo (1572)                          |          | [PDF][24] e [Áudio][44] |
+| Thomas Tallis - Missa a 4 - Gloria (1572)                         |          | [PDF][25] e [Áudio][45] |
+| William Byrd - Missa a 4 - Gloria (1592)                          |          | [PDF][26] e [Áudio][46] |
+| William Byrd - Missa a 4 - Kyrie (1592)                           |          | [PDF][27] e [Áudio][47] |
 
-
-[10]: https://docs.pkroger.com/analise/Cristobal de Morales - Missa pro defunctis a 5 - Graduale.pdf
-[11]: https://docs.pkroger.com/analise/Cristobal de Morales - Missa pro defunctis a 5 - Kyrie.pdf
-[12]: https://docs.pkroger.com/analise/Cristobal de Morales - Missa pro defunctis a 5 - Sequentia.pdf
-[13]: https://docs.pkroger.com/analise/Gioseffo Zarlino - Ave Maria.pdf
-[14]: https://docs.pkroger.com/analise/Gioseffo Zarlino - Pater Noster.pdf
-[15]: https://docs.pkroger.com/analise/Maddalena Casulana - Morir non puo il mio cuore.pdf
-[16]: https://docs.pkroger.com/analise/Maddalena Casulana - Vagh amorosi augelli.pdf
-[17]: https://docs.pkroger.com/analise/Manuel Cardoso - Magnificat secundi toni.pdf
-[18]: https://docs.pkroger.com/analise/Nicola Vicentino - Musica prisca caput.pdf
-
-[19]: https://docs.pkroger.com/analise/Orlandus Lassus - Carmina Chromatico.pdf
-[20]: https://docs.pkroger.com/analise/Orlandus Lassus - Missa Osculetur Me - Kyrie.pdf
-[21]: https://docs.pkroger.com/analise/Orlandus Lassus - Sibylla Persica.pdf
-
-[22]: https://docs.pkroger.com/analise/Palestrina - Missa Papae Marcelli - Glória.pdf
-[23]: https://docs.pkroger.com/analise/Palestrina - Missa Papae Marcelli - Kyrie.pdf
-[24]: https://docs.pkroger.com/analise/Thomas Tallis - Missa a 4 - Credo.pdf
-[25]: https://docs.pkroger.com/analise/Thomas Tallis - Missa a 4 - Gloria.pdf
-[26]: https://docs.pkroger.com/analise/William Byrd - Missa a 4 - Gloria.pdf
-[27]: https://docs.pkroger.com/analise/William Byrd - Missa a 4 - Kyrie.pdf
-
-
-[30]: https://docs.pkroger.com/analise/Cristobal de Morales - Missa pro defunctis a 5 - Graduale.mp3
-[31]: https://docs.pkroger.com/analise/Cristobal de Morales - Missa pro defunctis a 5 - Kyrie.mp3
-[32]: https://docs.pkroger.com/analise/Cristobal de Morales - Missa pro defunctis a 5 - Sequentia.mp3
-[33]: https://docs.pkroger.com/analise/Gioseffo Zarlino - Ave Maria.mp3
-[34]: https://docs.pkroger.com/analise/Gioseffo Zarlino - Pater Noster.mp3
-[35]: https://docs.pkroger.com/analise/Maddalena Casulana - Morir non puo il mio cuore.mp3
-[36]: https://docs.pkroger.com/analise/Maddalena Casulana - Vagh amorosi augelli.mp3
-[37]: https://docs.pkroger.com/analise/Manuel Cardoso - Magnificat secundi toni.mp3
-[38]: https://docs.pkroger.com/analise/Nicola Vicentino - Musica prisca caput.mp3
-
-[39]: https://docs.pkroger.com/analise/Orlandus Lassus - Carmina Chromatico.mp3
-[40]: https://docs.pkroger.com/analise/Orlandus Lassus - Missa Osculetur Me - Kyrie.mp3
-[41]: https://docs.pkroger.com/analise/Orlandus Lassus - Sibylla Persica.mp3
-[42]: https://docs.pkroger.com/analise/Palestrina - Missa Papae Marcelli - Glória.mp3
-[43]: https://docs.pkroger.com/analise/Palestrina - Missa Papae Marcelli - Kyrie.mp3
-[44]: https://docs.pkroger.com/analise/Thomas Tallis - Missa a 4 - Credo.mp3
-[45]: https://docs.pkroger.com/analise/Thomas Tallis - Missa a 4 - Gloria.mp3
-[46]: https://docs.pkroger.com/analise/William Byrd - Missa a 4 - Gloria.mp3
-[47]: https://docs.pkroger.com/analise/William Byrd - Missa a 4 - Kyrie.mp3
 
 -->
 
@@ -179,6 +130,8 @@ entre os dias 13 e 22 de Agosto.
 - Modos (gregos) na atualidade - Jonatan
 - Modos (gregos) na música para jogos - Alex e João
 
+{% endcomment %}
+
 
 ## Cronograma
 
@@ -187,7 +140,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 
 | Terça     | Conteúdo                                   | Quinta     | Conteúdo                                      |
 |:----------|:-------------------------------------------|:-----------|:----------------------------------------------|
-| Mar 12    | Introdução ao curso. Revisão de harmonia   | Mar 14     | Revisão e análise                             |
+| Mar 12    | de harmonia                                | Mar 14     | Revisão e análise                             |
 | Mar 19    | Revisão e análise                          | Mar 21     | Revisão e análise                             |
 | Mar 26    | Revisão e análise                          | ~~Mar 28~~ | _Semana Santa_                                |
 | Abr 2     | **Prova de Audição e Revisão**             | Abr 4      | Correção da prova e Introdução ao Modalismo   |
@@ -203,11 +156,26 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jul 30    | **Trabalho de Análise**                    | Ago 1      | **Trabalho de Análise**                       |
 | Ago 6     | _Tirar dúvidas apresentação_               | Ago 8      | _Tirar dúvidas apresentação_                  |
 | Ago 13    | **Seminários**                             | Ago 15     | **Seminários**                                |
-|           | Thiago e Wesley - Moteto                   |            | Lizandra e Joabe - Compositoras               |
-|           | Samuel e Emyle - Madrigal                  |            |                                               |
 | Ago 20    | **Seminários**                             | Ago 22     | **Seminários**                                |
-|           | Alex e João - Modos jogos                  |            | Rebeca - Missa                                |
-|           | Lilian e Rafael - Medieval vs Renascimento |            | Jonatan - Modos atualidade                    |
-|           |                                            |            | Renascimento vs Barroco - Caroline e Gabriela |
-| Ago 27    | _Reservado para 2a chamada_                | Ago 29     | _Reservado para 2a chamada_                   |
-| Set 3     | _Reservado para correções (sem aula)_      | Set 5      | _Entrega de resultados (online)_              |
+
+
+| Terça      | Conteúdo                              | Quinta     | Conteúdo                         |
+|:-----------|:--------------------------------------|:-----------|:---------------------------------|
+| Mar 25     |                                       | Mar 27     | Introdução ao curso e revisão    |
+| Abr 1      |                                       | Abr 3      |                                  |
+| Abr 8      |                                       | Abr 10     |                                  |
+| Abr 15     |                                       | ~~Abr 17~~ | ~~Semana Santa~~                 |
+| Abr 22     |                                       | Abr 24     |                                  |
+| Abr 29     |                                       | ~~Mai 1~~  | ~~Dia do Trabalho~~              |
+| Mai 6      |                                       | Mai 8      |                                  |
+| Mai 13     |                                       | Mai 15     |                                  |
+| Mai 20     |                                       | Mai 22     |                                  |
+| Mai 27     |                                       | Mai 29     |                                  |
+| Jun 3      |                                       | Jun 5      |                                  |
+| Jun 10     |                                       | Jun 12     |                                  |
+| Jun 17     |                                       | ~~Jun 19~~ | ~~Corpus Christi~~               |
+| ~~Jun 24~~ | ~~São João~~                          | Jun 26     |                                  |
+| Jul 1      |                                       | Jul 3      |                                  |
+| Jul 8      |                                       | Jul 10     |                                  |
+| Jul 15     | *Reservado para 2a chamada*           | Jul 17     | *Reservado para 2a chamada*      |
+| Jul 22     | *Reservado para correções (sem aula)* | Jul 24     | *Entrega de resultados (online)* |
