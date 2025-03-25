@@ -45,26 +45,15 @@ A avaliação final será a soma de 3 notas:
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
 
-{% comment %}
-
 ### Prova de Audição
 
 Na parte de audição das obras você deverá identificar o nome da obra, o(a)
 compositor(a), e a data aproximada da obra.
 
-- Giovanni Pierluigi da Palestrina - Il primo libro de madrigali a 4 voci - 1555
-- Adriaen Willaert - Te Deum Patrem ingenitum - 1559
-- Maddalena Casulana - Il secondo Libro de Madrigali a quattro voci - 1570 <br/>
-  *Primeira compositora a ter um volume inteiro exclusivamente de sua música*
-- Gregorio Allegri - Miserere (trecho) - ~1630
-- Claudio Monteverdi - Sesto libro de madrigali - Oime il bel viso - 1614
-- Francesca Caccini - La liberazione di Ruggiero dall’isola di Alcina - Ahi Melissa - 1625 <br/>
-  *Primeira mulher a escrever uma ópera completa*
-- Barbara Strozzi - Che si può fare op. 8 - 1664
-- A. Vivaldi - Concerto em Si Menor - 2o Movimento - 1711
-- J. S. Bach - Concerto in A minor - 2o Movimento - 1714
-- J. S. Bach - Missa em Si Menor - Kyrie - 1748
+[músicas]({% link docs/prova-audicao-lem7.md %})
 
+
+{% comment %}
 
 ### Trabalho 2: Análise de Obra
 
@@ -112,8 +101,6 @@ Os elementos a serem analisados:
 | William Byrd - Missa a 4 - Kyrie (1592)                           |          | [PDF][27] e [Áudio][47] |
 
 
--->
-
 ### Tópicos para os Seminários
 
 A terceira avaliação será a apresentação de um seminário sobre um dos tópicos
@@ -138,44 +125,23 @@ entre os dias 13 e 22 de Agosto.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça     | Conteúdo                                   | Quinta     | Conteúdo                                      |
-|:----------|:-------------------------------------------|:-----------|:----------------------------------------------|
-| Mar 12    | de harmonia                                | Mar 14     | Revisão e análise                             |
-| Mar 19    | Revisão e análise                          | Mar 21     | Revisão e análise                             |
-| Mar 26    | Revisão e análise                          | ~~Mar 28~~ | _Semana Santa_                                |
-| Abr 2     | **Prova de Audição e Revisão**             | Abr 4      | Correção da prova e Introdução ao Modalismo   |
-| ~~Abr 9~~ | _Chuvas fortes_                            | Abr 11     | Tonalidade vs. Modalismo                      |
-| Abr 16    | Análise de obras renascentistas            | Abr 18     | Análise de obras                              |
-| Abr 23    | Análise de obras renascentistas            | Abr 25     | _Tarefa assíncrona_                           |
-|           | Greve                                      |            | Greve                                         |
-|           | Greve                                      | Jun 27     | _Tarefa assíncrona_                           |
-| ~~Jul 2~~ | _Independência da Bahia_                   | Jul 4      | Revisão                                       |
-| Jul 9     | _Tirar dúvidas trabalho (opcional)_        | Jul 11     | _Tirar dúvidas trabalho (opcional)_           |
-| Jul 16    | **Trabalho de Análise**                    | Jul 18     | **Trabalho de Análise**                       |
-| Jul 23    | **Trabalho de Análise**                    | Jul 25     | **Trabalho de Análise**                       |
-| Jul 30    | **Trabalho de Análise**                    | Ago 1      | **Trabalho de Análise**                       |
-| Ago 6     | _Tirar dúvidas apresentação_               | Ago 8      | _Tirar dúvidas apresentação_                  |
-| Ago 13    | **Seminários**                             | Ago 15     | **Seminários**                                |
-| Ago 20    | **Seminários**                             | Ago 22     | **Seminários**                                |
-
-
-| Terça      | Conteúdo                              | Quinta     | Conteúdo                         |
-|:-----------|:--------------------------------------|:-----------|:---------------------------------|
-| Mar 25     |                                       | Mar 27     | Introdução ao curso e revisão    |
-| Abr 1      |                                       | Abr 3      |                                  |
-| Abr 8      |                                       | Abr 10     |                                  |
-| Abr 15     |                                       | ~~Abr 17~~ | ~~Semana Santa~~                 |
-| Abr 22     |                                       | Abr 24     |                                  |
-| Abr 29     |                                       | ~~Mai 1~~  | ~~Dia do Trabalho~~              |
-| Mai 6      |                                       | Mai 8      |                                  |
-| Mai 13     |                                       | Mai 15     |                                  |
-| Mai 20     |                                       | Mai 22     |                                  |
-| Mai 27     |                                       | Mai 29     |                                  |
-| Jun 3      |                                       | Jun 5      |                                  |
-| Jun 10     |                                       | Jun 12     |                                  |
-| Jun 17     |                                       | ~~Jun 19~~ | ~~Corpus Christi~~               |
-| ~~Jun 24~~ | ~~São João~~                          | Jun 26     |                                  |
-| Jul 1      |                                       | Jul 3      |                                  |
-| Jul 8      |                                       | Jul 10     |                                  |
-| Jul 15     | *Reservado para 2a chamada*           | Jul 17     | *Reservado para 2a chamada*      |
-| Jul 22     | *Reservado para correções (sem aula)* | Jul 24     | *Entrega de resultados (online)* |
+| Terça      | Conteúdo                              | Quinta     | Conteúdo                              |
+|:-----------|:--------------------------------------|:-----------|:--------------------------------------|
+| Mar 25     |                                       | Mar 27     | Introdução ao curso e revisão         |
+| Abr 1      | Revisão e análise                     | Abr 3      | Revisão e análise                     |
+| Abr 8      | Revisão e análise                     | Abr 10     | Revisão e análise                     |
+| Abr 15     | Revisão e análise                     | ~~Abr 17~~ | ~~Semana Santa~~                      |
+| Abr 22     | Revisão e análise                     | Abr 24     | **Prova de audição e revisão**        |
+| Abr 29     | Correção da prova                     | ~~Mai 1~~  | ~~Dia do Trabalho~~                   |
+| Mai 6      | Introdução ao modalismo               | Mai 8      | Modalismo                             |
+| Mai 13     | Modalismo vs tonalidade               | Mai 15     | Análise de obras                      |
+| Mai 20     | *Tirar dúvidas trabalho (opcional)*   | Mai 22     | *Tirar dúvidas trabalho (opcional)*   |
+| Mai 27     | **Trabalho de Análise**               | Mai 29     | **Trabalho de Análise**               |
+| Jun 3      | **Trabalho de Análise**               | Jun 5      | **Trabalho de Análise**               |
+| Jun 10     | **Trabalho de Análise**               | Jun 12     | **Trabalho de Análise**               |
+| Jun 17     | *Tirar dúvidas seminários (opcional)* | ~~Jun 19~~ | ~~Corpus Christi~~                    |
+| ~~Jun 24~~ | ~~São João~~                          | Jun 26     | *Tirar dúvidas seminários (opcional)* |
+| Jul 1      | **Seminários**                        | Jul 3      | **Seminários**                        |
+| Jul 8      | **Seminários**                        | Jul 10     | **Seminários**                        |
+| Jul 15     | *Reservado para 2a chamada*           | Jul 17     | *Reservado para 2a chamada*           |
+| Jul 22     | *Reservado para correções (sem aula)* | Jul 24     | *Entrega de resultados (online)*      |
