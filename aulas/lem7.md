@@ -45,12 +45,14 @@ A avaliação final será a soma de 3 notas:
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
 
-### Prova de Audição
+### Prova de Audição e Análise
+
+A parte de análise e revisão terá questões relativas a assuntos vistos em sala
+de aula.
 
 Na parte de audição das obras você deverá identificar o nome da obra, o(a)
-compositor(a), e a data aproximada da obra.
-
-[músicas]({% link docs/prova-audicao-lem7.md %})
+compositor(a), e a data aproximada da obra. [Lista de Músicas para audição]({%
+link docs/prova-audicao-lem7.md %}).
 
 
 {% comment %}

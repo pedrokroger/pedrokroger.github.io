@@ -1,15 +1,12 @@
 ---
-title: LEM 7 - Prova de Audição
+title: Lista de Músicas para a Prova de Audição
 ---
-
-## Lista de Músicas para a Prova de Audição
-
 
 {% for item in site.data.lem7 %}
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row g-0">
     <div class="col-md-4">
-      <img src="/media/{{ item.imagem }}" class="img-fluid rounded-start">
+      <img src="/media/{{ item.imagem }}" width="150px">
     </div>
     <div class="col-md-8">
       <div class="card-body">
