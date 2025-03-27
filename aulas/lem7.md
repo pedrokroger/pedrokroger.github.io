@@ -32,12 +32,14 @@ showindex: true
 - [Mode Calculator][1]
 - {% icon pdf %} [Verbete 'Mode' do Grove][2]
 - [Bach Chorales][3] Informação extensiva sobre os corais de Bach.
+- [Bach Cantatas][5] Informação extensiva sobre as cantatas de Bach.
 - {% icon pdf %} [Kostka: Harmonia Tonal][4]
 
 [1]: https://music-theory-practice.com/modes/mode-calculator.html
 [2]: https://www.icloud.com/iclouddrive/0d7f3Vd44XRjfP9UU6dHPG5VQ#Mode_-_Grove
 [3]: http://www.bach-chorales.com/Index.htm
 [4]: https://www.icloud.com/iclouddrive/027whr7W2UT9WE1tnwdUVG0yg#Kostka_-_Harmonia_Tonal
+[5]: https://www.bach-cantatas.com/Texts/BWV2-Por2.htm
 
 ## Avaliação
 
