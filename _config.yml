@@ -7,7 +7,7 @@ url: "https://pkroger.com"
 
 timezone: "America/Bahia"
 
-exclude: [Makefile]
+exclude: [Makefile, Alunos.txt]
 
 defaults:
   -
