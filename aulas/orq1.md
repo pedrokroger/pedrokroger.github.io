@@ -14,11 +14,12 @@ Barroco até o século XX.
 
 {% notas %}
 
-| Nome                            | Prova | T1 | T2 | T3 | Nota Final |
-|:--------------------------------|:------|:---|:---|:---|:-----------|
-| Giorno Nogueira                 |       |    |    |    | =sum       |
-| Renato Alves Da Silva Filho     |       |    |    |    | =sum       |
-| Victor Vogel Bartilotti Anselmo |       |    |    |    | =sum       |
+| Nome                            | Prova | T1  | T2  | T3  | Nota Final |
+|:------------------------------- |:----- |:--- |:--- |:--- |:---------- |
+| Gabriel Benigno Santos Lisboa   |       |     |     |     | =sum       |
+| Giorno Nogueira                 |       |     |     |     | =sum       |
+| Renato Alves Da Silva Filho     |       |     |     |     | =sum       |
+| Victor Vogel Bartilotti Anselmo |       |     |     |     | =sum       |
 {: .collapse #notas-table}
 
 

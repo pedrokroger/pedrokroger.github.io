@@ -8,12 +8,13 @@ showindex: true
 {% notas %}
 
 | Nome                                | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
-|:------------------------------------|:----------|:--------------|:----------------|:-----------|
+|:----------------------------------- |:--------- |:------------- |:--------------- |:---------- |
 | Amanda Isa Gonzaga Pinto            |           |               |                 | =sum       |
 | Camila Maria Carvalho Santos        |           |               |                 | =sum       |
 | Daniel Lopes De Oliveira            |           |               |                 | =sum       |
 | Eliel Reuel Dos Santos Sena         |           |               |                 | =sum       |
 | Everaldo Do Espirito Santo E Santos |           |               |                 | =sum       |
+| Guilherme Silva Chagas              |           |               |                 | =sum       |
 | Izã Teixeira Santos                 |           |               |                 | =sum       |
 | Jaqueline Cardoso Borges            |           |               |                 | =sum       |
 | Joelma Santos De Souza              |           |               |                 | =sum       |
@@ -25,7 +26,6 @@ showindex: true
 | Vicente Sanches De Oliveira         |           |               |                 | =sum       |
 | Victor Vogel Bartilotti Anselmo     |           |               |                 | =sum       |
 {: .collapse #notas-table}
-
 
 ## Materiais
 
