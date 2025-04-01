@@ -84,13 +84,12 @@ ser modificado de acordo com a necessidade e eventualidade.
 
 | Data       | Conteúdo                                |
 |:-----------|:----------------------------------------|
-| Mar 27     | Introdução ao curso                     |
-| Abr 3      | apreciação de [músicas do século 21][4] |
-| Abr 10     | O texto na composição musical           |
+| Abr 3      | Introdução ao curso                     |
+| Abr 10     | Apreciação de [músicas do século 21][4] |
 | ~~Abr 17~~ | ~~Semana Santa~~                        |
-| Abr 24     | **Composição 1 minuto (1pt)**           |
+| Abr 24     | O texto na composição musical           |
 | ~~Mai 1~~  | *Dia to Trabalho*                       |
-| Mai 8      | Acompanhamento da composição            |
+| Mai 8      | **Composição 1 minuto (1pt)**           |
 | Mai 15     | **Composição 2 minutos (1pt)**          |
 | Mai 22     | Acompanhamento da composição            |
 | Mai 29     | **Composição 3 minutos (1pt)**          |
