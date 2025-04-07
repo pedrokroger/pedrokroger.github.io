@@ -15,7 +15,6 @@ showindex: true
 | Eliel Reuel Dos Santos Sena         |           |               |                 | =sum       |
 | Everaldo Do Espirito Santo E Santos |           |               |                 | =sum       |
 | Guilherme Silva Chagas              |           |               |                 | =sum       |
-| Izã Teixeira Santos                 |           |               |                 | =sum       |
 | Jaqueline Cardoso Borges            |           |               |                 | =sum       |
 | Joelma Santos De Souza              |           |               |                 | =sum       |
 | Leonardo Rocha De Jesus             |           |               |                 | =sum       |
