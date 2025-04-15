@@ -16,6 +16,7 @@ Barroco até o século XX.
 
 | Nome                            | Prova | T1  | T2  | T3  | Nota Final |
 |:------------------------------- |:----- |:--- |:--- |:--- |:---------- |
+| Francisco de Assis              |       |     |     |     | =sum       |
 | Gabriel Benigno Santos Lisboa   |       |     |     |     | =sum       |
 | Giorno Nogueira                 |       |     |     |     | =sum       |
 | Renato Alves Da Silva Filho     |       |     |     |     | =sum       |

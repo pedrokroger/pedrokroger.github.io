@@ -23,7 +23,7 @@ dnl.lps19@gmail.com
 elielsena@ufba.br
 everaldosantos1@yahoo.com.br
 jaquejobson1@gmail.com
-Joelma.ss@gmail.com
+joelma.ss@gmail.com
 gui.musico@hotmail.com
 Leonardorj@ufba.br
 marcospaulowest@gmail.com
@@ -37,12 +37,14 @@ Victor_vogel@hotmail.com
 # MUSA84 Orquestração 1
 
 Gabriel Benigno Santos Lisboa
+Francisco de Assis
 Giorno Nogueira
 Renato Alves Da Silva Filho
 Victor Vogel Bartilotti Anselmo
 
 gabriel99bsl@gmail.com
 dearrgiogio@gmail.com
+fmoreirafilho@yahoo.com
 renatoasf05@gmail.com
 Victor_vogel@hotmail.com
 
