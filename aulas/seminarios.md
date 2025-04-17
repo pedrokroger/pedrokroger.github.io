@@ -1,4 +1,4 @@
----
+﻿---
 title: MUSD76 - Seminários em Música
 showindex: true
 ---
