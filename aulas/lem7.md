@@ -8,7 +8,7 @@ showindex: true
 {% notas %}
 
 | Nome                                | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
-|:----------------------------------- |:--------- |:------------- |:--------------- |:---------- |
+|:------------------------------------|:----------|:--------------|:----------------|:-----------|
 | Amanda Isa Gonzaga Pinto            |           |               |                 | =sum       |
 | Camila Maria Carvalho Santos        |           |               |                 | =sum       |
 | Daniel Lopes De Oliveira            |           |               |                 | =sum       |
