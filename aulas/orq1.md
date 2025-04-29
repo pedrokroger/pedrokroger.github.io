@@ -30,17 +30,20 @@ A avaliação final será a soma de 1 prova e 3 trabalhos de orquestração orie
 
 A prova será composta de conteúdo das primeiras aulas sobre instrumentos de
 cordas e terá uma parte de audição onde você deverá identificar as seguintes
-obras e compositores(as). [Lista de Músicas para audição]({% link
-docs/prova-audicao-orq1.md %}).
+obras e compositores(as). [Lista de Músicas para audição][1].
 
+[1]: {% link docs/prova-audicao-orq1.md %}
 
 ### Trabalhos
 
-- **Trabalho 1**:
+- **Trabalho 1**: Fazer a redução analítica das duas primeiras páginas da *Bachianas Brasileiras  No. 1 de Villa-Lobos* ([partitura][2]. Ver a página sobre [redução analítica][3]. O objetivo desse trabalho é poder observar os elementos da textura e a distribuição vertical das notas. Um sistema de piano deve ser suficiente. Você deve entregar um pdf com a partitura e um mp3 com o áudio. **Valor: 2.5 pontos**, **Entrega: 13 de Maio**
 
 - **Trabalho 2**:
 
 - **Trabalho 3**:
+
+[2]: https://1drv.ms/b/c/23939e5dc94ed773/Ea_0--HIBhROiESXEomUQx8BvBpc03M-KFyJt6pjRSCo8Q?e=lSDFa3
+[3]: {% link docs/reducao-analitica.md %}
 
 
 ## Materiais
