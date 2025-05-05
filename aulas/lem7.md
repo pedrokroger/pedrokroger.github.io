@@ -9,21 +9,21 @@ showindex: true
 
 | Nome                                | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
 |:------------------------------------|:----------|:--------------|:----------------|:-----------|
-| Amanda Isa Gonzaga Pinto            |           |               |                 | =sum       |
-| Camila Maria Carvalho Santos        |           |               |                 | =sum       |
-| Daniel Lopes De Oliveira            |           |               |                 | =sum       |
-| Eliel Reuel Dos Santos Sena         |           |               |                 | =sum       |
-| Everaldo Do Espirito Santo E Santos |           |               |                 | =sum       |
-| Guilherme Silva Chagas              |           |               |                 | =sum       |
-| Jaqueline Cardoso Borges            |           |               |                 | =sum       |
-| Joelma Santos De Souza              |           |               |                 | =sum       |
-| Leonardo Rocha De Jesus             |           |               |                 | =sum       |
-| Marcos Paulo Pinto De Oliveira      |           |               |                 | =sum       |
-| Mateus Correia De Oliveira          |           |               |                 | =sum       |
-| Roberto José Santana De Sousa       |           |               |                 | =sum       |
-| Tadeu Maciel Feitosa Campos         |           |               |                 | =sum       |
-| Vicente Sanches De Oliveira         |           |               |                 | =sum       |
-| Victor Vogel Bartilotti Anselmo     |           |               |                 | =sum       |
+| Amanda Isa Gonzaga Pinto            | 3.0       |               |                 | =sum       |
+| Camila Maria Carvalho Santos        | 3.0       |               |                 | =sum       |
+| Daniel Lopes De Oliveira            | 3.0       |               |                 | =sum       |
+| Eliel Reuel Dos Santos Sena         | 2.3       |               |                 | =sum       |
+| Everaldo Do Espirito Santo E Santos | 3.0       |               |                 | =sum       |
+| Guilherme Silva Chagas              | 3.0       |               |                 | =sum       |
+| Jaqueline Cardoso Borges            | 2.7       |               |                 | =sum       |
+| Joelma Santos De Souza              | 3.0       |               |                 | =sum       |
+| Leonardo Rocha De Jesus             | 2.6       |               |                 | =sum       |
+| Marcos Paulo Pinto De Oliveira      | 2.8       |               |                 | =sum       |
+| Mateus Correia De Oliveira          | 3.0       |               |                 | =sum       |
+| Roberto José Santana De Sousa       | 3.0       |               |                 | =sum       |
+| Tadeu Maciel Feitosa Campos         | 0.0       |               |                 | =sum       |
+| Vicente Sanches De Oliveira         | 3.0       |               |                 | =sum       |
+| Victor Vogel Bartilotti Anselmo     | 3.0       |               |                 | =sum       |
 {: .collapse #notas-table}
 
 ## Materiais
