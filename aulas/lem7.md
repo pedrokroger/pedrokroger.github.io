@@ -48,6 +48,8 @@ A avaliação final será a soma de 3 notas:
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
 
+{% comment %}
+
 ### Prova de Audição e Análise
 
 A parte de análise e revisão terá questões relativas a assuntos vistos em sala
@@ -56,16 +58,15 @@ de aula.
 Na parte de audição das obras você deverá identificar o nome da obra, o(a)
 compositor(a), e a data aproximada da obra. [Lista de Músicas para audição]({%
 link docs/prova-audicao-lem7.md %}).
+{% endcomment %}
 
-
-{% comment %}
 
 ### Trabalho 2: Análise de Obra
 
 Você deverá analisar um trecho da peça designada (partitura e gravação
 disponível abaixo) e apresentar oralmente o resultado da análise em sala de
 aula. A nota (3.5 pontos) será o resultado de 4 apresentações orais em sala
-entre os dias 16 de Julho e 1º de Agosto.
+entre os dias 27 de maio e 12 de junho.
 
 É esperado que você apresente a análise de 2 ou 3 sistemas em cada aula. Caso o
 seu trecho designado seja curto demais, um trecho suplementar será dado. Alguns
@@ -75,12 +76,14 @@ Eu recomendo levar a análise em um formato gráfico como PDF para vermos na
 televisão da sala de aula.
 
 Os elementos a serem analisados:
+- Intervalos (dissonância vs consonância)
 - Motivos
 - Imitações
 - Modos
-- Intervalos (dissonância vs consonância)
 - Acordes e sonoridades (visão moderna)
 
+
+{% comment %}
 
 ### Músicas para Análise
 
@@ -138,8 +141,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Abr 15     | Revisão e análise                           | ~~Abr 17~~ | ~~Semana Santa~~                      |
 | Abr 22     | Revisão e análise                           | ~~Abr 24~~ | ~~EMUS Interditada~~                  |
 | Abr 29     | **Prova de audição e revisão**              | ~~Mai 1~~  | ~~Dia do Trabalho~~                   |
-| Mai 6      | Correção da prova & Introdução ao modalismo | Mai 8      | Modalismo                             |
-| Mai 13     | Modalismo vs tonalidade                     | Mai 15     | Análise de obras                      |
+| Mai 6      | Correção da prova & Introdução ao modalismo | Mai 8      | Modalismo vs tonalidade               |
+| Mai 13     | Análise de obras                            | Mai 15     | Análise de obras                      |
 | Mai 20     | *Tirar dúvidas trabalho (opcional)*         | Mai 22     | *Tirar dúvidas trabalho (opcional)*   |
 | Mai 27     | **Trabalho de Análise**                     | Mai 29     | **Trabalho de Análise**               |
 | Jun 3      | **Trabalho de Análise**                     | Jun 5      | **Trabalho de Análise**               |
