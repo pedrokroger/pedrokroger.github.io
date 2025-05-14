@@ -85,7 +85,7 @@ Os elementos a serem analisados:
 
 ### Músicas para Análise
 
-Alguns alunos(as) ficaram com duas obras devido ao tamanho curto das obras selecionadas. Voce pode baixar o pdf e mp3 das obras [nesse link](https://onedrive.live.com/?id=23939E5DC94ED773%21s7b59567cffe24728900d86353b4551e9&cid=23939E5DC94ED773).
+Alguns alunos(as) ficaram com duas obras devido ao tamanho curto das obras selecionadas. Voce pode baixar o pdf e mp3 das obras [nesse link](https://1drv.ms/f/c/23939e5dc94ed773/EnxWWXvi_yhHkA2GNTtFUekBfcSSooJIZCC5atvo3RZ2SA?e=XcdCba).
 
 | Música                                                            | Discente  |
 |-------------------------------------------------------------------|-----------|
