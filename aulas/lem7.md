@@ -83,31 +83,31 @@ Os elementos a serem analisados:
 - Acordes e sonoridades (visão moderna)
 
 
-{% comment %}
-
 ### Músicas para Análise
 
-| Música                                                            | Discente | Arquivos                |
-|-------------------------------------------------------------------|----------|-------------------------|
-| Cristóbal de Morales - Missa pro defunctis a 5 - Graduale (1544)  |          | [PDF][10] e [Áudio][30] |
-| Cristóbal de Morales - Missa pro defunctis a 5 - Kyrie (1544)     |          | [PDF][11] e [Áudio][31] |
-| Cristóbal de Morales - Missa pro defunctis a 5 - Sequentia (1544) |          | [PDF][12] e [Áudio][32] |
-| Gioseffo Zarlino - Ave Maria (1566)                               |          | [PDF][13] e [Áudio][33] |
-| Gioseffo Zarlino - Pater Noster (1566)                            |          | [PDF][14] e [Áudio][34] |
-| Maddalena Casulana - Morir non può il mio cuore (1566)            |          | [PDF][15] e [Áudio][35] |
-| Maddalena Casulana - Vagh amorosi augelli (1570)                  |          | [PDF][16] e [Áudio][36] |
-| Manuel Cardoso - Magnificat secundi toni a 5 (1613)               |          | [PDF][17] e [Áudio][37] |
-| Nicolà Vicentino - Musica prisca caput (1555)                     |          | [PDF][18] e [Áudio][38] |
-| Orlandus Lassus - Missa Osculetur Me - Kyrie (1582)               |          | [PDF][20] e [Áudio][40] |
-| Orlandus Lassus - Sibylla Persica (1600)                          |          | [PDF][21] e [Áudio][41] |
-| Orlandus Lassus - Carmina Chromatico (1600)                       |          | [PDF][19] e [Áudio][39] |
-| Palestrina - Missa Papae Marcelli - Glória (1567)                 |          | [PDF][22] e [Áudio][42] |
-| Palestrina - Missa Papae Marcelli - Kyrie (1567)                  |          | [PDF][23] e [Áudio][43] |
-| Thomas Tallis - Missa a 4 - Credo (1572)                          |          | [PDF][24] e [Áudio][44] |
-| Thomas Tallis - Missa a 4 - Gloria (1572)                         |          | [PDF][25] e [Áudio][45] |
-| William Byrd - Missa a 4 - Gloria (1592)                          |          | [PDF][26] e [Áudio][46] |
-| William Byrd - Missa a 4 - Kyrie (1592)                           |          | [PDF][27] e [Áudio][47] |
+Alguns alunos(as) ficaram com duas obras devido ao tamanho curto das obras selecionadas. Voce pode baixar o pdf e mp3 das obras [nesse link](https://onedrive.live.com/?id=23939E5DC94ED773%21s7b59567cffe24728900d86353b4551e9&cid=23939E5DC94ED773).
 
+| Música                                                            | Discente  |
+|-------------------------------------------------------------------|-----------|
+| Cristóbal de Morales - Missa pro defunctis a 5 - Graduale (1544)  | Daniel    |
+| Cristóbal de Morales - Missa pro defunctis a 5 - Kyrie (1544)     | Camila    |
+| Cristóbal de Morales - Missa pro defunctis a 5 - Sequentia (1544) | Camila    |
+| Gioseffo Zarlino - Ave Maria (1566)                               | Roberto   |
+| Gioseffo Zarlino - Pater Noster (1566)                            | Jaqueline |
+| Manuel Cardoso - Magnificat secundi toni a 5 (1613)               | Guilherme |
+| Nicolà Vicentino - Musica prisca caput (1555)                     | Joelma    |
+| Orlandus Lassus - Carmina Chromatico (1600)                       | Victor    |
+| Orlandus Lassus - Sibylla Persica (1600)                          | Victor    |
+| Orlandus Lassus - Missa Osculetur Me - Kyrie (1582)               | Vicente   |
+| Palestrina - Missa Papae Marcelli - Glória (1567)                 | Amanda    |
+| Palestrina - Missa Papae Marcelli - Kyrie (1567)                  | Marcos    |
+| Thomas Tallis - Missa a 4 - Credo (1572)                          | Eliel     |
+| Thomas Tallis - Missa a 4 - Gloria (1572)                         | Everaldo  |
+| William Byrd - Missa a 4 - Gloria (1592)                          | Leonardo  |
+| William Byrd - Missa a 4 - Kyrie (1592)                           | Mateus    |
+
+
+{% comment %}
 
 ### Tópicos para os Seminários
 
