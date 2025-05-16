@@ -71,13 +71,13 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Abr 29     | Cordas                           |
 | Mai 6      | Cordas                           |
 | Mai 13     | **Trabalho 1 (2.5 pontos)**      |
-| Mai 20     | Madeiras                         |
-| Mai 27     | Madeiras                         |
+| Mai 20     | Cordas                           |
+| Mai 27     | Cordas                           |
 | Jun 3      | Madeiras                         |
 | Jun 10     | **Trabalho 2 (2.5 pontos)**      |
 | Jun 17     | Madeiras                         |
 | ~~Jun 24~~ | ~~São João~~                     |
-| Jul 1      | Madeiras & cordas                |
+| Jul 1      | Madeiras                         |
 | Jul 8      | Madeiras & cordas                |
 | Jul 15     | **Trabalho 3 (2.5 pontos)**      |
 | Jul 22     | *Entrega de resultados (online)* |
