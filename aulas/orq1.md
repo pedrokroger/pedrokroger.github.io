@@ -35,7 +35,7 @@ obras e compositores(as). [Lista de Músicas para audição][1].
 
 - **Trabalho 1**: Fazer a redução analítica das duas primeiras páginas da *Bachianas Brasileiras  No. 1 de Villa-Lobos* ([partitura][2]. Ver a página sobre [redução analítica][3]. O objetivo desse trabalho é poder observar os elementos da textura e a distribuição vertical das notas. Um sistema de piano deve ser suficiente. Você deve entregar um pdf com a partitura e um mp3 com o áudio. **Valor: 2.5 pontos**, **Entrega: 13 de Maio**
 
-- **Trabalho 2**: *Truman Sleeps* é uma composição para piano solo de *Philip Glass* para o filme *The Truman Show* ([partitura][4]). Faça uma orquestração para orquestra de cordas, procurando criar variedade timbrística. Você deve entregar um pdf com a partitura e um mp3 com o áudio. O trabalho tem duas etapas (**3 e 10 de junho**): **Valor: 1.2 e 1.3 pontos**.
+- **Trabalho 2**: *Truman Sleeps* é uma composição para piano solo de *Philip Glass* para o filme *The Truman Show* ([partitura][4]). A música ganhou o Globo de Ouro de Melhor trilha sonora original (1998). Faça uma orquestração para orquestra de cordas, procurando criar variedade timbrística. Você deve entregar um pdf com a partitura e um mp3 com o áudio. O trabalho tem duas etapas (**3 e 10 de junho**): **Valor: 1.2 e 1.3 pontos**.
 
 - **Trabalho 3**:
 
