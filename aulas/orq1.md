@@ -74,8 +74,8 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Mai 13     | **Trabalho 1 (2.5 pontos)**         |
 | Mai 20     | Cordas                              |
 | Mai 27     | Cordas                              |
-| Jun 3      | **Trabalho 2 parte 1 (1.2 pontos)** |
-| Jun 10     | **Trabalho 2 parte 2 (1.3 pontos)** |
+| Jun 3      | **Trabalho 2 parte 1 (1.2 pts)** - Madeiras |
+| Jun 10     | **Trabalho 2 parte 2 (1.3 pts)** - Madeiras |
 | Jun 17     | Madeiras                            |
 | ~~Jun 24~~ | ~~São João~~                        |
 | Jul 1      | Madeiras                            |
