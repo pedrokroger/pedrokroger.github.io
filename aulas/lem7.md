@@ -107,25 +107,21 @@ Alguns alunos(as) ficaram com duas obras devido ao tamanho curto das obras selec
 | William Byrd - Missa a 4 - Kyrie (1592)                           | Mateus    |
 
 
-{% comment %}
-
 ### Tópicos para os Seminários
 
 A terceira avaliação será a apresentação de um seminário sobre um dos tópicos
 abaixo. A apresentação deverá ser **em duplas** em uma data pré-determinada
-entre os dias 13 e 22 de Agosto.
+entre os dias 1 e 10 de Julho.
 
-- Compositoras mulheres no período renascentista e barroco - Lizandra e Joabe
-- Moteto - Thiago e Wesley
-- Madrigal - Samuel e Emyle
+- Compositoras mulheres no período renascentista e barroco
+- Moteto
+- Madrigal
 - Renascimento vs Barroco
-- Época medieval vs Renascimento - Lilian e Rafael
+- Época medieval vs Renascimento
 - Missa
 - Contraponto imitativo
-- Modos (gregos) na atualidade - Jonatan
-- Modos (gregos) na música para jogos - Alex e João
-
-{% endcomment %}
+- Modos (gregos) na atualidade
+- Modos (gregos) na música para jogos
 
 
 ## Cronograma
