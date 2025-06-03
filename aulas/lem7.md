@@ -114,13 +114,13 @@ abaixo. A apresentação deverá ser **em duplas** em uma data pré-determinada
 entre os dias 1 e 10 de Julho.
 
 - Compositoras mulheres no período renascentista e barroco
-- Moteto
+- Moteto - Camila - 8
 - Madrigal
-- Renascimento vs Barroco
+- Renascimento vs Barroco - Marcos & Jaqueline - 15
 - Época medieval vs Renascimento
 - Missa
-- Contraponto imitativo
-- Modos (gregos) na atualidade
+- Contraponto imitativo - Guilherme 15
+- Modos (gregos) na atualidade - Daniel & Vicente 10
 - Modos (gregos) na música para jogos
 
 
@@ -145,7 +145,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jun 10     | **Trabalho de Análise**                     | Jun 12     | **Trabalho de Análise**               |
 | Jun 17     | *Tirar dúvidas seminários (opcional)*       | ~~Jun 19~~ | ~~Corpus Christi~~                    |
 | ~~Jun 24~~ | ~~São João~~                                | Jun 26     | *Tirar dúvidas seminários (opcional)* |
-| Jul 1      | **Seminários**                              | Jul 3      | **Seminários**                        |
+| Jul 1      |                               | Jul 3      |                         |
 | Jul 8      | **Seminários**                              | Jul 10     | **Seminários**                        |
-| Jul 15     | *Reservado para 2a chamada*                 | Jul 17     | *Reservado para 2a chamada*           |
+| Jul 15     |  **Seminários**                 | Jul 17     |            | **Seminários**
 | Jul 22     | *Reservado para correções (sem aula)*       | Jul 24     | *Entrega de resultados (online)*      |
