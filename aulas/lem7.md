@@ -143,9 +143,9 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Mai 27     | **Trabalho de Análise**                     | Mai 29     | **Trabalho de Análise**               |
 | Jun 3      | **Trabalho de Análise**                     | Jun 5      | **Trabalho de Análise**               |
 | Jun 10     | **Trabalho de Análise**                     | Jun 12     | **Trabalho de Análise**               |
-| Jun 17     | *Tirar dúvidas seminários (opcional)*       | ~~Jun 19~~ | ~~Corpus Christi~~                    |
-| ~~Jun 24~~ | ~~São João~~                                | Jun 26     | *Tirar dúvidas seminários (opcional)* |
-| Jul 1      |                               | Jul 3      |                         |
+| Jun 17     | *Tirar dúvidas seminários*                  | ~~Jun 19~~ | ~~Corpus Christi~~                    |
+| ~~Jun 24~~ | ~~São João~~                                | ~~Jun 26~~ | *Trabalho assíncrono*                 |
+| ~~Jul 1~~  | *Trabalho assíncrono*                       | Jul 3      | *Tirar dúvidas trabalho*              |
 | Jul 8      | **Seminários**                              | Jul 10     | **Seminários**                        |
-| Jul 15     |  **Seminários**                 | Jul 17     |            | **Seminários**
+| Jul 15     | **Seminários**                              | Jul 17     | **Seminários**                        |
 | Jul 22     | *Reservado para correções (sem aula)*       | Jul 24     | *Entrega de resultados (online)*      |
