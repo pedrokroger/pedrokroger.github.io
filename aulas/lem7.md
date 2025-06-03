@@ -145,7 +145,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jun 10     | **Trabalho de Análise**                     | Jun 12     | **Trabalho de Análise**               |
 | Jun 17     | *Tirar dúvidas seminários*                  | ~~Jun 19~~ | ~~Corpus Christi~~                    |
 | ~~Jun 24~~ | ~~São João~~                                | ~~Jun 26~~ | *Trabalho assíncrono*                 |
-| ~~Jul 1~~  | *Trabalho assíncrono*                       | Jul 3      | *Tirar dúvidas trabalho*              |
+| ~~Jul 1~~  | *Trabalho assíncrono (remoto)*              | Jul 3      | *Tirar dúvidas trabalho (remoto)*     |
 | Jul 8      | **Seminários**                              | Jul 10     | **Seminários**                        |
 | Jul 15     | **Seminários**                              | Jul 17     | **Seminários**                        |
 | Jul 22     | *Reservado para correções (sem aula)*       | Jul 24     | *Entrega de resultados (online)*      |
