@@ -115,13 +115,13 @@ entre os dias 1 e 10 de Julho.
 
 - Compositoras mulheres no período renascentista e barroco
 - Moteto - Camila - 8
-- Madrigal
+- Madrigal - Victor & Leonardo 17
 - Renascimento vs Barroco - Marcos & Jaqueline - 15
 - Época medieval vs Renascimento
 - Missa
 - Contraponto imitativo - Guilherme 15
 - Modos (gregos) na atualidade - Daniel & Vicente 10
-- Modos (gregos) na música para jogos
+- Modos (gregos) na música para jogos - Everaldo
 
 
 ## Cronograma
@@ -147,5 +147,5 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Jun 24~~ | ~~São João~~                                | ~~Jun 26~~ | *Trabalho assíncrono (remoto)*        |
 | ~~Jul 1~~  | *Trabalho assíncrono (remoto)*              | Jul 3      | *Tirar dúvidas seminários*            |
 | Jul 8      | **Seminários** (Camila)                     | Jul 10     | **Seminários** (Danel & Vicente)      |
-| Jul 15     | **Seminários** (Guilherme, Marcos & Jaqueline) | Jul 17  | **Seminários**                        |
+| Jul 15     | **Seminários** (Guilherme, Marcos & Jaqueline) | Jul 17  | **Seminários** (Everaldo, Victor & Leo) |
 | Jul 22     | *Reservado para correções (sem aula)*       | Jul 24     | *Entrega de resultados (online)*      |
