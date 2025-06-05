@@ -78,7 +78,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jun 10     | **Trabalho 2 parte 2 (1.3 pts)** - Madeiras |
 | Jun 17     | Madeiras                            |
 | ~~Jun 24~~ | ~~São João~~                        |
-| Jul 1      | Madeiras                            |
+| ~~Jul 1~~  | *Tarefa assíncrona*                 |
 | Jul 8      | Madeiras & cordas                   |
 | Jul 15     | **Trabalho 3 (2.5 pontos)**         |
 | Jul 22     | *Entrega de resultados (online)*    |

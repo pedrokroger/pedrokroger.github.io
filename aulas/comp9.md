@@ -19,12 +19,6 @@ A nota final será composta pela soma da entrega de trechos da obra em um total
 de 10 pontos. Para a entrega dos trechos da obra você deve entregar um pdf da
 partitura e um mp3 com a performance MIDI (Finale, Sibelius, etc).
 
-## Notas
-
-| Nome                  | C1 | C2 | C3 | C4 | C5* | C6* | C7* | Nota |
-|:----------------------|:---|:---|:---|:---|:----|:----|:----|:-----|
-| Mauricio Freitas Goes |    |    |    |    |     |     |     | =sum |
-
 
 ## Formação da Orquestra
 
@@ -89,17 +83,17 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Abr 17~~ | ~~Semana Santa~~                        |
 | Abr 24     | O texto na composição musical           |
 | ~~Mai 1~~  | *Dia to Trabalho*                       |
-| Mai 8      | **Composição 1 minuto (1pt)**           |
-| Mai 15     | **Composição 2 minutos (1pt)**          |
+| Mai 8      | Acompanhamento da composição            |
+| Mai 15     | Acompanhamento da composição            |
 | Mai 22     | Acompanhamento da composição            |
-| Mai 29     | **Composição 3 minutos (1pt)**          |
+| Mai 29     | Acompanhamento da composição            |
 | Jun 5      | Acompanhamento da composição            |
-| Jun 12     | **Composição 4 minutos (1pt)**          |
+| Jun 12     | Acompanhamento da composição            |
 | ~~Jun 19~~ | *Corpus Christi*                        |
-| Jun 26     | **Composição 5 minutos (2pts)**         |
-| Jul 3      | **Composição 6 minutos (2pts)**         |
-| Jul 10     | **Composição 7 minutos (2pts)**         |
-| Jul 17     |                                         |
+| ~~Jun 26~~ | *São João**                             |
+| Jul 3      | Acompanhamento da composição            |
+| Jul 10     | Acompanhamento da composição            |
+| Jul 17     | **Entrega da composição**               |
 | Jul 24     |                                         |
 
 [4]: {% link docs/musicas-seculo21.md %}
