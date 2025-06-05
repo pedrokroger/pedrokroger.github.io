@@ -90,7 +90,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jun 5      | Acompanhamento da composição            |
 | Jun 12     | Acompanhamento da composição            |
 | ~~Jun 19~~ | *Corpus Christi*                        |
-| ~~Jun 26~~ | *São João**                             |
+| ~~Jun 26~~ | *São João*                              |
 | Jul 3      | Acompanhamento da composição            |
 | Jul 10     | Acompanhamento da composição            |
 | Jul 17     | **Entrega da composição**               |
