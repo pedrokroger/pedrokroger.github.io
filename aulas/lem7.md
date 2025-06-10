@@ -146,6 +146,6 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jun 17     | *Tirar dúvidas seminários*                  | ~~Jun 19~~ | ~~Corpus Christi~~                    |
 | ~~Jun 24~~ | ~~São João~~                                | ~~Jun 26~~ | *Trabalho assíncrono (remoto)*        |
 | ~~Jul 1~~  | *Trabalho assíncrono (remoto)*              | Jul 3      | *Tirar dúvidas seminários*            |
-| Jul 8      | **Seminários** (Camila)                     | Jul 10     | **Seminários** (Danel & Vicente)      |
+| Jul 8      | **Seminários** (Camila, Roberto)            | Jul 10     | **Seminários** (Danel & Vicente)      |
 | Jul 15     | **Seminários** (Guilherme, Marcos & Jaqueline) | Jul 17  | **Seminários** (Everaldo, Victor & Leo) |
 | Jul 22     | *Reservado para correções (sem aula)*       | Jul 24     | *Entrega de resultados (online)*      |
