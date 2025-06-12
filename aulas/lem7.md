@@ -9,21 +9,21 @@ showindex: true
 
 | Nome                                | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
 |:------------------------------------|:----------|:--------------|:----------------|:-----------|
-| Amanda Isa Gonzaga Pinto            | 3.0       |               |                 | =sum       |
-| Camila Maria Carvalho Santos        | 3.0       |               |                 | =sum       |
-| Daniel Lopes De Oliveira            | 3.0       |               |                 | =sum       |
-| Eliel Reuel Dos Santos Sena         | 2.3       |               |                 | =sum       |
-| Everaldo Do Espirito Santo E Santos | 3.0       |               |                 | =sum       |
-| Guilherme Silva Chagas              | 3.0       |               |                 | =sum       |
-| Jaqueline Cardoso Borges            | 2.7       |               |                 | =sum       |
-| Joelma Santos De Souza              | 3.0       |               |                 | =sum       |
-| Leonardo Rocha De Jesus             | 2.6       |               |                 | =sum       |
-| Marcos Paulo Pinto De Oliveira      | 2.8       |               |                 | =sum       |
-| Mateus Correia De Oliveira          | 3.0       |               |                 | =sum       |
-| Roberto José Santana De Sousa       | 3.0       |               |                 | =sum       |
-| Tadeu Maciel Feitosa Campos         | 0.0       |               |                 | =sum       |
-| Vicente Sanches De Oliveira         | 3.0       |               |                 | =sum       |
-| Victor Vogel Bartilotti Anselmo     | 3.0       |               |                 | =sum       |
+| Amanda Isa Gonzaga Pinto            | 3.0       | 0.0           |                 | =sum       |
+| Camila Maria Carvalho Santos        | 3.0       | 1.2           |                 | =sum       |
+| Daniel Lopes De Oliveira            | 3.0       | 3.5           |                 | =sum       |
+| Eliel Reuel Dos Santos Sena         | 2.3       | 3.5           |                 | =sum       |
+| Everaldo Do Espirito Santo E Santos | 3.0       | 3.5           |                 | =sum       |
+| Guilherme Silva Chagas              | 3.0       | 3.5           |                 | =sum       |
+| Jaqueline Cardoso Borges            | 2.7       | 3.5           |                 | =sum       |
+| Joelma Santos De Souza              | 3.0       | 0.0           |                 | =sum       |
+| Leonardo Rocha De Jesus             | 2.6       | 3.5           |                 | =sum       |
+| Marcos Paulo Pinto De Oliveira      | 2.8       | 3.5           |                 | =sum       |
+| Mateus Correia De Oliveira          | 3.0       | 1.2           |                 | =sum       |
+| Roberto José Santana De Sousa       | 3.0       | 3.5           |                 | =sum       |
+| Tadeu Maciel Feitosa Campos         | 0.0       | 0.0           |                 | =sum       |
+| Vicente Sanches De Oliveira         | 3.0       | 3.5           |                 | =sum       |
+| Victor Vogel Bartilotti Anselmo     | 3.0       | 3.5           |                 | =sum       |
 {: .collapse #notas-table}
 
 ## Materiais
@@ -114,10 +114,10 @@ abaixo. A apresentação deverá ser **em duplas** em uma data pré-determinada
 entre os dias 1 e 10 de Julho.
 
 - Compositoras mulheres no período renascentista e barroco
-- Moteto - Camila - 8
+- Moteto - Camila & Roberto - 8
 - Madrigal - Victor & Leonardo 17
 - Renascimento vs Barroco - Marcos & Jaqueline - 15
-- Época medieval vs Renascimento
+- Época medieval vs Renascimento - Eliel
 - Missa
 - Contraponto imitativo - Guilherme 15
 - Modos (gregos) na atualidade - Daniel & Vicente 10
@@ -146,6 +146,6 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Jun 17     | *Tirar dúvidas seminários*                  | ~~Jun 19~~ | ~~Corpus Christi~~                    |
 | ~~Jun 24~~ | ~~São João~~                                | ~~Jun 26~~ | *Trabalho assíncrono (remoto)*        |
 | ~~Jul 1~~  | *Trabalho assíncrono (remoto)*              | Jul 3      | *Tirar dúvidas seminários*            |
-| Jul 8      | **Seminários** (Camila, Roberto)            | Jul 10     | **Seminários** (Daniel & Vicente)      |
+| Jul 8      | **Seminários** (Camila & Roberto, Eliel)     | Jul 10     | **Seminários** (Daniel & Vicente)      |
 | Jul 15     | **Seminários** (Guilherme, Marcos & Jaqueline) | Jul 17  | **Seminários** (Everaldo, Victor & Leonardo) |
 | Jul 22     | *Reservado para correções (sem aula)*       | Jul 24     | *Entrega de resultados (online)*      |
