@@ -58,7 +58,6 @@ de aula.
 Na parte de audição das obras você deverá identificar o nome da obra, o(a)
 compositor(a), e a data aproximada da obra. [Lista de Músicas para audição]({%
 link docs/prova-audicao-lem7.md %}).
-{% endcomment %}
 
 
 ### Trabalho 2: Análise de Obra
@@ -106,6 +105,7 @@ Alguns alunos(as) ficaram com duas obras devido ao tamanho curto das obras selec
 | William Byrd - Missa a 4 - Gloria (1592)                          | Leonardo  |
 | William Byrd - Missa a 4 - Kyrie (1592)                           | Mateus    |
 
+{% endcomment %}
 
 ### Tópicos para os Seminários
 
