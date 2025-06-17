@@ -37,12 +37,19 @@ obras e compositores(as). [Lista de Músicas para audição][1].
 
 - **Trabalho 2**: *Truman Sleeps* é uma composição para piano solo de *Philip Glass* para o filme *The Truman Show* ([partitura][4]). A música ganhou o Globo de Ouro de Melhor trilha sonora original (1998). Faça uma orquestração para orquestra de cordas, procurando criar variedade timbrística. Você deve entregar um pdf com a partitura e um mp3 com o áudio. O trabalho tem duas etapas (**3 e 10 de junho**): **Valor: 1.2 e 1.3 pontos**.
 
-- **Trabalho 3**:
+- **Trabalho 3**: A composição *Os Planetas* de Gustav Holst foi composta entre 1914 e 1917 e influenciou a orquestração e composição modernas
+  de inúmeras maneiras. [pdf][5] e [mp3][6] Faça uma redução analítica dos compassos 1 ao 21, excluindo harpas, celesta e tímpano. 
+  Você deve entregar uma partitura em pdf e uma performance midi em mp3.
+
+  Note que as notas pequenas ("deixas" ou *cue notes* em inglês) não são tocadas, servem apenas para ajudar os instrumentistas.
+  
+  {% img cues.png, 80 %}
 
 [2]: https://1drv.ms/b/c/23939e5dc94ed773/Ea_0--HIBhROiESXEomUQx8BvBpc03M-KFyJt6pjRSCo8Q?e=lSDFa3
 [3]: {% link docs/reducao-analitica.md %}
 [4]: https://1drv.ms/b/c/23939e5dc94ed773/Eekr61C2Ik1Fp7_qTdyPJ6wB6hf0EPcx4avriyvNfTp6JA?e=8OVYfp
-
+[5]: https://1drv.ms/b/c/23939e5dc94ed773/EYbh2AHe_QRAocZY7p6xIG4BbgJu361fXFhjOnpsK2lhOA?e=eLZ6mh
+[6]: https://1drv.ms/u/c/23939e5dc94ed773/EdVpifxvfctFo1XQYlaxLnYBeWSMKz9bKoSfLOqgHRbO2A?e=kt6LFU
 
 ## Materiais
 
