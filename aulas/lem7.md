@@ -18,7 +18,7 @@ showindex: true
 | Jaqueline Cardoso Borges            | 2.7       | 3.5           | 3.5             | =sum       |
 | Joelma Santos De Souza              | 3.0       | 0.0           | 0.0             | =sum       |
 | Leonardo Rocha De Jesus             | 2.6       | 3.5           | 3.5             | =sum       |
-| Marcos Paulo Pinto De Oliveira      | 2.8       | 3.5           | 3.0             | =sum       |
+| Marcos Paulo Pinto De Oliveira      | 2.8       | 3.5           | 3.5             | =sum       |
 | Mateus Correia De Oliveira          | 3.0       | 1.2           | 3.5             | =sum       |
 | Roberto José Santana De Sousa       | 3.0       | 3.5           | 3.5             | =sum       |
 | Tadeu Maciel Feitosa Campos         | 0.0       | 0.0           | 0.0             | =sum       |
