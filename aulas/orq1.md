@@ -15,7 +15,7 @@ Barroco até o século XX.
 | Nome                            | Prova | T1  | T2 | T3 | Nota Final |
 |:--------------------------------|:------|:----|:---|:---|:-----------|
 | Francisco de Assis              | 2.3   | 2.5 | 1.3 | 1.3 | =sum       |
-| Gabriel Benigno Santos Lisboa   |       | 1.3 | 1.3 | 1.3 | =sum       |
+| Gabriel Benigno Santos Lisboa   | 2.5   | 1.3 | 1.3 | 1.3 | =sum       |
 | Giorno Nogueira                 | 2.5   | 2.5 | 2.5 | 2.5 | =sum       |
 | Renato Alves Da Silva Filho     | 2.0   | 2.5 | 2.5 | 1.3 | =sum       |
 | Victor Vogel Bartilotti Anselmo | 2.5   | 2.5 | 1.3 | 2.5 | =sum       |
