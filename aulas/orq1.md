@@ -1,6 +1,6 @@
 ---
 title: MUSA84 - Instrumentação e Orquestração I
-showindex: true
+showindex: false
 ---
 
 Conhecimento básico dos instrumentos da Orquestra Clássica de modo individual, e
@@ -12,13 +12,13 @@ Barroco até o século XX.
 
 ## Notas
 
-| Nome                            | Prova | T1  | T2 | T3 | Nota Final |
-|:--------------------------------|:------|:----|:---|:---|:-----------|
-| Francisco de Assis              | 2.3   | 2.5 | 1.3 | 1.3 | =sum       |
-| Gabriel Benigno Santos Lisboa   | 2.5   | 1.3 | 1.3 | 1.3 | =sum       |
-| Giorno Nogueira                 | 2.5   | 2.5 | 2.5 | 2.5 | =sum       |
-| Renato Alves Da Silva Filho     | 2.0   | 2.5 | 2.5 | 1.3 | =sum       |
-| Victor Vogel Bartilotti Anselmo | 2.5   | 2.5 | 1.3 | 2.5 | =sum       |
+| Nome                            | Prova | T1  | T2  | T3  | Final |
+|:--------------------------------|:------|:----|:----|:----|:------|
+| Francisco de Assis              | 2.3   | 2.5 | 1.3 | 1.3 | =sum  |
+| Gabriel Benigno Santos Lisboa   | 2.5   | 1.3 | 1.3 | 1.3 | =sum  |
+| Giorno Nogueira                 | 2.5   | 2.5 | 2.5 | 2.5 | =sum  |
+| Renato Alves Da Silva Filho     | 2.0   | 2.5 | 2.5 | 1.3 | =sum  |
+| Victor Vogel Bartilotti Anselmo | 2.5   | 2.5 | 1.3 | 2.5 | =sum  |
 
 
 ## Avaliação
@@ -70,22 +70,22 @@ Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poder�
 ser modificado de acordo com a necessidade e eventualidade.
 
 
-| Data       | Conteúdo                            |
-|:-----------|:------------------------------------|
-| Abr 1      | Introdução ao Curso & Cordas        |
-| Abr 8      | Cordas                              |
-| Abr 15     | Cordas                              |
-| Abr 22     | **Prova (2.5 pontos)**              |
-| Abr 29     | Cordas                              |
-| Mai 6      | Cordas                              |
-| Mai 13     | **Trabalho 1 (2.5 pontos)**         |
-| Mai 20     | Cordas                              |
-| Mai 27     | Cordas                              |
+| Data       | Conteúdo                                    |
+|:-----------|:--------------------------------------------|
+| Abr 1      | Introdução ao Curso & Cordas                |
+| Abr 8      | Cordas                                      |
+| Abr 15     | Cordas                                      |
+| Abr 22     | **Prova (2.5 pontos)**                      |
+| Abr 29     | Cordas                                      |
+| Mai 6      | Cordas                                      |
+| Mai 13     | **Trabalho 1 (2.5 pontos)**                 |
+| Mai 20     | Cordas                                      |
+| Mai 27     | Cordas                                      |
 | Jun 3      | **Trabalho 2 parte 1 (1.2 pts)** - Madeiras |
 | Jun 10     | **Trabalho 2 parte 2 (1.3 pts)** - Madeiras |
-| Jun 17     | Madeiras                            |
-| ~~Jun 24~~ | ~~São João~~                        |
-| ~~Jul 1~~  | *Tarefa assíncrona*                 |
-| Jul 8      | Madeiras & cordas                   |
-| Jul 15     | **Trabalho 3 (2.5 pontos)**         |
-| Jul 22     | *Entrega de resultados (online)*    |
+| Jun 17     | Madeiras                                    |
+| ~~Jun 24~~ | ~~São João~~                                |
+| ~~Jul 1~~  | *Tarefa assíncrona*                         |
+| Jul 8      | Madeiras & cordas                           |
+| Jul 15     | **Trabalho 3 (2.5 pontos)**                 |
+| Jul 22     | *Entrega de resultados (online)*            |

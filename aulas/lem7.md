@@ -1,29 +1,29 @@
 ---
 title: MUSA75 - Literatura e Estruturação Musical VII
-showindex: true
+showindex: false
 ---
 
 ## Notas
 
 {% notas %}
 
-| Nome                                | Prova (3) | Análise (3.5) | Seminário (3.5) | Nota Final |
-|:------------------------------------|:----------|:--------------|:----------------|:-----------|
-| Amanda Isa Gonzaga Pinto            | 3.0       | 0.0           | 0.0             | =sum       |
-| Camila Maria Carvalho Santos        | 3.0       | 1.2           | 3.5             | =sum       |
-| Daniel Lopes De Oliveira            | 3.0       | 3.5           | 3.5             | =sum       |
-| Eliel Reuel Dos Santos Sena         | 2.3       | 3.5           | 3.5             | =sum       |
-| Everaldo Do Espirito Santo E Santos | 3.0       | 3.5           | 3.5             | =sum       |
-| Guilherme Silva Chagas              | 3.0       | 3.5           | 3.5             | =sum       |
-| Jaqueline Cardoso Borges            | 2.7       | 3.5           | 3.5             | =sum       |
-| Joelma Santos De Souza              | 3.0       | 0.0           | 0.0             | =sum       |
-| Leonardo Rocha De Jesus             | 2.6       | 3.5           | 3.5             | =sum       |
-| Marcos Paulo Pinto De Oliveira      | 2.8       | 3.5           | 3.5             | =sum       |
-| Mateus Correia De Oliveira          | 3.0       | 1.2           | 3.5             | =sum       |
-| Roberto José Santana De Sousa       | 3.0       | 3.5           | 3.5             | =sum       |
-| Tadeu Maciel Feitosa Campos         | 0.0       | 0.0           | 0.0             | =sum       |
-| Vicente Sanches De Oliveira         | 3.0       | 3.5           | 3.0             | =sum       |
-| Victor Vogel Bartilotti Anselmo     | 3.0       | 3.5           | 3.5             | =sum       |
+| Nome                                | Pr (3) | An (3.5) | Sem (3.5) | Final |
+|:------------------------------------|:-------|:---------|:----------|:------|
+| Amanda Isa Gonzaga Pinto            | 3.0    | 0.0      | 0.0       | =sum  |
+| Camila Maria Carvalho Santos        | 3.0    | 1.2      | 3.5       | =sum  |
+| Daniel Lopes De Oliveira            | 3.0    | 3.5      | 3.5       | =sum  |
+| Eliel Reuel Dos Santos Sena         | 2.3    | 3.5      | 3.5       | =sum  |
+| Everaldo Do Espirito Santo E Santos | 3.0    | 3.5      | 3.5       | =sum  |
+| Guilherme Silva Chagas              | 3.0    | 3.5      | 3.5       | =sum  |
+| Jaqueline Cardoso Borges            | 2.7    | 3.5      | 3.5       | =sum  |
+| Joelma Santos De Souza              | 3.0    | 0.0      | 0.0       | =sum  |
+| Leonardo Rocha De Jesus             | 2.6    | 3.5      | 3.5       | =sum  |
+| Marcos Paulo Pinto De Oliveira      | 2.8    | 3.5      | 3.5       | =sum  |
+| Mateus Correia De Oliveira          | 3.0    | 1.2      | 3.5       | =sum  |
+| Roberto José Santana De Sousa       | 3.0    | 3.5      | 3.5       | =sum  |
+| Tadeu Maciel Feitosa Campos         | 0.0    | 0.0      | 0.0       | =sum  |
+| Vicente Sanches De Oliveira         | 3.0    | 3.5      | 3.0       | =sum  |
+| Victor Vogel Bartilotti Anselmo     | 3.0    | 3.5      | 3.5       | =sum  |
 {: .collapse #notas-table}
 
 ## Materiais
@@ -48,7 +48,7 @@ A avaliação final será a soma de 3 notas:
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
 
-{% comment %}
+<!--
 
 ### Prova de Audição e Análise
 
@@ -87,7 +87,7 @@ Os elementos a serem analisados:
 Alguns alunos(as) ficaram com duas obras devido ao tamanho curto das obras selecionadas. Voce pode baixar o pdf e mp3 das obras [nesse link](https://1drv.ms/f/c/23939e5dc94ed773/EnxWWXvi_yhHkA2GNTtFUekBfcSSooJIZCC5atvo3RZ2SA?e=XcdCba).
 
 | Música                                                            | Discente  |
-|-------------------------------------------------------------------|-----------|
+|:------------------------------------------------------------------|:----------|
 | Cristóbal de Morales - Missa pro defunctis a 5 - Graduale (1544)  | Daniel    |
 | Cristóbal de Morales - Missa pro defunctis a 5 - Kyrie (1544)     | Camila    |
 | Cristóbal de Morales - Missa pro defunctis a 5 - Sequentia (1544) | Camila    |
@@ -105,7 +105,7 @@ Alguns alunos(as) ficaram com duas obras devido ao tamanho curto das obras selec
 | William Byrd - Missa a 4 - Gloria (1592)                          | Leonardo  |
 | William Byrd - Missa a 4 - Kyrie (1592)                           | Mateus    |
 
-{% endcomment %}
+-->
 
 ### Tópicos para os Seminários
 
@@ -129,23 +129,23 @@ entre os dias 1 e 10 de Julho.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                                    | Quinta     | Conteúdo                              |
-|:-----------|:--------------------------------------------|:-----------|:--------------------------------------|
-| Mar 25     |                                             | Mar 27     | Introdução ao curso e revisão         |
-| Abr 1      | Revisão e análise                           | Abr 3      | Revisão e análise                     |
-| Abr 8      | Revisão e análise                           | Abr 10     | Revisão e análise                     |
-| Abr 15     | Revisão e análise                           | ~~Abr 17~~ | ~~Semana Santa~~                      |
-| Abr 22     | Revisão e análise                           | ~~Abr 24~~ | ~~EMUS Interditada~~                  |
-| Abr 29     | **Prova de audição e revisão**              | ~~Mai 1~~  | ~~Dia do Trabalho~~                   |
-| Mai 6      | Correção da prova & Introdução ao modalismo | Mai 8      | Modalismo vs tonalidade               |
-| Mai 13     | Análise de obras                            | Mai 15     | Análise de obras                      |
-| Mai 20     | *Tirar dúvidas trabalho (opcional)*         | Mai 22     | *Tirar dúvidas trabalho (opcional)*   |
-| Mai 27     | **Trabalho de Análise**                     | Mai 29     | **Trabalho de Análise**               |
-| Jun 3      | **Trabalho de Análise**                     | Jun 5      | **Trabalho de Análise**               |
-| Jun 10     | **Trabalho de Análise**                     | Jun 12     | **Trabalho de Análise**               |
-| Jun 17     | *Tirar dúvidas seminários*                  | ~~Jun 19~~ | ~~Corpus Christi~~                    |
-| ~~Jun 24~~ | ~~São João~~                                | ~~Jun 26~~ | *Trabalho assíncrono (remoto)*        |
-| ~~Jul 1~~  | *Trabalho assíncrono (remoto)*              | Jul 3      | *Tirar dúvidas seminários*            |
-| Jul 8      | **Seminários** (Camila & Roberto, Eliel)     | Jul 10     | **Seminários** (Daniel & Vicente)      |
-| Jul 15     | **Seminários** (Guilherme, Marcos & Jaqueline) | Jul 17  | **Seminários** (Everaldo & Mateus, Victor & Leonardo) |
-| Jul 22     | *Reservado para correções (sem aula)*       | Jul 24     | *Entrega de resultados (online)*      |
+| Terça      | Conteúdo                                       | Quinta     | Conteúdo                                              |
+|:-----------|:-----------------------------------------------|:-----------|:------------------------------------------------------|
+| Mar 25     |                                                | Mar 27     | Introdução ao curso e revisão                         |
+| Abr 1      | Revisão e análise                              | Abr 3      | Revisão e análise                                     |
+| Abr 8      | Revisão e análise                              | Abr 10     | Revisão e análise                                     |
+| Abr 15     | Revisão e análise                              | ~~Abr 17~~ | ~~Semana Santa~~                                      |
+| Abr 22     | Revisão e análise                              | ~~Abr 24~~ | ~~EMUS Interditada~~                                  |
+| Abr 29     | **Prova de audição e revisão**                 | ~~Mai 1~~  | ~~Dia do Trabalho~~                                   |
+| Mai 6      | Correção da prova & Introdução ao modalismo    | Mai 8      | Modalismo vs tonalidade                               |
+| Mai 13     | Análise de obras                               | Mai 15     | Análise de obras                                      |
+| Mai 20     | *Tirar dúvidas trabalho (opcional)*            | Mai 22     | *Tirar dúvidas trabalho (opcional)*                   |
+| Mai 27     | **Trabalho de Análise**                        | Mai 29     | **Trabalho de Análise**                               |
+| Jun 3      | **Trabalho de Análise**                        | Jun 5      | **Trabalho de Análise**                               |
+| Jun 10     | **Trabalho de Análise**                        | Jun 12     | **Trabalho de Análise**                               |
+| Jun 17     | *Tirar dúvidas seminários*                     | ~~Jun 19~~ | ~~Corpus Christi~~                                    |
+| ~~Jun 24~~ | ~~São João~~                                   | ~~Jun 26~~ | *Trabalho assíncrono (remoto)*                        |
+| ~~Jul 1~~  | *Trabalho assíncrono (remoto)*                 | Jul 3      | *Tirar dúvidas seminários*                            |
+| Jul 8      | **Seminários** (Camila & Roberto, Eliel)       | Jul 10     | **Seminários** (Daniel & Vicente)                     |
+| Jul 15     | **Seminários** (Guilherme, Marcos & Jaqueline) | Jul 17     | **Seminários** (Everaldo & Mateus, Victor & Leonardo) |
+| Jul 22     | *Reservado para correções (sem aula)*          | Jul 24     | *Entrega de resultados (online)*                      |

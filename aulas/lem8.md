@@ -1,6 +1,6 @@
 ---
 title: MUSA76 - Literatura e Estruturação Musical VIII
-showindex: false
+showindex: true
 ---
 
 Estudo das técnicas contrapontísticas e harmônicas complexas e das grandes
@@ -10,12 +10,14 @@ formas da música sinfônica e sinfônico-coral.
 
 {% notas %}
 
-| Nome                       | T1 (1.5) | T2 (1.5) | T3 (1.5) | T4 (1.5) | Art (3) | Part (1) | Nota Final |
-|:---------------------------|:---------|:---------|----------|----------|:--------|----------|:-----------|
-| Alex Cerqueira Marques     | 1.5      | 1.0      | 1.5      | 1.5      | 3.0     | 1.0      | =sum       |
-| Emyle Magna Santos Barbosa | 0.7      | 1.0      | 1.5      | 1.5      | 2.5     | 0.7      | =sum       |
-| Gianmarco Turina           | 1.5      | 1.5      | 1.5      | 1.5      | 3.0     | 1.0      | =sum       |
-| Rafael Santos Alencar      | 1.5      | 1.5      | 1.5      | 1.5      | 3.0     | 1.0      | =sum       |
+<!-- 1.5 1.5 1.5 1.5 3 1  -->
+
+| Nome                       | T1  | T2  | T3  | T4  | Art | Part | Final |
+|:---------------------------|:----|:----|:----|:----|:----|:-----|:------|
+| Alex Cerqueira Marques     | 1.5 | 1.0 | 1.5 | 1.5 | 3.0 | 1.0  | =sum  |
+| Emyle Magna Santos Barbosa | 0.7 | 1.0 | 1.5 | 1.5 | 2.5 | 0.7  | =sum  |
+| Gianmarco Turina           | 1.5 | 1.5 | 1.5 | 1.5 | 3.0 | 1.0  | =sum  |
+| Rafael Santos Alencar      | 1.5 | 1.5 | 1.5 | 1.5 | 3.0 | 1.0  | =sum  |
 {: .collapse #notas-table}
 
 

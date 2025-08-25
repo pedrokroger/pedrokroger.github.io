@@ -1,6 +1,6 @@
 ---
 title: MUSA85 - Instrumentação e Orquestração II
-showindex: false
+showindex: true
 ---
 
 Nível 2 do conhecimento básico dos instrumentos da Orquestra Clássica de modo
@@ -16,12 +16,12 @@ A avaliação final será soma de 3 trabalhos de orquestração orientados.
 
 ## Notas
 
-| Nome                        | T1  | T2  | T3  | Nota Final |
-|:----------------------------|:----|:----|:----|:-----------|
-| Daniel Lopes De Oliveira    | 3.0 | 3.0 | 4.0 | =sum       |
-| Gianmarco Turina            | 2.0 | 3.0 | 4.0 | =sum       |
-| Luciano Jose Salvador Bahia | 3.0 | 3.0 | 4.0 | =sum       |
-| Rafael Espinheira Santiago  |     |     |     | 8.5        |
+| Nome                        | T1  | T2  | T3  | Final |
+|:----------------------------|:----|:----|:----|:------|
+| Daniel Lopes De Oliveira    | 3.0 | 3.0 | 4.0 | =sum  |
+| Gianmarco Turina            | 2.0 | 3.0 | 4.0 | =sum  |
+| Luciano Jose Salvador Bahia | 3.0 | 3.0 | 4.0 | =sum  |
+| Rafael Espinheira Santiago  |     |     |     | 8.5   |
 {: #notas-table}
 
 <!-- | Rafael Espinheira Santiago | 1.0 | 2.5 | 2.5 | 2.5  -->

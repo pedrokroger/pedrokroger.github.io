@@ -1,6 +1,6 @@
 ---
 title: MUSB18 - Composição IX
-showindex: true
+showindex: false
 ---
 
 Estudo e prática de Técnicas Composicionais Avançadas: desenvolvimento de
