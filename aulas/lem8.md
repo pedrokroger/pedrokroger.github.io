@@ -89,24 +89,42 @@ abaixos.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                         | Quinta     | Conteúdo                                               |
-|:-----------|:---------------------------------|:-----------|:-------------------------------------------------------|
-| Out 1      |                                  | Out 3      | Introdução ao curso                                    |
-| ~~Out 8~~  | *Seminários internacionais*      | ~~Out 10~~ | *Seminários internacionais*                            |
-| ~~Out 15~~ | *Seminários internacionais*      | ~~Out 17~~ | *Congresso da TeMA*                                    |
-| Out 22     | Contextualização e análise       | Out 24     | Análise                                                |
-| Out 29     | **Mini-trabalho 1 (1.5 pts)**    | Out 31     | Análise quarteto Brahms                                |
-| Nov 5      | Análise Chopin                   | Nov 7      | Análise Chopin                                         |
-| Nov 12     | Análise Schoenberg               | Nov 14     | **Mini-trabalho 2 (1.5 pts)**                          |
-| Nov 19     | Música programática              | Nov 21     | Música programática                                    |
-| ~~Nov 26~~ | *Congresso da UFBA*              | ~~Nov 28~~ | *Congresso da UFBA*                                    |
-| Dez 3      | **Mini-trabalho 3 (1.5 pts)**    | Dez 5      | Análise em sala                                        |
-| Dez 10     | Análise em sala                  | ~~Dez 12~~ | *Atividade assíncrona* (trabalho)                      |
-| ~~Dez 17~~ | ~~Reunião da Congregação~~       | Dez 19     | **Mini-trabalho 4 (1.5 pts)** e Orientação para artigo |
-| ~~Dez 24~~ | *Recesso*                        | ~~Dez 26~~ | *Recesso*                                              |
-| ~~Dez 31~~ | *Recesso*                        | ~~Jan 2~~  | *Recesso*                                              |
-| Jan 7      | *Orientação assíncrona*          | Jan 9      | *Orientação assíncrona*                                |
-| Jan 14     | *Orientação assíncrona*          | ~~Jan 16~~ | *Lavagem do Bomfim*                                    |
-| Jan 21     | *Orientação assíncrona*          | Jan 23     | *Orientação assíncrona*                                |
-| Jan 28     | *Reservado para 2a Chamada*      | Jan 30     | **Entrega artigo multimídia (2pts)**                   |
-| Fev 4      | *Entrega de Resultados (online)* | Fev 6      | *Reservado para visita do MEC*                         |
+| Terça      | Conteúdo                   | Quinta     | Conteúdo                         |
+|:-----------|:---------------------------|:-----------|:---------------------------------|
+| ~~Set 2~~  | *Congresso da UFBA*        | ~~Set 4~~  | *Congresso da UFBA*              |
+| Set 9      | Introdução ao curso        | Set 11     |                                  |
+| Set 16     |                            | Set 18     |                                  |
+| Set 23     |                            | Set 25     |                                  |
+| Set 30     |                            | Out 2      |                                  |
+| Out 7      |                            | Out 9      |                                  |
+| Out 14     |                            | Out 16     |                                  |
+| Out 21     |                            | Out 23     |                                  |
+| ~~Out 28~~ | *Dia do servidor público*  | Out 30     |                                  |
+| Nov 4      |                            | Nov 6      |                                  |
+| Nov 11     |                            | Nov 13     |                                  |
+| Nov 18     |                            | ~~Nov 20~~ | *Dia Nacional de Zumbi*          |
+| Nov 25     |                            | Nov 27     |                                  |
+| Dez 2      |                            | Dez 4      |                                  |
+| Dez 9      |                            | Dez 11     |                                  |
+| Dez 16     |                            | Dez 18     |                                  |
+| ~~Dez 23~~ | *Recesso Natal e Ano Novo* | ~~Dez 25~~ | *Recesso Natal e Ano Novo*       |
+| ~~Dez 30~~ | *Recesso Natal e Ano Novo* | ~~Jan 1~~  | *Recesso Natal e Ano Novo*       |
+| ~~Jan 6~~  | *Reservado para correções* | ~~Jan 8~~  | *Entrega de Resultados (online)* |
+
+
+| Terça      | Conteúdo                      | Quinta     | Conteúdo                          |
+|:-----------|:------------------------------|:-----------|:----------------------------------|
+| Out 22     | Contextualização e análise    | Out 24     | Análise                           |
+| Out 29     | **Mini-trabalho 1 (1.5 pts)** | Out 31     | Análise quarteto Brahms           |
+| Nov 5      | Análise Chopin                | Nov 7      | Análise Chopin                    |
+| Nov 12     | Análise Schoenberg            | Nov 14     | **Mini-trabalho 2 (1.5 pts)**     |
+| Nov 19     | Música programática           | Nov 21     | Música programática               |
+| ~~Nov 26~~ | *Congresso da UFBA*           | ~~Nov 28~~ | *Congresso da UFBA*               |
+| Dez 3      | **Mini-trabalho 3 (1.5 pts)** | Dez 5      | Análise em sala                   |
+| Dez 10     | Análise em sala               | ~~Dez 12~~ | *Atividade assíncrona* (trabalho) |
+| ~~Dez 17~~ | ~~Reunião da Congregação~~    | Dez 19     | **Mini-trabalho 4 (1.5 pts)**     |
+| ~~Dez 24~~ | *Recesso*                     | ~~Dez 26~~ | *Recesso*                         |
+| ~~Dez 31~~ | *Recesso*                     | ~~Jan 2~~  | *Recesso*                         |
+| Jan 7      | *Orientação assíncrona*       | Jan 9      | *Orientação assíncrona*           |
+| Jan 14     | *Orientação assíncrona*       | ~~Jan 16~~ | *Lavagem do Bomfim*               |
+| Jan 21     | *Orientação assíncrona*       | Jan 23     | *Orientação assíncrona*           |

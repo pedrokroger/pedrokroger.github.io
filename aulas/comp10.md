@@ -94,24 +94,39 @@ A monografia será trabalhada nas aulas de composição.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data       | Conteúdo                              |
-|------------|---------------------------------------|
-| Out 3      | Introdução ao curso                   |
-| ~~Out 10~~ | *Seminários internacionais*           |
-| ~~Out 17~~ | *Congresso da TeMA*                   |
-| Out 24     | **Composição 8 minutos**              |
-| Out 31     | **Composição 9 minutos**              |
-| Nov 7      | **Composição 10 minutos**             |
-| Nov 14     | Acompanhamento da composição          |
-| Nov 21     | **Composição 11 minutos**             |
-| ~~Nov 28~~ | _Congresso da UFBA_                   |
-| Dez 5      | **Composição 12 minutos**             |
-| ~~Dez 12~~ | *Atividade assíncrona (13 minutos)*   |
-| Dez 19     | **Composição 14 minutos**             |
-| Jan 9      | Acompanhamento da Monografia          |
-| ~~Jan 16~~ | ~~Lavagem do Bomfim~~                 |
-| Jan 17     | **Entrega do trabalho final** (email) |
-| Jan 23     | *Banca avalia trabalhos* (sem aula)   |
-| Jan 30     | *Banca avalia trabalhos* (sem aula)   |
-| Fev 6      | *Banca avalia trabalhos* (sem aula)   |
-| Fev 13     | *Entrega de resultados (online)*      |
+| Data       | Conteúdo                            |
+|:-----------|:------------------------------------|
+| Set 4      | *Congresso da UFBA*                 |
+| Set 11     |                                     |
+| Set 18     |                                     |
+| Set 25     |                                     |
+| Out 2      |                                     |
+| Out 9      |                                     |
+| Out 16     |                                     |
+| Out 23     |                                     |
+| Out 30     |                                     |
+| Nov 6      |                                     |
+| Nov 13     |                                     |
+| Nov 20     |                                     |
+| Nov 27     | **Entrega do trabalho final**       |
+| Dez 4      | *Banca avalia trabalhos* (sem aula) |
+| Dez 11     | *Banca avalia trabalhos* (sem aula) |
+| Dez 18     | *Banca avalia trabalhos* (sem aula) |
+| ~~Dez 25~~ | *Recesso Natal e Ano Novo*          |
+| ~~Jan 1~~  | *Recesso Natal e Ano Novo*          |
+| ~~Jan 8~~  | *Entrega de Resultados (online)*    |
+
+| Data       | Conteúdo                            |
+|:-----------|:------------------------------------|
+| Out 24     | **Composição 8 minutos**            |
+| Out 31     | **Composição 9 minutos**            |
+| Nov 7      | **Composição 10 minutos**           |
+| Nov 14     | Acompanhamento da composição        |
+| Nov 21     | **Composição 11 minutos**           |
+| ~~Nov 28~~ | _Congresso da UFBA_                 |
+| Dez 5      | **Composição 12 minutos**           |
+| ~~Dez 12~~ | *Atividade assíncrona (13 minutos)* |
+| Dez 19     | **Composição 14 minutos**           |
+| Jan 9      | Acompanhamento da Monografia        |
+| ~~Jan 16~~ | ~~Lavagem do Bomfim~~               |
+| Jan 17     | (email)                             |

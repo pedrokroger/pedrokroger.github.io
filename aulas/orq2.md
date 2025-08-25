@@ -95,6 +95,28 @@ A avaliação final será soma de 3 trabalhos de orquestração orientados.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
+| Data       | Conteúdo                   |
+|:-----------|:---------------------------|
+| Set 2      | *Congresso da UFBA*        |
+| Set 9      |                            |
+| Set 16     |                            |
+| Set 23     |                            |
+| Set 30     |                            |
+| Out 7      |                            |
+| Out 14     |                            |
+| ~~Out 28~~ | *Dia do servidor público*  |
+| Nov 4      |                            |
+| Nov 11     |                            |
+| Nov 18     |                            |
+| Nov 25     |                            |
+| Dez 2      |                            |
+| Dez 9      |                            |
+| Dez 16     |                            |
+| ~~Dez 23~~ | *Recesso Natal e Ano Novo* |
+| ~~Dez 30~~ | *Recesso Natal e Ano Novo* |
+| ~~Jan 6~~  | *Reservado para correções* |
+
+
 | Data       | Conteúdo                       |
 |:-----------|:-------------------------------|
 | Out 1      | Atividade assíncrona           |
