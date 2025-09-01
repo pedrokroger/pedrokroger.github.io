@@ -12,12 +12,12 @@ formas da música sinfônica e sinfônico-coral.
 
 <!-- 1.5 1.5 1.5 1.5 3 1  -->
 
-| Nome                       | T1  | T2  | T3  | T4  | Art | Part | Final |
-|:---------------------------|:----|:----|:----|:----|:----|:-----|:------|
-| Alex Cerqueira Marques     | 1.5 | 1.0 | 1.5 | 1.5 | 3.0 | 1.0  | =sum  |
-| Emyle Magna Santos Barbosa | 0.7 | 1.0 | 1.5 | 1.5 | 2.5 | 0.7  | =sum  |
-| Gianmarco Turina           | 1.5 | 1.5 | 1.5 | 1.5 | 3.0 | 1.0  | =sum  |
-| Rafael Santos Alencar      | 1.5 | 1.5 | 1.5 | 1.5 | 3.0 | 1.0  | =sum  |
+| Nome | T1 | T2 | T3 | T4 | Art | Part | Final |
+|:-----|:---|:---|:---|:---|:----|:-----|:------|
+|      |    |    |    |    |     |      | =sum  |
+|      |    |    |    |    |     |      | =sum  |
+|      |    |    |    |    |     |      | =sum  |
+|      |    |    |    |    |     |      | =sum  |
 {: .collapse #notas-table}
 
 
