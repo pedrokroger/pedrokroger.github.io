@@ -62,6 +62,44 @@ situações: (Regulamento de Ensino de Graduação, Art. 134)
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda
 chamada implicará na manutenção automática e definitiva da nota zero.
 
+### Prova de Audição e Análise
+
+A parte de análise e revisão terá questões relativas a assuntos vistos em sala
+de aula.
+
+Na parte de audição das obras você deverá identificar o nome da obra, o(a)
+compositor(a), e a data aproximada da obra.
+
+Você pode ouvir as músicas no [Spotify][7], baixar individualmente nos links
+abaixo, ou baixar um arquivo zip com todas as músicas: [arquivo zip][8]
+
+1. Teresa Carreño. *Un rêve en mer, Op.28* (1868). Pianista, compositora,
+  soprano e maestra venezuelana. Conhecida internacionalmente como virtuosa do
+  piano, possuindo cerca de 75 obras para piano solo. [baixar][1]
+
+2. Clara Schumann. *Soirées musicales, op. 6, Notturno* (1835). Pianista,
+  compositora e professora de piano. Considerada uma das mais renomadas
+  pianistas da era romântica. [baixar][2]
+
+3. Carlos Gomes. *Fosca. Ahimè! Dove sono?* (1873). [baixar][3]
+
+4. Giacomo Puccini. *Suor Angelica. O sorelle in pio lavoro* (1918) [baixar][4]
+
+5. Richard Wagner. *O Crepúsculo dos deuses* (1848). [baixar][5]
+
+6. Manuel de Falla. *La vida breve: Interlúdio e Dança* (1904). [baixar][6]
+
+
+[1]: https://drive.google.com/file/d/1Lm7u2rLOOkWyHVhuMnnz8kyNgwbcDMoM/view?usp=drive_link
+[2]: https://drive.google.com/file/d/15x-8sTOrHUyVf6nVG5TRffbNqgbS6Qyq/view?usp=drive_link
+[3]: https://drive.google.com/file/d/1-gzcW4HRvi2TiWaCxWGNaE1MbY4MrukR/view?usp=drive_link
+[4]: https://drive.google.com/file/d/1qu_3q8Lq5qdiJIAJs-LyzQeOP_yC1wqu/view?usp=drive_link
+[5]: https://drive.google.com/file/d/1BNlgoCJb6uVzhfVk7jwW8A4pQSHYho75/view?usp=drive_link
+[6]: https://drive.google.com/file/d/11v_m2SaTHlKsF39nzneNWtDpHyuMhNrT/view?usp=drive_link
+[7]: https://open.spotify.com/playlist/61D0Jb6vRhtpRHCokBIGEf?si=360d38a5f8a1455e
+[8]: https://drive.google.com/file/d/1hFmf5roYSC6buBbPZDxO6dzQ4ceXx_4t/view?usp=sharing
+
+
 <!--
 ### Tópicos para os Seminários
 
@@ -78,6 +116,7 @@ os dias 9 e 16 de dezembro.
 - Compositoras mulheres entre 1850 e 1920
 - Os movimentos nacionalistas no final do século XIX e início do século XX
 -->
+
 
 ## Cronograma
 
@@ -104,4 +143,4 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Dez 16     | **Seminários**                  | Dez 18     | *Reservado para segunda chamada*    |
 | ~~Dez 23~~ | *Recesso Natal e Ano Novo*      | ~~Dez 25~~ | *Recesso Natal e Ano Novo*          |
 | ~~Dez 30~~ | *Recesso Natal e Ano Novo*      | ~~Jan 1~~  | *Recesso Natal e Ano Novo*          |
-| ~~Jan 6~~  | *Correções dados no SIGAA*      | ~~Jan 8~~  | *Entrega de Resultados (online)*    |
+| ~~Jan 6~~  | *Correções e dados no SIGAA*    | ~~Jan 8~~  | *Entrega de Resultados (online)*    |
