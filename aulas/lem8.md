@@ -31,100 +31,73 @@ formas da música sinfônica e sinfônico-coral.
 
 A avaliação final será soma de 3 notas:
 
-- Assiduidade e participação em aula: 1 ponto
-- 4 mini-trabalhos de análise: 6 pontos (1.5 pontos cada)
-- 1 trabalho sobre um tópico específico: 3 pontos
+- Assiduidade e participação em aula (2 pts)
+- 1 prova de audição e análise (2 pts)
+- 1 análise de obra (3 pts)
+- 1 seminário oral com a apresentação de um tópico (3 pts)
 
-- **Mini-trabalho 1:** Fazer uma análise harmônica dos compassos 1-41 do
-  Quarteto 1 de J. Brahms: [pdf][1] e [mp3][2]
+A nota por assiduidade será inversamente proporcional ao número de faltas,
+incluindo faltas justificadas.
 
-- **Mini-trabalho 2:** *Noite Transfigurada* foi composta em 1899 por Arnold
-  Schoenberg e é um dos primeiros exemplos de **música programática** para grupo
-  de câmara (2 violinos, 2 violas e 2 violoncellos). O mini-trabalho tem duas
-  partes:
+### Segunda Chamada
 
-  - Leia sobre a obra [nesse artigo][3] (o autor tem tem uma série de 6 artigos
-  sobre essa obra) e a [entrada da Wikipedia][4].
+{% alert %}
+O(A) estudante que faltar a qualquer das avaliações previstas terá direito à
+segunda chamada, se a requerer ao Departamento ou instância equivalente
+responsável pelo componente curricular em até 5 (cinco) dias úteis após a
+realização da avaliação em primeira chamada, comprovando-se uma das seguintes
+situações: (Regulamento de Ensino de Graduação, Art. 134)
+{% endalert %}
 
-  - Faça una análise harmônica compassos 1-21: [pdf][5] e [mp3][6]
+- direito assegurado por legislação específica;
+- motivo de saúde comprovado por atestado médico;
+- outros motivos, inclusive profissionais, a critério do(a) professor(a)
+  responsável pelo componente curricular.
 
-- **Mini-trabalho 3:** *Le Tombeau de Couperin* é uma suite para piano composta
-  entre 1914 e 1917 por M. Ravel. **Entrega dia 3 de Dezembro.**
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda
+chamada implicará na manutenção automática e definitiva da nota zero.
 
-  - Leia sobre a obra [nesse artigo][7]
-  - Faça uma análise harmônica do seguinte trecho: [pdf][8] e [mp3][9]
+<!--
+### Tópicos para os Seminários
 
-- **Mini-trabalho 4:** Faça uma análise harmônica da canção _Herr,was trägt der
-  Boden hier_ de Hugo Wolf: [pdf][10] e [mp3][11]. **Entrega dia 17 de Dezembro**
+A terceira avaliação será a apresentação de um seminário sobre um dos tópicos
+abaixo. A apresentação deverá ser individual em uma data pré-determinada entre
+os dias 9 e 16 de dezembro.
 
-[1]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.pdf
-[2]: https://docs.pkroger.com/Brahms%20Quarteto%201%20-%20Trecho.m4a
-[3]: https://euterpe.blog.br/noite-transfigurada-parte-i/
-[4]: https://en.wikipedia.org/wiki/Verkl%C3%A4rte_Nacht
-[5]: https://docs.pkroger.com/Schoenberg%20-%20Noite%20Transfigurada%20-%20Trecho.pdf
-[6]: https://docs.pkroger.com/Schoenberg%20-%20Noite%20Transfigurada%20-%20Trecho.mp3
-[7]: https://en.wikipedia.org/wiki/Le_Tombeau_de_Couperin
-[8]: https://docs.pkroger.com/Ravel%20-%20Le%20Tombeau%20de%20Couperin%20-%20Trecho.pdf
-[9]: https://docs.pkroger.com/Ravel%20-%20Le%20Tombeau%20de%20Couperin%20-%20Forlane.mp3
-[10]: https://docs.pkroger.com/Hugo%20Wolf%20Herr%20was.pdf
-[11]: https://docs.pkroger.com/Hugo%20Wolf%20Herr%20was.mp3
-
-### Tópicos para o artigo multimídia
-
-Fazer um artigo multimídia com texto, vídeo e áudio sobre um dos tópicos
-abaixos.
-
-- A Sinfonia no século XIX - Alex
-- A Ópera entre 1850 e 1910 - Emily
-- Minimalismo - Rafael
-- O Balé entre 1850 e 1920 - Gianmarco
+- A Sinfonia no século XIX
+- A Ópera entre 1850 e 1910
+- Minimalismo
+- O Balé entre 1850 e 1920
 
 - O Concerto no século XIX
 - Compositoras mulheres entre 1850 e 1920
 - Os movimentos nacionalistas no final do século XIX e início do século XX
-
+-->
 
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                   | Quinta     | Conteúdo                         |
-|:-----------|:---------------------------|:-----------|:---------------------------------|
-| ~~Set 2~~  | *Congresso da UFBA*        | ~~Set 4~~  | *Congresso da UFBA*              |
-| Set 9      | Introdução ao curso        | Set 11     |                                  |
-| Set 16     |                            | Set 18     |                                  |
-| Set 23     |                            | Set 25     |                                  |
-| Set 30     |                            | Out 2      |                                  |
-| Out 7      |                            | Out 9      |                                  |
-| Out 14     |                            | Out 16     |                                  |
-| Out 21     |                            | Out 23     |                                  |
-| ~~Out 28~~ | *Dia do servidor público*  | Out 30     |                                  |
-| Nov 4      |                            | Nov 6      |                                  |
-| Nov 11     |                            | Nov 13     |                                  |
-| Nov 18     |                            | ~~Nov 20~~ | *Dia Nacional de Zumbi*          |
-| Nov 25     |                            | Nov 27     |                                  |
-| Dez 2      |                            | Dez 4      |                                  |
-| Dez 9      |                            | Dez 11     |                                  |
-| Dez 16     |                            | Dez 18     |                                  |
-| ~~Dez 23~~ | *Recesso Natal e Ano Novo* | ~~Dez 25~~ | *Recesso Natal e Ano Novo*       |
-| ~~Dez 30~~ | *Recesso Natal e Ano Novo* | ~~Jan 1~~  | *Recesso Natal e Ano Novo*       |
-| ~~Jan 6~~  | *Reservado para correções* | ~~Jan 8~~  | *Entrega de Resultados (online)* |
-
-
-| Terça      | Conteúdo                      | Quinta     | Conteúdo                          |
-|:-----------|:------------------------------|:-----------|:----------------------------------|
-| Out 22     | Contextualização e análise    | Out 24     | Análise                           |
-| Out 29     | **Mini-trabalho 1 (1.5 pts)** | Out 31     | Análise quarteto Brahms           |
-| Nov 5      | Análise Chopin                | Nov 7      | Análise Chopin                    |
-| Nov 12     | Análise Schoenberg            | Nov 14     | **Mini-trabalho 2 (1.5 pts)**     |
-| Nov 19     | Música programática           | Nov 21     | Música programática               |
-| ~~Nov 26~~ | *Congresso da UFBA*           | ~~Nov 28~~ | *Congresso da UFBA*               |
-| Dez 3      | **Mini-trabalho 3 (1.5 pts)** | Dez 5      | Análise em sala                   |
-| Dez 10     | Análise em sala               | ~~Dez 12~~ | *Atividade assíncrona* (trabalho) |
-| ~~Dez 17~~ | ~~Reunião da Congregação~~    | Dez 19     | **Mini-trabalho 4 (1.5 pts)**     |
-| ~~Dez 24~~ | *Recesso*                     | ~~Dez 26~~ | *Recesso*                         |
-| ~~Dez 31~~ | *Recesso*                     | ~~Jan 2~~  | *Recesso*                         |
-| Jan 7      | *Orientação assíncrona*       | Jan 9      | *Orientação assíncrona*           |
-| Jan 14     | *Orientação assíncrona*       | ~~Jan 16~~ | *Lavagem do Bomfim*               |
-| Jan 21     | *Orientação assíncrona*       | Jan 23     | *Orientação assíncrona*           |
+| Terça      | Conteúdo                       | Quinta     | Conteúdo                         |
+|:-----------|:-------------------------------|:-----------|:---------------------------------|
+| ~~Set 2~~  | *Congresso da UFBA*            | ~~Set 4~~  | *Congresso da UFBA*              |
+| ~~Set 9~~  | *Matrícula*                    | Set 11     | Revisão                          |
+| Set 16     | Introdução ao curso            | Set 18     | Revisão                          |
+| Set 23     | Revisão                        | Set 25     | Revisão                          |
+| Set 30     | **Prova de Audição e Revisão** | Out 2      | Harmonia no séc. 19              |
+| Out 7      | Harmonia no séc. 19            | Out 9      | Harmonia no séc. 19              |
+| Out 14     |                                | Out 16     |                                  |
+| Out 21     |                                | Out 23     |                                  |
+| ~~Out 28~~ | *Dia do servidor público*      | Out 30     |                                  |
+| Nov 4      |                                | Nov 6      |                                  |
+| Nov 11     |                                | Nov 13     |                                  |
+| Nov 18     |                                | ~~Nov 20~~ | *Dia Nacional de Zumbi*          |
+| Nov 25     |                                | Nov 27     |                                  |
+| Dez 2      |                                | Dez 4      |                                  |
+| Dez 9      | **Seminários**                 | Dez 11     | **Seminários**                   |
+| Dez 16     | **Seminários**                 | Dez 18     | *Reservado para segunda chamada* |
+| ~~Dez 23~~ | *Recesso Natal e Ano Novo*     | ~~Dez 25~~ | *Recesso Natal e Ano Novo*       |
+| ~~Dez 30~~ | *Recesso Natal e Ano Novo*     | ~~Jan 1~~  | *Recesso Natal e Ano Novo*       |
+| ~~Jan 6~~  | *Reservado para correções*     | ~~Jan 8~~  | *Entrega de Resultados (online)* |
+|            | *e atualização do SIGAA*       |            |                                  |

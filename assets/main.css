@@ -34,3 +34,11 @@ table {
   font-size: 1.2rem;
   color: #cc551b;
 }
+
+
+body {
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}

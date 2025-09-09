@@ -129,23 +129,23 @@ entre os dias 1 e 10 de Julho.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                                       | Quinta     | Conteúdo                                              |
-|:-----------|:-----------------------------------------------|:-----------|:------------------------------------------------------|
-| Mar 25     |                                                | Mar 27     | Introdução ao curso e revisão                         |
-| Abr 1      | Revisão e análise                              | Abr 3      | Revisão e análise                                     |
-| Abr 8      | Revisão e análise                              | Abr 10     | Revisão e análise                                     |
-| Abr 15     | Revisão e análise                              | ~~Abr 17~~ | ~~Semana Santa~~                                      |
-| Abr 22     | Revisão e análise                              | ~~Abr 24~~ | ~~EMUS Interditada~~                                  |
-| Abr 29     | **Prova de audição e revisão**                 | ~~Mai 1~~  | ~~Dia do Trabalho~~                                   |
-| Mai 6      | Correção da prova & Introdução ao modalismo    | Mai 8      | Modalismo vs tonalidade                               |
-| Mai 13     | Análise de obras                               | Mai 15     | Análise de obras                                      |
-| Mai 20     | *Tirar dúvidas trabalho (opcional)*            | Mai 22     | *Tirar dúvidas trabalho (opcional)*                   |
-| Mai 27     | **Trabalho de Análise**                        | Mai 29     | **Trabalho de Análise**                               |
-| Jun 3      | **Trabalho de Análise**                        | Jun 5      | **Trabalho de Análise**                               |
-| Jun 10     | **Trabalho de Análise**                        | Jun 12     | **Trabalho de Análise**                               |
-| Jun 17     | *Tirar dúvidas seminários*                     | ~~Jun 19~~ | ~~Corpus Christi~~                                    |
-| ~~Jun 24~~ | ~~São João~~                                   | ~~Jun 26~~ | *Trabalho assíncrono (remoto)*                        |
-| ~~Jul 1~~  | *Trabalho assíncrono (remoto)*                 | Jul 3      | *Tirar dúvidas seminários*                            |
-| Jul 8      | **Seminários** (Camila & Roberto, Eliel)       | Jul 10     | **Seminários** (Daniel & Vicente)                     |
-| Jul 15     | **Seminários** (Guilherme, Marcos & Jaqueline) | Jul 17     | **Seminários** (Everaldo & Mateus, Victor & Leonardo) |
-| Jul 22     | *Reservado para correções (sem aula)*          | Jul 24     | *Entrega de resultados (online)*                      |
+| Terça      | Conteúdo                              | Quinta     | Conteúdo                            |
+|:-----------|:--------------------------------------|:-----------|:------------------------------------|
+| Mar 25     |                                       | Mar 27     | Introdução ao curso e revisão       |
+| Abr 1      | Revisão e análise                     | Abr 3      | Revisão e análise                   |
+| Abr 8      | Revisão e análise                     | Abr 10     | Revisão e análise                   |
+| Abr 15     | Revisão e análise                     | ~~Abr 17~~ | ~~Semana Santa~~                    |
+| Abr 22     | Revisão e análise                     | ~~Abr 24~~ | ~~EMUS Interditada~~                |
+| Abr 29     | **Prova de audição e revisão**        | ~~Mai 1~~  | ~~Dia do Trabalho~~                 |
+| Mai 6      | Introdução ao modalismo               | Mai 8      | Modalismo vs tonalidade             |
+| Mai 13     | Análise de obras                      | Mai 15     | Análise de obras                    |
+| Mai 20     | *Tirar dúvidas trabalho (opcional)*   | Mai 22     | *Tirar dúvidas trabalho (opcional)* |
+| Mai 27     | **Trabalho de Análise**               | Mai 29     | **Trabalho de Análise**             |
+| Jun 3      | **Trabalho de Análise**               | Jun 5      | **Trabalho de Análise**             |
+| Jun 10     | **Trabalho de Análise**               | Jun 12     | **Trabalho de Análise**             |
+| Jun 17     | *Tirar dúvidas seminários*            | ~~Jun 19~~ | ~~Corpus Christi~~                  |
+| ~~Jun 24~~ | ~~São João~~                          | ~~Jun 26~~ | *Trabalho assíncrono (remoto)*      |
+| ~~Jul 1~~  | *Trabalho assíncrono (remoto)*        | Jul 3      | *Tirar dúvidas seminários*          |
+| Jul 8      | **Seminários**                        | Jul 10     | **Seminários**                      |
+| Jul 15     | **Seminários**                        | Jul 17     | **Seminários**                      |
+| Jul 22     | *Reservado para correções (sem aula)* | Jul 24     | *Entrega de resultados (online)*    |
