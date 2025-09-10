@@ -13,7 +13,7 @@ entregar um pdf da partitura com mp3 e um pdf da monografia. A obra deverá ter 
 duração mínima de 14 minutos.
 
 {% alert %}
-A obra final e monografia devem ser entregues até <b>16 de janeiro.</b>
+A obra final e monografia devem ser entregues até <b>27 de novembro.</b>
 {% endalert %}
 
 ## Formação da Orquestra
