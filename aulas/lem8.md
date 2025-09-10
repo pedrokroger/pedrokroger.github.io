@@ -9,9 +9,6 @@ formas da música sinfônica e sinfônico-coral.
 ## Notas
 
 {% notas %}
-
-<!-- 1.5 1.5 1.5 1.5 3 1  -->
-
 | Nome                 | Pres | Prova | Análise | Seminário | Final |
 |:---------------------|:-----|:------|:--------|:----------|:------|
 | Daniel Lopes         |      |       |         |           | =sum  |
@@ -21,7 +18,6 @@ formas da música sinfônica e sinfônico-coral.
 | Roberto José Santana |      |       |         |           | =sum  |
 | Vicente Sanches      |      |       |         |           | =sum  |
 {: .collapse #notas-table}
-
 
 ## Materiais
 

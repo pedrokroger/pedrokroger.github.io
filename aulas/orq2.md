@@ -10,12 +10,9 @@ orquestra do século XX. Noções de Orquestração e técnicas de redução, be
 estudo analítico das texturas orquestrais, com audição de obras representativas
 desde o Barroco até o século XX. Continuação de Instrumentação e Orquestração I.
 
-## Avaliação
-
-A avaliação final será soma de 3 trabalhos de orquestração orientados.
-
 ## Notas
 
+{% notas %}
 | Nome | T1 | T2 | T3 | Final |
 |:-----|:---|:---|:---|:------|
 |      |    |    |    | =sum  |
@@ -24,7 +21,21 @@ A avaliação final será soma de 3 trabalhos de orquestração orientados.
 {: #notas-table}
 
 
-## Trabalhos
+## Avaliação
+
+A avaliação final será soma de uma prova e 3 trabalhos de orquestração
+orientados. A prova será composta de conteúdo do primeiro semestre, incluindo:
+
+- natureza dos instrumentos (âmbito, registro)
+- transposição e instrumentos transpositores
+- tipos de textura
+
+e terá uma parte de audição onde você deverá identificar as seguintes obras e
+compositores(as):
+
+
+<!--
+### Trabalhos
 
 - **Atividade assíncrona 1**: A composição *Os Planetas* de Gustav Holst foi
   composta entre 1914 e 1917 e influenciou a orquestração e composição modernas
@@ -33,8 +44,6 @@ A avaliação final será soma de 3 trabalhos de orquestração orientados.
   - Observe cuidadosamente a instrumentação listada na 2a página
   - Ouça o trecho selecionado com a partitura, observando o uso dos metais e uso do ostinato
   - Observe o uso de efeitos como surdina nos metais e *col legno* nas cordas
-
-<br/>
 
 - **Trabalho 1** (3 pontos): Faça uma redução analítica dos sopros (excluindo
     percussão, harpas e cordas) dos compassos 8-16, 25-32 e 40 (tutti com II de
@@ -73,14 +82,7 @@ A avaliação final será soma de 3 trabalhos de orquestração orientados.
 
   - Você deverá entregar um pdf com a redução, um mp3 e o parágrafo com a
     analise em pdf.
-
-[1]: https://docs.pkroger.com/Holst%20-%20Os%20Planetas%20-%20Marte%20-%20Trecho.pdf
-[2]: https://docs.pkroger.com/Holst%20-%20Os%20Planetas%20-%20Marte%20-%20Trecho.mp3
-[3]: https://docs.pkroger.com/Chopin%20Preludio%206.pdf
-[4]: https://docs.pkroger.com/Chopin%20Preludio%206.mp3
-[5]: https://docs.pkroger.com/Korsakov%20-%20Sinfonia%201.pdf
-[6]: https://docs.pkroger.com/Korsakov%20-%20Sinfonia%201.mp3
-[7]: https://docs.pkroger.com/Korsakov%20Exemplo.pdf
+-->
 
 ## Materiais
 
@@ -88,49 +90,29 @@ A avaliação final será soma de 3 trabalhos de orquestração orientados.
 - [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
 - [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
 
+
 ## Cronograma
 
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Data       | Conteúdo                   |
-|:-----------|:---------------------------|
-| Set 2      | *Congresso da UFBA*        |
-| Set 9      |                            |
-| Set 16     |                            |
-| Set 23     |                            |
-| Set 30     |                            |
-| Out 7      |                            |
-| Out 14     |                            |
-| ~~Out 28~~ | *Dia do servidor público*  |
-| Nov 4      |                            |
-| Nov 11     |                            |
-| Nov 18     |                            |
-| Nov 25     |                            |
-| Dez 2      |                            |
-| Dez 9      |                            |
-| Dez 16     |                            |
-| ~~Dez 23~~ | *Recesso Natal e Ano Novo* |
-| ~~Dez 30~~ | *Recesso Natal e Ano Novo* |
-| ~~Jan 6~~  | *Reservado para correções* |
-
-
-| Data       | Conteúdo                       |
-|:-----------|:-------------------------------|
-| Out 1      | Atividade assíncrona           |
-| ~~Out 8~~  | *Seminários internacionais*    |
-| ~~Out 15~~ | *Seminários internacionais*    |
-| Out 22     | Introdução ao curso e Metais   |
-| Out 29     | Metais                         |
-| Nov 5      | **Trabalho 1**                 |
-| Nov 12     | Madeiras, metais e cordas      |
-| Nov 19     | Madeiras, metais e cordas      |
-| ~~Nov 26~~ | *Congresso da UFBA*            |
-| Dez 3      | Percussão e teclados           |
-| Dez 10     | **Trabalho 2**                 |
-| ~~Dez 17~~ | ~~Reunião Congregação~~        |
-| Jan 7      | Percussão e teclados           |
-| Jan 14     | Análise de trechos             |
-| Jan 21     | **Trabalho 3**                 |
-| Jan 28     | *Reservado para 2a Chamada*    |
-| Fev 4      | *Reservado para visita do MEC* |
+| Data       | Conteúdo                             |
+|:-----------|:-------------------------------------|
+| ~~Set 2~~  | *Congresso da UFBA*                  |
+| ~~Set 9~~  | *Ajustes na matrícula*               |
+| Set 16     | Introdução e revisão                 |
+| Set 23     | Revisão                              |
+| Set 30     | **Prova de audição e revisão**       |
+| Out 7      | Instrumentos de metais               |
+| Out 14     | Instrumentos de metais               |
+| ~~Out 28~~ | *Dia do servidor público*            |
+| Nov 4      | **Trabalho 1**                       |
+| Nov 11     | Instrumentos de metais               |
+| Nov 18     | Orquestração de madeiras e cordas    |
+| Nov 25     | **Trabalho 2**                       |
+| Dez 2      | Instrumentos de percussão e teclados |
+| Dez 9      | Instrumentos de percussão e teclados |
+| Dez 16     | **Trabalho 3**                       |
+| ~~Dez 23~~ | *Recesso Natal e Ano Novo*           |
+| ~~Dez 30~~ | *Recesso Natal e Ano Novo*           |
+| ~~Jan 6~~  | *Correções e dados no SIGAA*         |
