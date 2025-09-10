@@ -16,27 +16,6 @@ duração mínima de 14 minutos.
 A obra final e monografia devem ser entregues até <b>16 de janeiro.</b>
 {% endalert %}
 
-### Marina
-
-- O relatório está excelente.
-- A diversidade de sonoridades e maneira de desenvolvimento do material inicial estão ótimos.
-- A manutenção do andamento nos primeiros 6 minutos prejudica o discurso.
-- A orquestração parece resultar em vazios em alguns pontos.
-- O trabalho rítmico e criação do clímax estão ótimos.
-
-### Alex
-
-- O relatório está bom.
-- Boa orquestração.
-- A dinâmica das mudanças de andamento dão boa diversidade à obra.
-- O único aspecto negativo é o uso de alguns recursos clichê, lembrando o que se faz em Hollywood. Por exemplo, orquestração clássica no início, seção modal no meio, empréstimo modal com iv menor.
-
-### Leonardo
-
-- Bom uso da orquestra e coro.
-- Dinâmica entre sonoridades mais e menos "lúdicas" ótima.
-- Demonstra habilidade em manter o interesse do ouvinte.
-
 ## Formação da Orquestra
 
 A obra deverá ter seguinte formação mínima, mas você pode incluir mais
@@ -80,13 +59,13 @@ instrumentos se desejar:
 
 A monografia será trabalhada nas aulas de composição.
 
-- [Monografia de Marcos Sampaio][1]
-- [Monografia de Rebecca Gallinari][2]
-- [Template da Monografia][3]
 
-[1]: https://docs.pkroger.com/Monografia%20Marcos.pdf
-[2]: https://docs.pkroger.com/Monografia%20Rebecca.pdf
-[3]: https://docs.pkroger.com/Modelo%20Monografia.docx
+- [Monografia de Rebecca Gallinari][2]
+- [Modelo da Monografia][3]
+
+[1]: https://www.icloud.com/iclouddrive/0eb2fV0vh_mh-VoIioGq-pvyA
+[2]: https://www.icloud.com/iclouddrive/028K4RWG0lA0ZC0d540OybYqA#Monografia_Rebecca
+[3]: https://www.icloud.com/iclouddrive/00693UKcLaSE2HZFjZsa96syg#Modelo_Monografia
 
 
 ## Cronograma
@@ -97,36 +76,21 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Data       | Conteúdo                            |
 |:-----------|:------------------------------------|
 | Set 4      | *Congresso da UFBA*                 |
-| Set 11     |                                     |
-| Set 18     |                                     |
-| Set 25     |                                     |
-| Out 2      |                                     |
-| Out 9      |                                     |
-| Out 16     |                                     |
-| Out 23     |                                     |
-| Out 30     |                                     |
-| Nov 6      |                                     |
-| Nov 13     |                                     |
-| Nov 20     |                                     |
+| Set 11     | Acompanhamento da composição        |
+| Set 18     | Acompanhamento da composição        |
+| Set 25     | Acompanhamento da composição        |
+| Out 2      | Acompanhamento da composição        |
+| Out 9      | Acompanhamento da composição        |
+| Out 16     | Acompanhamento da composição        |
+| Out 23     | Acompanhamento da composição        |
+| Out 30     | Acompanhamento da composição        |
+| Nov 6      | Acompanhamento da composição        |
+| Nov 13     | Acompanhamento da composição        |
+| ~~Nov 20~~ | *Dia da Consciência Negra*          |
 | Nov 27     | **Entrega do trabalho final**       |
 | Dez 4      | *Banca avalia trabalhos* (sem aula) |
 | Dez 11     | *Banca avalia trabalhos* (sem aula) |
 | Dez 18     | *Banca avalia trabalhos* (sem aula) |
-| ~~Dez 25~~ | *Recesso Natal e Ano Novo*          |
-| ~~Jan 1~~  | *Recesso Natal e Ano Novo*          |
+| ~~Dez 25~~ | *Natal*                             |
+| ~~Jan 1~~  | *Ano Novo*                          |
 | ~~Jan 8~~  | *Entrega de Resultados (online)*    |
-
-| Data       | Conteúdo                            |
-|:-----------|:------------------------------------|
-| Out 24     | **Composição 8 minutos**            |
-| Out 31     | **Composição 9 minutos**            |
-| Nov 7      | **Composição 10 minutos**           |
-| Nov 14     | Acompanhamento da composição        |
-| Nov 21     | **Composição 11 minutos**           |
-| ~~Nov 28~~ | _Congresso da UFBA_                 |
-| Dez 5      | **Composição 12 minutos**           |
-| ~~Dez 12~~ | *Atividade assíncrona (13 minutos)* |
-| Dez 19     | **Composição 14 minutos**           |
-| Jan 9      | Acompanhamento da Monografia        |
-| ~~Jan 16~~ | ~~Lavagem do Bomfim~~               |
-| Jan 17     | (email)                             |

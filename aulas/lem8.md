@@ -136,7 +136,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | ~~Out 28~~ | *Dia do servidor público*       | Out 30     | *Tirar dúvidas trabalho (opcional)* |
 | Nov 4      | **Trabalho de Análise**         | Nov 6      | **Trabalho de Análise**             |
 | Nov 11     | **Trabalho de Análise**         | Nov 13     | **Trabalho de Análise**             |
-| Nov 18     | Música programática             | ~~Nov 20~~ | *Dia Nacional de Zumbi*             |
+| Nov 18     | Música programática             | ~~Nov 20~~ | *Dia da Consciência Negra*          |
 | Nov 25     | Textura como material principal | Nov 27     | Análise de obras                    |
 | Dez 2      | Harmonia como camadas           | Dez 4      | Análise de obras                    |
 | Dez 9      | **Seminários**                  | Dez 11     | **Seminários**                      |
