@@ -10,6 +10,7 @@ orquestra do século XX. Noções de Orquestração e técnicas de redução, be
 estudo analítico das texturas orquestrais, com audição de obras representativas
 desde o Barroco até o século XX. Continuação de Instrumentação e Orquestração I.
 
+
 ## Notas
 
 {% notas %}
@@ -22,17 +23,73 @@ desde o Barroco até o século XX. Continuação de Instrumentação e Orquestra
 | Renato Alves Da Silva Filho |       |    |    |    | =sum  |
 {: .collapse #notas-table}
 
+
 ## Avaliação
 
-A avaliação final será soma de uma prova e 3 trabalhos de orquestração
-orientados. A prova será composta de conteúdo do primeiro semestre, incluindo:
+A avaliação final será a soma de 4 notas:
+
+- Assiduidade e participação em aula (2 pts)
+- 1 prova de audição e revisão (2 pts)
+- 3 trabalhos de orquestração orientados (2 pts cada)
+
+<!-- 2.0/12 -->
+A nota por assiduidade será inversamente proporcional ao número de faltas
+(excluindo apenas direito assegurado em legislação ou motivo de saúde comprovado
+por atestado médico). Cada falta corresponderá a uma perda de 0.17 pontos (2.0/número
+de aulas).
+
+### Segunda Chamada
+
+{% alert %}
+O(A) estudante que faltar a qualquer das avaliações previstas terá direito à
+segunda chamada, se a requerer ao Departamento ou instância equivalente
+responsável pelo componente curricular em até 5 (cinco) dias úteis após a
+realização da avaliação em primeira chamada, comprovando-se uma das seguintes
+situações: (Regulamento de Ensino de Graduação, Art. 134)
+{% endalert %}
+
+- direito assegurado por legislação específica;
+- motivo de saúde comprovado por atestado médico;
+- outros motivos, inclusive profissionais, a critério do(a) professor(a)
+  responsável pelo componente curricular.
+
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda
+chamada implicará na manutenção automática e definitiva da nota zero.
+
+
+### Prova de Audição e Análise
+
+A parte de análise e revisão terá questões relativas a assuntos vistos em sala
+de aula em Orquestração I, incluindo:
 
 - natureza dos instrumentos (âmbito, registro)
 - transposição e instrumentos transpositores
 - tipos de textura
 
-e terá uma parte de audição onde você deverá identificar as seguintes obras e
-compositores(as):
+Na parte de audição das obras você deverá identificar o nome da obra, o(a)
+compositor(a), e a data aproximada da obra.
+
+Você pode ouvir as músicas no [Spotify][10], baixar individualmente nos links
+abaixo, ou baixar um arquivo zip com todas as músicas: [arquivo zip][11]
+
+1. L. V. Beethoven, Sinfonia no. 8, Mov I. 1812 [baixar][1]
+
+2. F. Liszt, Prometheus. 1850 [baixar][2]
+
+3. H. Villa-Lobos, Sinfonia 1, "O Imprevisto", Mov. I. 1916 [baixar][3]
+
+4. A. Ginastera, Estancia Suite, Mov IV. 1952 [baixar][4]
+
+5. M. Ravel, Shéhérazade: Ouverture de Féérie. 1898 [baixar][5]
+
+[1]: https://drive.google.com/file/d/1OIeXiR45eQeeEmRgP8mxF0kDLkgNpEJV/view?usp=drive_link
+[2]: https://drive.google.com/file/d/1UuP0S1AQQj9PjDqn3trZ8jsKrkvMg-Ot/view?usp=drive_link
+[3]: https://drive.google.com/file/d/1ZyyNM7Bhw7iZE6rSR6QIe9oWQmKjYUWx/view?usp=drive_link
+[4]: https://drive.google.com/file/d/1UIYCJnf7zP6zEkQxupGd6PTbI08BUxxe/view?usp=drive_link
+[5]: https://drive.google.com/file/d/1piHbya2GobMAHxwycqgcZNliaFkLxCio/view?usp=drive_link
+
+[10]: https://open.spotify.com/playlist/1lijQXGfKTvrNE3QAtlL8a?si=1ab7df764e674f24
+[11]: https://drive.google.com/file/d/1R-TtEoAXoZNaZbrD8Wcmn_FtBhyuzRNy/view?usp=drive_link
 
 
 <!--
@@ -88,8 +145,11 @@ compositores(as):
 ## Materiais
 
 - [Anna’s Archive](https://annas-archive.org)
-- [Termos musicais em diversos idiomas](https://web.library.yale.edu/cataloging/music/instname)
-- [Glossary of Terminology from Mahler Symphonies](https://www.orchestralibrary.com/reftables/mahler2gloss.html)
+- [Termos musicais em diversos idiomas][30]
+- [Glossary of Terminology from Mahler Symphonies][31]
+
+[30]: https://web.library.yale.edu/cataloging/music/instname
+[31]: https://www.orchestralibrary.com/reftables/mahler2gloss.html
 
 
 ## Cronograma

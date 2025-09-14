@@ -27,7 +27,7 @@ formas da música sinfônica e sinfônico-coral.
 
 ## Avaliação
 
-A avaliação final será soma de 4 notas:
+A avaliação final será a soma de 4 notas:
 
 - Assiduidade e participação em aula (2 pts)
 - 1 prova de audição e análise (2 pts)
@@ -37,7 +37,7 @@ A avaliação final será soma de 4 notas:
 <!-- 2.0/25 -->
 A nota por assiduidade será inversamente proporcional ao número de faltas
 (excluindo apenas direito assegurado em legislação ou motivo de saúde comprovado
-por atestado médico). Cada falta corresponderá a uma perda de 0.08 (2.0/número
+por atestado médico). Cada falta corresponderá a uma perda de 0.08 pontos (2.0/número
 de aulas).
 
 ### Segunda Chamada
