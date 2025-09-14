@@ -40,6 +40,10 @@ A nota por assiduidade será inversamente proporcional ao número de faltas
 por atestado médico). Cada falta corresponderá a uma perda de 0.08 pontos (2.0/número
 de aulas).
 
+### Envio de Trabalhos
+
+Por razões de segurança não serão mais aceitos trabalhos em *pen drive*. Os trabalhos deverão unicamente ser entregues via email para [pedro.kroger@gmail.com](mailto:pedro.kroger@gmail.com) ou na sala de aula por algum meio sem fio como [LocalSend]({% link docs/localsend.md %}).
+
 ### Segunda Chamada
 
 {% alert %}
