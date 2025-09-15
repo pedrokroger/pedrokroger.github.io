@@ -44,25 +44,6 @@ de aulas).
 Por razões de segurança não serão mais aceitos trabalhos em *pen drive*. Os trabalhos deverão unicamente ser entregues via email para [pedro.kroger@gmail.com](mailto:pedro.kroger@gmail.com) ou na sala de aula por algum meio sem fio como [LocalSend]({% link docs/localsend.md %}).
 
 
-### Segunda Chamada
-
-{% alert %}
-O(A) estudante que faltar a qualquer das avaliações previstas terá direito à
-segunda chamada, se a requerer ao Departamento ou instância equivalente
-responsável pelo componente curricular em até 5 (cinco) dias úteis após a
-realização da avaliação em primeira chamada, comprovando-se uma das seguintes
-situações: (Regulamento de Ensino de Graduação, Art. 134)
-{% endalert %}
-
-- direito assegurado por legislação específica;
-- motivo de saúde comprovado por atestado médico;
-- outros motivos, inclusive profissionais, a critério do(a) professor(a)
-  responsável pelo componente curricular.
-
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda
-chamada implicará na manutenção automática e definitiva da nota zero.
-
-
 ### Prova de Audição e Análise
 
 A parte de análise e revisão terá questões relativas a assuntos vistos em sala
@@ -98,7 +79,25 @@ abaixo, ou baixar um arquivo zip com todas as músicas: [arquivo zip][11]
 [11]: https://drive.google.com/file/d/1R-TtEoAXoZNaZbrD8Wcmn_FtBhyuzRNy/view?usp=drive_link
 
 
-<!--
+### Segunda Chamada
+
+{% alert %}
+O(A) estudante que faltar a qualquer das avaliações previstas terá direito à
+segunda chamada, se a requerer ao Departamento ou instância equivalente
+responsável pelo componente curricular em até 5 (cinco) dias úteis após a
+realização da avaliação em primeira chamada, comprovando-se uma das seguintes
+situações: (Regulamento de Ensino de Graduação, Art. 134)
+{% endalert %}
+
+- direito assegurado por legislação específica;
+- motivo de saúde comprovado por atestado médico;
+- outros motivos, inclusive profissionais, a critério do(a) professor(a)
+  responsável pelo componente curricular.
+
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda
+chamada implicará na manutenção automática e definitiva da nota zero.
+
+<!-- Trabalhos
 ### Trabalhos
 
 - **Atividade assíncrona 1**: A composição *Os Planetas* de Gustav Holst foi

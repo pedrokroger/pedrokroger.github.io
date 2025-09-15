@@ -19,6 +19,7 @@ formas da música sinfônica e sinfônico-coral.
 | Vicente Sanches      |      |       |         |           | =sum  |
 {: .collapse #notas-table}
 
+
 ## Materiais
 
 - [Anna’s Archive](https://annas-archive.org)
@@ -40,27 +41,11 @@ A nota por assiduidade será inversamente proporcional ao número de faltas
 por atestado médico). Cada falta corresponderá a uma perda de 0.08 pontos (2.0/número
 de aulas).
 
+
 ### Envio de Trabalhos
 
 Por razões de segurança não serão mais aceitos trabalhos em *pen drive*. Os trabalhos deverão unicamente ser entregues via email para [pedro.kroger@gmail.com](mailto:pedro.kroger@gmail.com) ou na sala de aula por algum meio sem fio como [LocalSend]({% link docs/localsend.md %}).
 
-### Segunda Chamada
-
-{% alert %}
-O(A) estudante que faltar a qualquer das avaliações previstas terá direito à
-segunda chamada, se a requerer ao Departamento ou instância equivalente
-responsável pelo componente curricular em até 5 (cinco) dias úteis após a
-realização da avaliação em primeira chamada, comprovando-se uma das seguintes
-situações: (Regulamento de Ensino de Graduação, Art. 134)
-{% endalert %}
-
-- direito assegurado por legislação específica;
-- motivo de saúde comprovado por atestado médico;
-- outros motivos, inclusive profissionais, a critério do(a) professor(a)
-  responsável pelo componente curricular.
-
-A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda
-chamada implicará na manutenção automática e definitiva da nota zero.
 
 ### Prova de Audição e Análise
 
@@ -99,6 +84,24 @@ abaixo, ou baixar um arquivo zip com todas as músicas: [arquivo zip][8]
 [7]: https://open.spotify.com/playlist/61D0Jb6vRhtpRHCokBIGEf?si=360d38a5f8a1455e
 [8]: https://drive.google.com/file/d/1hFmf5roYSC6buBbPZDxO6dzQ4ceXx_4t/view?usp=sharing
 
+
+### Segunda Chamada
+
+{% alert %}
+O(A) estudante que faltar a qualquer das avaliações previstas terá direito à
+segunda chamada, se a requerer ao Departamento ou instância equivalente
+responsável pelo componente curricular em até 5 (cinco) dias úteis após a
+realização da avaliação em primeira chamada, comprovando-se uma das seguintes
+situações: (Regulamento de Ensino de Graduação, Art. 134)
+{% endalert %}
+
+- direito assegurado por legislação específica;
+- motivo de saúde comprovado por atestado médico;
+- outros motivos, inclusive profissionais, a critério do(a) professor(a)
+  responsável pelo componente curricular.
+
+A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda
+chamada implicará na manutenção automática e definitiva da nota zero.
 
 <!--
 ### Tópicos para os Seminários
