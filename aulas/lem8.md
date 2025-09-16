@@ -12,8 +12,10 @@ formas da música sinfônica e sinfônico-coral.
 | Nome                 | Pres | Prova | Análise | Seminário | Final |
 |:---------------------|:-----|:------|:--------|:----------|:------|
 | Daniel Lopes         |      |       |         |           | =sum  |
+| Iuri Nery Conceição  |      |       |         |           | =sum  |
 | Jaqueline Cardoso    |      |       |         |           | =sum  |
 | Leonardo Rocha       |      |       |         |           | =sum  |
+| Marcos William Santos |     |       |         |           | =sum  |
 | Rafael Espinheira    |      |       |         |           | =sum  |
 | Roberto José Santana |      |       |         |           | =sum  |
 | Vicente Sanches      |      |       |         |           | =sum  |
