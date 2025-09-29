@@ -1,6 +1,6 @@
 ---
 title: MUSD77 - Estágio Supervisionado
-showindex: true
+showindex: false
 ---
 
 Essa é uma atividade sem aulas presenciais. O discente deverá trabalhar em
@@ -13,7 +13,7 @@ uma análise, estudo ou composição.
 
 ## Avaliação
 
-Entrega de um resumo até **17 de Julho** descrevendo a atividade efetuada.
+Entrega de um resumo até **18 de Dezembro** descrevendo a atividade efetuada.
 Pode-se discutir e consultar o orientador sobre a natureza da atividade no
 decorrer do semestre, e orientações presenciais ou por email podem ser marcadas
 a partir da necessidade indivudual do aluno.
