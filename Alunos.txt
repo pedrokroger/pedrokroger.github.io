@@ -1,6 +1,7 @@
 
 # LEM 8
 
+Camila Ceuta Ramos
 Daniel Lopes
 Iuri Nery Conceição
 Jaqueline Cardoso
@@ -9,6 +10,7 @@ Rafael Espinheira
 Roberto José Santana
 Vicente Sanches
 
+camilacrs@ufba.br
 dnl.lps19@gmail.com
 jaquejobson1@gmail.com
 santiagodere@hotmail.com
@@ -34,7 +36,7 @@ renatoasf05@gmail.com
 # Seminarios
 
 Gabriel Jose Vieira Carvalho Maia
-Curso: CIÊNCIA E TECNOLOGIA/IHAC
+Curso: Ciência E Tecnologia/IHAC
 
 Rodrigo Curvelo Jacobina De Brito
 Victor Vogel Bartilotti Anselmo
