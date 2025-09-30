@@ -16,11 +16,11 @@ desde o Barroco até o século XX. Continuação de Instrumentação e Orquestra
 {% notas %}
 | Nome                        | Prova | T1 | T2 | T3 | Final |
 |:----------------------------|:------|:---|:---|:---|:------|
-| Francisco de Assis          |       |    |    |    | =sum  |
-| Gabriel Benigno Santos      |       |    |    |    | =sum  |
-| Giorno Nogueira             |       |    |    |    | =sum  |
-| Izã Teixeira Santos         |       |    |    |    | =sum  |
-| Renato Alves Da Silva Filho |       |    |    |    | =sum  |
+| Francisco de Assis          | 0.9   |    |    |    | =sum  |
+| Gabriel Benigno Santos      | 1.8   |    |    |    | =sum  |
+| Giorno Nogueira             | 2.0   |    |    |    | =sum  |
+| Izã Teixeira Santos         | 1.0   |    |    |    | =sum  |
+| Renato Alves Da Silva Filho | 1.8   |    |    |    | =sum  |
 {: .collapse #notas-table}
 
 
