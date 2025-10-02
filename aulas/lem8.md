@@ -136,7 +136,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Set 23     | Revisão                         | Set 25     | Revisão                             |
 | Set 30     | **Prova de Audição e Revisão**  | Out 2      | Harmonia no séc. 19                 |
 | Out 7      | Harmonia no séc. 19             | Out 9      | Harmonia no séc. 19                 |
-| Out 14     | Análise de obras                | Out 16     | Análise de obras                    |
+| Out 14     | **Prova segunda chamada**       | Out 16     | Análise de obras                    |
 | Out 21     | Análise de obras                | Out 23     | Análise de obras                    |
 | ~~Out 28~~ | *Dia do servidor público*       | Out 30     | *Tirar dúvidas trabalho (opcional)* |
 | Nov 4      | **Trabalho de Análise**         | Nov 6      | **Trabalho de Análise**             |
