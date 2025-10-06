@@ -175,6 +175,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Set 30     | **Prova de audição e revisão**       |
 | Out 7      | Instrumentos de metais               |
 | Out 14     | Instrumentos de metais               |
+| Out 21     | Instrumentos de metais               |
 | ~~Out 28~~ | *Dia do servidor público*            |
 | Nov 4      | **Trabalho 1**                       |
 | Nov 11     | Instrumentos de metais               |
