@@ -44,6 +44,7 @@ de aulas).
 Por razões de segurança não serão mais aceitos trabalhos em *pen drive*. Os trabalhos deverão unicamente ser entregues via email para [pedro.kroger@gmail.com](mailto:pedro.kroger@gmail.com) ou na sala de aula por algum meio sem fio como [LocalSend]({% link docs/localsend.md %}).
 
 
+<!--
 ### Prova de Audição e Análise
 
 A parte de análise e revisão terá questões relativas a assuntos vistos em sala
@@ -81,7 +82,7 @@ abaixo, ou baixar um arquivo zip com todas as músicas: [arquivo zip][11]
 [11]: https://drive.google.com/file/d/1R-TtEoAXoZNaZbrD8Wcmn_FtBhyuzRNy/view?usp=drive_link
 
 [15]: https://drive.google.com/file/d/1frVllfZDWGHtD4uMASZ-a8SklJy9w2oW/view?usp=sharing
-
+-->
 
 ### Segunda Chamada
 
@@ -101,25 +102,28 @@ situações: (Regulamento de Ensino de Graduação, Art. 134)
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda
 chamada implicará na manutenção automática e definitiva da nota zero.
 
-<!-- Trabalhos
+
 ### Trabalhos
 
-- **Atividade assíncrona 1**: A composição *Os Planetas* de Gustav Holst foi
-  composta entre 1914 e 1917 e influenciou a orquestração e composição modernas
-  de inúmeras maneiras. [pdf][1] e [mp3][2]
+- **Trabalho 1** (2 pontos): A composição *Os Planetas* de Gustav
+  Holst foi composta entre 1914 e 1917 e influenciou a orquestração e
+  composição modernas de inúmeras maneiras. [pdf][1] e [mp3][2]
 
-  - Observe cuidadosamente a instrumentação listada na 2a página
+  - Observe cuidadosamente a instrumentação listada
   - Ouça o trecho selecionado com a partitura, observando o uso dos metais e uso do ostinato
   - Observe o uso de efeitos como surdina nos metais e *col legno* nas cordas
 
-- **Trabalho 1** (3 pontos): Faça uma redução analítica dos sopros (excluindo
-    percussão, harpas e cordas) dos compassos 8-16, 25-32 e 40 (tutti com II de
-    ensaio) do trecho da obra *Os Planetas* visto na **atividade assíncrona 1**.
+  Faça uma redução analítica dos sopros (excluindo percussão, harpas e
+  cordas) dos compassos 8-16, 25-32 e 40 (tutti com II de ensaio).
 
-    Considere incluir todos os instrumentos (incluindo percussão, harpas e
-    cordas) na redução do c. 40 já que é útil para observar como o tutti é
-    construido.
+  Opcional: considere incluir todos os instrumentos (incluindo
+  percussão, harpas e cordas) na redução do c. 40 já que é útil para
+  observar como o tutti é construido.
 
+[1]: https://drive.google.com/file/d/12f7HqOoyCCyfB0-H22bTezjfGLecbelT/view?usp=drive_link
+[2]: https://drive.google.com/file/d/10gNoItTduFwCAhuBkS9v4Hih1DYKSjjF/view?usp=drive_link
+
+<!--
 - **Trabalho 2** (3 pontos): Orquestre o Prelúdio Op. 28 no. 6 de F. Chopin para
   orquestra contendo madeiras a 2, metais a 2 e cordas. A natureza repetitiva do
   acompanhamento permite a possibilidade de variações através do colorido
