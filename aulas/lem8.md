@@ -46,9 +46,14 @@ de aulas).
 
 ### Envio de Trabalhos
 
-Por razões de segurança não serão mais aceitos trabalhos em *pen drive*. Os trabalhos deverão unicamente ser entregues via email para [pedro.kroger@gmail.com](mailto:pedro.kroger@gmail.com) ou na sala de aula por algum meio sem fio como [LocalSend]({% link docs/localsend.md %}).
+Por razões de segurança não serão mais aceitos trabalhos em *pen
+drive*. Os trabalhos deverão unicamente ser entregues via email para
+[pedro.kroger@gmail.com](mailto:pedro.kroger@gmail.com) ou na sala de
+aula por algum meio sem fio como [LocalSend]({% link docs/localsend.md
+%}).
 
 
+<!--
 ### Prova de Audição e Análise
 
 A parte de análise e revisão terá questões relativas a assuntos vistos em sala
@@ -86,6 +91,8 @@ abaixo, ou baixar um arquivo zip com todas as músicas: [arquivo zip][8]
 [7]: https://open.spotify.com/playlist/61D0Jb6vRhtpRHCokBIGEf?si=360d38a5f8a1455e
 [8]: https://drive.google.com/file/d/1hFmf5roYSC6buBbPZDxO6dzQ4ceXx_4t/view?usp=sharing
 
+-->
+
 
 ### Segunda Chamada
 
@@ -104,6 +111,40 @@ situações: (Regulamento de Ensino de Graduação, Art. 134)
 
 A nota atribuída em segunda chamada substituirá a nota zero, e a falta à segunda
 chamada implicará na manutenção automática e definitiva da nota zero.
+
+
+### Análise de Obras
+
+Você deverá analisar um trecho da peça designada (partitura e gravação
+disponível abaixo) e apresentar oralmente o resultado da análise em
+sala de aula. A nota (3 pontos) será o resultado de 3 apresentações
+orais em sala entre os dias 4 a 13 de novembro.
+
+É esperado que você apresente a análise de 2 ou 3 sistemas em cada
+aula. Caso o seu trecho designado seja curto demais, um trecho
+suplementar será dado. Alguns trechos são mais longos e não precisam
+ser analisados em sua totalidade.
+
+Eu recomendo levar a análise em um formato gráfico como PDF para
+vermos na televisão da sala de aula.
+
+Você pode escolher uma obra (com a concordância do professor) que se
+encaixe na temática da disciplina (preferivelmente entre 1840 e 1910)
+ou escolher uma das obras sugeridas abaixo:
+
+- R. Schumann, Dichterliebe, Op.48, No.1 Im wunderschönen Monat Mai [pdf][10], [mp3][11]
+- R. Schumann, Dichterliebe, Op.48, No.7 Ich grolle nicht [pdf][12], [mp3][13]
+- F. Chopin, Noturno Op. 15, No. 3 em G menor [pdf][14], [mp3][15]
+- F. Chopin, Noturno Op. 27, No. 1 em C# menor [pdf][16], [mp3][17]
+
+[10]: https://drive.google.com/file/d/1McRRbXpVY93K2riNjPxPUnufOfVw4YsP/view?usp=drive_link
+[11]: https://drive.google.com/file/d/1OYptQIi7PR2FoWRclIxft7Cm8ogUXxpg/view?usp=drive_link
+[12]: https://drive.google.com/file/d/143fPYDiPIpDm9OaJ_5HnyBslkr4Naq_t/view?usp=drive_link
+[13]: https://drive.google.com/file/d/1R3kbfkV8ROs6lIPMHexte2FNyWVwLU7H/view?usp=drive_link
+[14]: https://drive.google.com/file/d/1GHY8pNC2-uWt_qBXwO0wSss3eLbfcn1M/view?usp=drive_link
+[15]: https://drive.google.com/file/d/1qhk3HCu-imK4sIaIhuBWBrgxbDv-oO7m/view?usp=drive_link
+[16]: https://drive.google.com/file/d/17TG4EU4xEMhlXh8zdTyAS0lcPsy_6ScV/view?usp=drive_link
+[17]: https://drive.google.com/file/d/12xpcBGlRb17OTilAKas2rw6E53Gt2ijP/view?usp=drive_link
 
 <!--
 ### Tópicos para os Seminários
