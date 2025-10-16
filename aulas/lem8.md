@@ -13,7 +13,7 @@ formas da música sinfônica e sinfônico-coral.
 |:----------------------|:-----|:------|:--------|:----------|:------|
 | Camila Ceuta Ramos    |      |       |         |           | =sum  |
 | Daniel Lopes          |      | 1.8   |         |           | =sum  |
-| Iuri Nery Conceição   |      |       |         |           | =sum  |
+| Iuri Nery Conceição   |      | 1.5   |         |           | =sum  |
 | Jaqueline Cardoso     |      | 1.4   |         |           | =sum  |
 | Marcos William Santos |      | 1.9   |         |           | =sum  |
 | Rafael Espinheira     |      | 1.4   |         |           | =sum  |
