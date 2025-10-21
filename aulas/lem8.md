@@ -134,7 +134,7 @@ ou escolher uma das obras sugeridas abaixo:
 
 - R. Schumann, Dichterliebe, Op.48, No.1 Im wunderschönen Monat Mai [pdf][10], [mp3][11]
 - R. Schumann, Dichterliebe, Op.48, No.7 Ich grolle nicht [pdf][12], [mp3][13] [Roberto]
-- F. Chopin, Noturno Op. 15, No. 3 em G menor [pdf][14], [mp3][15]
+- F. Chopin, Noturno Op. 15, No. 3 em G menor [pdf][14], [mp3][15] [Rafael]
 - F. Chopin, Noturno Op. 27, No. 1 em C# menor [pdf][16], [mp3][17]
 
 [10]: https://drive.google.com/file/d/1McRRbXpVY93K2riNjPxPUnufOfVw4YsP/view?usp=drive_link
