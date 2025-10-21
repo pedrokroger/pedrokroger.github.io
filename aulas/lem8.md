@@ -37,7 +37,7 @@ A avaliação final será a soma de 4 notas:
 - 1 análise de obra (3 pts)
 - 1 seminário oral com a apresentação de um tópico (3 pts)
 
-<!-- 2.0/25 -->
+<!-- 2.0/24 -->
 A nota por assiduidade será inversamente proporcional ao número de faltas
 (excluindo apenas direito assegurado em legislação ou motivo de saúde comprovado
 por atestado médico). Cada falta corresponderá a uma perda de 0.08 pontos (2.0/número
@@ -133,7 +133,7 @@ encaixe na temática da disciplina (preferivelmente entre 1840 e 1910)
 ou escolher uma das obras sugeridas abaixo:
 
 - R. Schumann, Dichterliebe, Op.48, No.1 Im wunderschönen Monat Mai [pdf][10], [mp3][11]
-- R. Schumann, Dichterliebe, Op.48, No.7 Ich grolle nicht [pdf][12], [mp3][13]
+- R. Schumann, Dichterliebe, Op.48, No.7 Ich grolle nicht [pdf][12], [mp3][13] [Roberto]
 - F. Chopin, Noturno Op. 15, No. 3 em G menor [pdf][14], [mp3][15]
 - F. Chopin, Noturno Op. 27, No. 1 em C# menor [pdf][16], [mp3][17]
 
