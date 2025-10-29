@@ -169,24 +169,24 @@ os dias 9 e 16 de dezembro.
 Essa é uma proposta de cronograma para o semestre. O conteúdo das aulas poderá
 ser modificado de acordo com a necessidade e eventualidade.
 
-| Terça      | Conteúdo                        | Quinta     | Conteúdo                            |
-|:-----------|:--------------------------------|:-----------|:------------------------------------|
-| ~~Set 2~~  | *Congresso da UFBA*             | ~~Set 4~~  | *Congresso da UFBA*                 |
-| ~~Set 9~~  | *Matrícula*                     | Set 11     | Revisão                             |
-| Set 16     | Introdução ao curso             | Set 18     | Revisão                             |
-| Set 23     | Revisão                         | Set 25     | Revisão                             |
-| Set 30     | **Prova de Audição e Revisão**  | Out 2      | Harmonia no séc. 19                 |
-| Out 7      | Harmonia no séc. 19             | Out 9      | Harmonia no séc. 19                 |
-| Out 14     | **Prova segunda chamada**       | Out 16     | Análise de obras                    |
-| Out 21     | Análise de obras                | Out 23     | Análise de obras                    |
-| ~~Out 28~~ | *Dia do servidor público*       | Out 30     | *Tirar dúvidas trabalho (opcional)* |
-| Nov 4      | **Trabalho de Análise**         | Nov 6      | **Trabalho de Análise**             |
-| Nov 11     | **Trabalho de Análise**         | Nov 13     | **Trabalho de Análise**             |
-| Nov 18     | Música programática             | ~~Nov 20~~ | *Dia da Consciência Negra*          |
-| Nov 25     | Textura como material principal | Nov 27     | Análise de obras                    |
-| Dez 2      | Harmonia como camadas           | Dez 4      | Análise de obras                    |
-| Dez 9      | **Seminários**                  | Dez 11     | **Seminários**                      |
-| Dez 16     | **Seminários**                  | Dez 18     | *Reservado para segunda chamada*    |
-| ~~Dez 23~~ | *Recesso Natal e Ano Novo*      | ~~Dez 25~~ | *Recesso Natal e Ano Novo*          |
-| ~~Dez 30~~ | *Recesso Natal e Ano Novo*      | ~~Jan 1~~  | *Recesso Natal e Ano Novo*          |
-| ~~Jan 6~~  | *Correções e dados no SIGAA*    | ~~Jan 8~~  | *Entrega de Resultados (online)*    |
+| Terça      | Conteúdo                        | Quinta     | Conteúdo                         |
+|:-----------|:--------------------------------|:-----------|:---------------------------------|
+| ~~Set 2~~  | *Congresso da UFBA*             | ~~Set 4~~  | *Congresso da UFBA*              |
+| ~~Set 9~~  | *Matrícula*                     | Set 11     | Revisão                          |
+| Set 16     | Introdução ao curso             | Set 18     | Revisão                          |
+| Set 23     | Revisão                         | Set 25     | Revisão                          |
+| Set 30     | **Prova de Audição e Revisão**  | Out 2      | Harmonia no séc. 19              |
+| Out 7      | Harmonia no séc. 19             | Out 9      | Harmonia no séc. 19              |
+| Out 14     | **Prova segunda chamada**       | Out 16     | Análise de obras                 |
+| Out 21     | Análise de obras                | Out 23     | Análise de obras                 |
+| ~~Out 28~~ | *Dia do servidor público*       | Out 30     | *Tirar dúvidas trabalho*         |
+| Nov 4      | **Trabalho de Análise**         | Nov 6      | **Trabalho de Análise**          |
+| Nov 11     | **Trabalho de Análise**         | Nov 13     | **Trabalho de Análise**          |
+| Nov 18     | Música programática             | ~~Nov 20~~ | *Dia da Consciência Negra*       |
+| Nov 25     | Textura como material principal | Nov 27     | Análise de obras                 |
+| Dez 2      | Harmonia como camadas           | Dez 4      | Análise de obras                 |
+| Dez 9      | **Seminários**                  | Dez 11     | **Seminários**                   |
+| Dez 16     | **Seminários**                  | Dez 18     | *Reservado para segunda chamada* |
+| ~~Dez 23~~ | *Recesso Natal e Ano Novo*      | ~~Dez 25~~ | *Recesso Natal e Ano Novo*       |
+| ~~Dez 30~~ | *Recesso Natal e Ano Novo*      | ~~Jan 1~~  | *Recesso Natal e Ano Novo*       |
+| ~~Jan 6~~  | *Correções e dados no SIGAA*    | ~~Jan 8~~  | *Entrega de Resultados (online)* |
