@@ -123,16 +123,21 @@ chamada implicará na manutenção automática e definitiva da nota zero.
 [1]: https://drive.google.com/file/d/12f7HqOoyCCyfB0-H22bTezjfGLecbelT/view?usp=drive_link
 [2]: https://drive.google.com/file/d/10gNoItTduFwCAhuBkS9v4Hih1DYKSjjF/view?usp=drive_link
 
-<!--
-- **Trabalho 2** (3 pontos): Orquestre o Prelúdio Op. 28 no. 6 de F. Chopin para
-  orquestra contendo madeiras a 2, metais a 2 e cordas. A natureza repetitiva do
-  acompanhamento permite a possibilidade de variações através do colorido
-  orquestral. Tenha cuidado especial na concepção composicional e indicação de
-  quando os instrumentos de sopro devem tocar a dois ou individualmente.
-  [pdf][3] e [mp3][4]
+- **Trabalho 2** (2 pontos): Orquestre o Prelúdio Op. 28 no. 6 de F.
+  Chopin para orquestra contendo madeiras a 2, metais a 2 e cordas. A
+  natureza repetitiva do acompanhamento permite a possibilidade de
+  variações através do colorido orquestral. Tenha cuidado especial na
+  concepção composicional e indicação de quando os instrumentos de
+  sopro devem tocar a dois ou individualmente. [pdf][3] e [mp3][4]
 
   Você deve entregar uma partitura em pdf e uma performance midi em mp3. A
   partitura deverá ter os instrumentos transpostos.
+
+[3]: https://drive.google.com/file/d/1L_fAJVWGdzKPM4oh5l7K1x6TWdFP0-my/view?usp=drive_link
+[4]: https://drive.google.com/file/d/1sYI06dyfx3mQN6YW4B7OJVLS59r6FUfB/view?usp=drive_link
+
+
+<!--
 
 - **Trabalho 3** (4 pontos): Fazer uma redução analítica dos primeiros 23
   compassos da Sinfonia 1 de N. Rimsky-Korsakov. [pdf][5] e [mp3][6]
@@ -182,11 +187,11 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Out 21     | Instrumentos de metais               |
 | ~~Out 28~~ | *Dia do servidor público*            |
 | Nov 4      | **Trabalho 1**                       |
-| Nov 11     | Instrumentos de metais               |
-| Nov 18     | Orquestração de madeiras e cordas    |
+| Nov 11     | Instrumentos de percussão e teclados |
+| Nov 18     | Instrumentos de percussão e teclados |
 | Nov 25     | **Trabalho 2**                       |
-| Dez 2      | Instrumentos de percussão e teclados |
-| Dez 9      | Instrumentos de percussão e teclados |
+| Dez 2      | Análise de obras                     |
+| Dez 9      | Análise de obras                     |
 | Dez 16     | **Trabalho 3**                       |
 | ~~Dez 23~~ | *Recesso Natal e Ano Novo*           |
 | ~~Dez 30~~ | *Recesso Natal e Ano Novo*           |
