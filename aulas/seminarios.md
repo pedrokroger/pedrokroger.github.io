@@ -19,7 +19,7 @@ digitais como o YouTube.
 ## Encontros Presenciais
 
 - 3 Outubro
-- 7 Novembro
+- 14 Novembro
 - 5 Dezembro
 
 Orientações presenciais ou por email podem ser marcadas a partir da
