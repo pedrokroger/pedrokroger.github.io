@@ -14,13 +14,13 @@ desde o Barroco até o século XX. Continuação de Instrumentação e Orquestra
 ## Notas
 
 {% notas %}
-| Nome                        | Prova | T1 | T2 | T3 | Final |
-|:----------------------------|:------|:---|:---|:---|:------|
-| Francisco de Assis          | 0.9   |    |    |    | =sum  |
-| Gabriel Benigno Santos      | 1.8   |    |    |    | =sum  |
-| Giorno Nogueira             | 2.0   |    |    |    | =sum  |
-| Izã Teixeira Santos         | 1.0   |    |    |    | =sum  |
-| Renato Alves Da Silva Filho | 1.8   |    |    |    | =sum  |
+| Nome                        | Prova | T1  | T2 | T3 | Final |
+|:----------------------------|:------|:----|:---|:---|:------|
+| Francisco de Assis          | 0.9   | 0.0 |    |    | =sum  |
+| Gabriel Benigno Santos      | 1.8   | 0.0 |    |    | =sum  |
+| Giorno Nogueira             | 2.0   | 2.0 |    |    | =sum  |
+| Izã Teixeira Santos         | 1.0   | 2.0 |    |    | =sum  |
+| Renato Alves Da Silva Filho | 1.8   | 2.0 |    |    | =sum  |
 {: .collapse #notas-table}
 
 
@@ -187,10 +187,10 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Out 21     | Instrumentos de metais               |
 | ~~Out 28~~ | *Dia do servidor público*            |
 | Nov 4      | **Trabalho 1**                       |
-| Nov 11     | Instrumentos de percussão e teclados |
+| Nov 11     | Instrumentos de metais               |
 | Nov 18     | Instrumentos de percussão e teclados |
 | Nov 25     | **Trabalho 2**                       |
-| Dez 2      | Análise de obras                     |
+| Dez 2      | Instrumentos de percussão e teclados |
 | Dez 9      | Análise de obras                     |
 | Dez 16     | **Trabalho 3**                       |
 | ~~Dez 23~~ | *Recesso Natal e Ano Novo*           |
