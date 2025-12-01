@@ -14,13 +14,13 @@ desde o Barroco até o século XX. Continuação de Instrumentação e Orquestra
 ## Notas
 
 {% notas %}
-| Nome                        | Prova | T1  | T2 | T3 | Final |
-|:----------------------------|:------|:----|:---|:---|:------|
-| Francisco de Assis          | 0.9   | 0.0 |    |    | =sum  |
-| Gabriel Benigno Santos      | 1.8   | 0.0 |    |    | =sum  |
-| Giorno Nogueira             | 2.0   | 2.0 |    |    | =sum  |
-| Izã Teixeira Santos         | 1.0   | 2.0 |    |    | =sum  |
-| Renato Alves Da Silva Filho | 1.8   | 2.0 |    |    | =sum  |
+| Nome                        | Prova | T1  | T2  | T3 | Final |
+|:----------------------------|:------|:----|:----|:---|:------|
+| Francisco de Assis          | 0.9   | 0.0 | 1.5 |    | =sum  |
+| Gabriel Benigno Santos      | 1.8   | 0.0 | 0.0 |    | =sum  |
+| Giorno Nogueira             | 2.0   | 2.0 | 2.0 |    | =sum  |
+| Izã Teixeira Santos         | 1.0   | 2.0 | 0.0 |    | =sum  |
+| Renato Alves Da Silva Filho | 1.8   | 2.0 | 2.0 |    | =sum  |
 {: .collapse #notas-table}
 
 
@@ -136,29 +136,12 @@ chamada implicará na manutenção automática e definitiva da nota zero.
 [3]: https://drive.google.com/file/d/1L_fAJVWGdzKPM4oh5l7K1x6TWdFP0-my/view?usp=drive_link
 [4]: https://drive.google.com/file/d/1sYI06dyfx3mQN6YW4B7OJVLS59r6FUfB/view?usp=drive_link
 
-
-<!--
-
-- **Trabalho 3** (4 pontos): Fazer uma redução analítica dos primeiros 23
-  compassos da Sinfonia 1 de N. Rimsky-Korsakov. [pdf][5] e [mp3][6]
-
-  - Use um sistema separado para cada naipe. Ou seja, um sistema para madeiras,
-    outro para metais e outro para cordas. Talvez você precise de mais pautas.
-    Ignore o tímpano. Você pode ver um exemplo de redução do 1o compasso
-    [aqui][7].
-
-  - Marque os instrumentos que tocam cada parte com abreviações (ver exemplo).
-
-  - Não é necessário indicar a dinâmica.
-
-  - Observe cuidadosamente o uso das madeiras e metais, especialmente quando a2
-    ou separadamente (ou seja, primeiro e segundo). Além da redução, escreva um
-    breve parágrafo analisando o uso de instrumentos de sopros a2 ou
-    individualmente.
-
-  - Você deverá entregar um pdf com a redução, um mp3 e o parágrafo com a
-    analise em pdf.
--->
+- **Trabalho 3** (2 pontos): Componha uma pequena obra para percussão
+  e bateria. O número de percussionistas é livre. O objetivo desse
+  trabalho é se familiarizar com a escrita para percussão em geral, e
+  o uso do seu programa de notação para a escrita de percussão e
+  bateria em particular. Você deve entregar uma partitura em pdf e uma
+  performance midi em mp3.
 
 ## Materiais
 
