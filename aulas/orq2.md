@@ -137,11 +137,11 @@ chamada implicará na manutenção automática e definitiva da nota zero.
 [4]: https://drive.google.com/file/d/1sYI06dyfx3mQN6YW4B7OJVLS59r6FUfB/view?usp=drive_link
 
 - **Trabalho 3** (2 pontos): Componha uma pequena obra para percussão
-  e bateria. O número de percussionistas é livre. O objetivo desse
-  trabalho é se familiarizar com a escrita para percussão em geral, e
-  o uso do seu programa de notação para a escrita de percussão e
-  bateria em particular. Você deve entregar uma partitura em pdf e uma
-  performance midi em mp3.
+  e bateria (cerca de 1 minuto). O número de percussionistas é livre.
+  O objetivo desse trabalho é se familiarizar com a escrita para
+  percussão em geral, e o uso do seu programa de notação para a
+  escrita de percussão e bateria em particular. Você deve entregar uma
+  partitura em pdf e uma performance midi em mp3.
 
 ## Materiais
 
