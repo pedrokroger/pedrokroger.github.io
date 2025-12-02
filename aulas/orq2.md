@@ -174,7 +174,7 @@ ser modificado de acordo com a necessidade e eventualidade.
 | Nov 18     | Instrumentos de percussão e teclados |
 | Nov 25     | **Trabalho 2**                       |
 | Dez 2      | Instrumentos de percussão e teclados |
-| Dez 9      | Análise de obras                     |
+| Dez 9      | Instrumentos de percussão e teclados |
 | Dez 16     | **Trabalho 3**                       |
 | ~~Dez 23~~ | *Recesso Natal e Ano Novo*           |
 | ~~Dez 30~~ | *Recesso Natal e Ano Novo*           |
