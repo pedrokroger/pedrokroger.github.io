@@ -12,13 +12,13 @@ formas da música sinfônica e sinfônico-coral.
 | Nome                  | Pres | Prova | Análise | Seminário | Final |
 |:----------------------|:-----|:------|:--------|:----------|:------|
 | Camila Ceuta Ramos    |      |       |         |           | =sum  |
-| Daniel Lopes          |      | 1.8   | 3.0     |           | =sum  |
-| Iuri Nery Conceição   |      | 1.5   | 2.0     |           | =sum  |
-| Jaqueline Cardoso     |      | 1.4   | 3.0     |           | =sum  |
-| Marcos William Santos |      | 1.9   | 3.0     |           | =sum  |
-| Rafael Espinheira     |      | 1.4   | 3.0     |           | =sum  |
-| Roberto José Santana  |      | 1.8   | 3.0     |           | =sum  |
-| Vicente Sanches       |      | 2.0   | 3.0     |           | =sum  |
+| Daniel Lopes          | 2.0  | 1.8   | 3.0     | 3.0       | =sum  |
+| Iuri Nery Conceição   | 1.5  | 1.5   | 2.0     | 3.0       | =sum  |
+| Jaqueline Cardoso     | 1.5  | 1.4   | 3.0     | 3.0       | =sum  |
+| Marcos William Santos | 2.0  | 1.9   | 3.0     | 3.0       | =sum  |
+| Rafael Espinheira     | 2.0  | 1.4   | 3.0     | 3.0       | =sum  |
+| Roberto José Santana  | 2.0  | 1.8   | 3.0     | 3.0       | =sum  |
+| Vicente Sanches       | 1.5  | 2.0   | 3.0     | 3.0       | =sum  |
 {: .collapse #notas-table}
 
 
