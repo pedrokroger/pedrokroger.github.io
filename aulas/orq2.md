@@ -16,7 +16,7 @@ desde o Barroco até o século XX. Continuação de Instrumentação e Orquestra
 {% notas %}
 | Nome                        | Prova | T1  | T2  | T3  | Part | Final |
 |:----------------------------|:------|:----|:----|:----|------|:------|
-| Francisco de Assis          | 0.9   | 0.0 | 1.5 |     |      | =sum  |
+| Francisco de Assis          | 0.9   | 0.0 | 1.5 | 2.0 | 1.0  | =sum  |
 | Gabriel Benigno Santos      | 1.8   | 0.0 | 0.0 | 0.0 | 0.5  | =sum  |
 | Giorno Nogueira             | 2.0   | 2.0 | 2.0 | 2.0 | 2.0  | =sum  |
 | Izã Teixeira Santos         | 1.0   | 2.0 | 0.0 | 2.0 | 1.0  | =sum  |
