@@ -37,13 +37,6 @@ A avaliação final será a soma de 4 notas:
 - 1 análise de obra (3 pts)
 - 1 seminário oral com a apresentação de um tópico (3 pts)
 
-<!-- 2.0/21 -->
-A nota por assiduidade será inversamente proporcional ao número de faltas
-(excluindo apenas direito assegurado em legislação ou motivo de saúde comprovado
-por atestado médico). Cada falta corresponderá a uma perda de 0.08 pontos (2.0/número
-de aulas).
-
-
 ### Envio de Trabalhos
 
 Por razões de segurança não serão mais aceitos trabalhos em *pen
