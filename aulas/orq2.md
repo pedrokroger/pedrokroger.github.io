@@ -37,7 +37,6 @@ A avaliação final será a soma de 4 notas:
 Por razões de segurança não serão mais aceitos trabalhos em *pen drive*. Os trabalhos deverão unicamente ser entregues via email para [pedro.kroger@gmail.com](mailto:pedro.kroger@gmail.com) ou na sala de aula por algum meio sem fio como [LocalSend]({% link docs/localsend.md %}).
 
 
-<!--
 ### Prova de Audição e Análise
 
 A parte de análise e revisão terá questões relativas a assuntos vistos em sala
@@ -75,7 +74,6 @@ abaixo, ou baixar um arquivo zip com todas as músicas: [arquivo zip][11]
 [11]: https://drive.google.com/file/d/1R-TtEoAXoZNaZbrD8Wcmn_FtBhyuzRNy/view?usp=drive_link
 
 [15]: https://drive.google.com/file/d/1frVllfZDWGHtD4uMASZ-a8SklJy9w2oW/view?usp=sharing
--->
 
 ### Segunda Chamada
 
