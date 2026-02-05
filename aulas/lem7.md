@@ -48,8 +48,6 @@ A avaliação final será a soma de 3 notas:
  - 1 análise de obra (3.5 pontos)
  - 1 seminário oral com a apresentação de um tópico (3.5 pontos)
 
-<!--
-
 ### Prova de Audição e Análise
 
 A parte de análise e revisão terá questões relativas a assuntos vistos em sala
@@ -104,8 +102,6 @@ Alguns alunos(as) ficaram com duas obras devido ao tamanho curto das obras selec
 | Thomas Tallis - Missa a 4 - Gloria (1572)                         | Everaldo  |
 | William Byrd - Missa a 4 - Gloria (1592)                          | Leonardo  |
 | William Byrd - Missa a 4 - Kyrie (1592)                           | Mateus    |
-
--->
 
 ### Tópicos para os Seminários
 
