@@ -46,7 +46,6 @@ aula por algum meio sem fio como [LocalSend]({% link docs/localsend.md
 %}).
 
 
-<!--
 ### Prova de Audição e Análise
 
 A parte de análise e revisão terá questões relativas a assuntos vistos em sala
@@ -83,9 +82,6 @@ abaixo, ou baixar um arquivo zip com todas as músicas: [arquivo zip][8]
 [6]: https://drive.google.com/file/d/11v_m2SaTHlKsF39nzneNWtDpHyuMhNrT/view?usp=drive_link
 [7]: https://open.spotify.com/playlist/61D0Jb6vRhtpRHCokBIGEf?si=360d38a5f8a1455e
 [8]: https://drive.google.com/file/d/1hFmf5roYSC6buBbPZDxO6dzQ4ceXx_4t/view?usp=sharing
-
--->
-
 
 ### Segunda Chamada
 
